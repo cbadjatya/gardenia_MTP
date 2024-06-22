@@ -1,63 +1,1436 @@
-*** Error in `./bin/swell': free(): invalid size: 0x0000000001df9020 ***
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:   624 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:   732 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:   802 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:  1098 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:  1176 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:  1265 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:  1341 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:  1627 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:  1711 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:  1822 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:  2187 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:  2412 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:  2840 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:  3255 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:  3685 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:  3911 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:  4343 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:  4745 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:  5185 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:  5400 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:  6307 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:  7304 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:  8303 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15:  9493 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 10475 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 11492 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 12507 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 13506 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 14504 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 15736 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+*** Error in `./bin/topo_swell': malloc(): memory corruption: 0x00000000013d9630 ***
 ======= Backtrace: =========
-/lib64/libc.so.6(+0x81489)[0x2af05bd99489]
-/lib64/libc.so.6(+0x8207b)[0x2af05bd9a07b]
-/lib64/libc.so.6(+0x82aba)[0x2af05bd9aaba]
-/lib64/libc.so.6(__libc_malloc+0x4c)[0x2af05bd9d1ac]
-./bin/swell[0x409552]
-./bin/swell[0x405d81]
-/lib64/libc.so.6(__libc_start_main+0xf5)[0x2af05bd3a3d5]
-./bin/swell[0x406d9e]
+/lib64/libc.so.6(+0x82c96)[0x2b6d1593cc96]
+/lib64/libc.so.6(__libc_malloc+0x4c)[0x2b6d1593f1ac]
+./bin/topo_swell[0x409d3f]
+./bin/topo_swell[0x405aad]
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b6d158dc3d5]
+./bin/topo_swell[0x405cde]
 ======= Memory map: ========
-00400000-004a0000 r-xp 00000000 2ba:be5b4 144116399827075555             /lfs/usrhome/mtech/cs22m036/scratch/job1323975/bin/swell
-006a0000-006a4000 r--p 000a0000 2ba:be5b4 144116399827075555             /lfs/usrhome/mtech/cs22m036/scratch/job1323975/bin/swell
-006a4000-006a5000 rw-p 000a4000 2ba:be5b4 144116399827075555             /lfs/usrhome/mtech/cs22m036/scratch/job1323975/bin/swell
-006a5000-006a6000 rw-p 00000000 00:00 0 
-01d89000-01e99000 rw-p 00000000 00:00 0                                  [heap]
-2af05abd9000-2af05abfb000 r-xp 00000000 08:04 49027365                   /usr/lib64/ld-2.17.so
-2af05abfb000-2af05ac00000 rw-p 00000000 00:00 0 
-2af05ac10000-2af05ac19000 rw-p 00000000 00:00 0 
-2af05adfa000-2af05adfb000 r--p 00021000 08:04 49027365                   /usr/lib64/ld-2.17.so
-2af05adfb000-2af05adfc000 rw-p 00022000 08:04 49027365                   /usr/lib64/ld-2.17.so
-2af05adfc000-2af05adfd000 rw-p 00000000 00:00 0 
-2af05adfd000-2af05ae04000 r-xp 00000000 08:04 49026525                   /usr/lib64/librt-2.17.so
-2af05ae04000-2af05b003000 ---p 00007000 08:04 49026525                   /usr/lib64/librt-2.17.so
-2af05b003000-2af05b004000 r--p 00006000 08:04 49026525                   /usr/lib64/librt-2.17.so
-2af05b004000-2af05b005000 rw-p 00007000 08:04 49026525                   /usr/lib64/librt-2.17.so
-2af05b005000-2af05b01c000 r-xp 00000000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
-2af05b01c000-2af05b21b000 ---p 00017000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
-2af05b21b000-2af05b21c000 r--p 00016000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
-2af05b21c000-2af05b21d000 rw-p 00017000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
-2af05b21d000-2af05b221000 rw-p 00000000 00:00 0 
-2af05b221000-2af05b223000 r-xp 00000000 08:04 49026403                   /usr/lib64/libdl-2.17.so
-2af05b223000-2af05b423000 ---p 00002000 08:04 49026403                   /usr/lib64/libdl-2.17.so
-2af05b423000-2af05b424000 r--p 00002000 08:04 49026403                   /usr/lib64/libdl-2.17.so
-2af05b424000-2af05b425000 rw-p 00003000 08:04 49026403                   /usr/lib64/libdl-2.17.so
-2af05b425000-2af05b5ee000 r-xp 00000000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
-2af05b5ee000-2af05b7ed000 ---p 001c9000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
-2af05b7ed000-2af05b7f8000 r--p 001c8000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
-2af05b7f8000-2af05b7fb000 rw-p 001d3000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
-2af05b7fb000-2af05b7fe000 rw-p 00000000 00:00 0 
-2af05b7fe000-2af05b8ff000 r-xp 00000000 08:04 49026903                   /usr/lib64/libm-2.17.so
-2af05b8ff000-2af05bafe000 ---p 00101000 08:04 49026903                   /usr/lib64/libm-2.17.so
-2af05bafe000-2af05baff000 r--p 00100000 08:04 49026903                   /usr/lib64/libm-2.17.so
-2af05baff000-2af05bb00000 rw-p 00101000 08:04 49026903                   /usr/lib64/libm-2.17.so
-2af05bb00000-2af05bb16000 r-xp 00000000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
-2af05bb16000-2af05bd16000 ---p 00016000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
-2af05bd16000-2af05bd17000 r--p 00016000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
-2af05bd17000-2af05bd18000 rw-p 00017000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
-2af05bd18000-2af05beda000 r-xp 00000000 08:04 49027184                   /usr/lib64/libc-2.17.so
-2af05beda000-2af05c0da000 ---p 001c2000 08:04 49027184                   /usr/lib64/libc-2.17.so
-2af05c0da000-2af05c0de000 r--p 001c2000 08:04 49027184                   /usr/lib64/libc-2.17.so
-2af05c0de000-2af05c0e0000 rw-p 001c6000 08:04 49027184                   /usr/lib64/libc-2.17.so
-2af05c0e0000-2af060738000 rw-p 00000000 00:00 0 
-2af06079a000-2af09b48c000 rw-p 00000000 00:00 0 
-2af09c000000-2af09c021000 rw-p 00000000 00:00 0 
-2af09c021000-2af0a0000000 ---p 00000000 00:00 0 
-7ffdccbf5000-7ffdccc20000 rw-p 00000000 00:00 0                          [stack]
-7ffdccd51000-7ffdccd53000 r-xp 00000000 00:00 0                          [vdso]
+00400000-004e4000 r-xp 00000000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e4000-006e8000 r--p 000e4000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e8000-006e9000 rw-p 000e8000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e9000-006ea000 rw-p 00000000 00:00 0 
+00905000-02e6b000 rw-p 00000000 00:00 0                                  [heap]
+200000000-200400000 ---p 00000000 00:00 0 
+200400000-200600000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+200600000-200800000 rw-s 00000000 00:05 165952                           /dev/nvidia0
+200800000-206000000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+206000000-207000000 ---p 00000000 00:00 0 
+207000000-207200000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207200000-207400000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207400000-207600000 rw-s 207400000 00:05 48615200                        /dev/nvidia-uvm
+207600000-207800000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207800000-207a00000 ---p 00000000 00:00 0 
+207a00000-207c00000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207c00000-207e00000 rw-s 00000000 00:04 757826603                        /dev/zero (deleted)
+207e00000-400200000 ---p 00000000 00:00 0 
+10000000000-10004000000 ---p 00000000 00:00 0 
+2b6d1477b000-2b6d1479d000 r-xp 00000000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2b6d1479d000-2b6d147a1000 rw-p 00000000 00:00 0 
+2b6d147a1000-2b6d147b1000 -w-s 00000000 00:05 165952                     /dev/nvidia0
+2b6d147b1000-2b6d147b2000 r--s 00000000 00:05 165952                     /dev/nvidia0
+2b6d147b2000-2b6d147bb000 rw-p 00000000 00:00 0 
+2b6d147bb000-2b6d147cb000 -w-s 00000000 00:05 169643                     /dev/nvidia1
+2b6d147cb000-2b6d147cc000 r--s 00000000 00:05 169643                     /dev/nvidia1
+2b6d147cc000-2b6d14959000 rw-p 00000000 00:00 0 
+2b6d14959000-2b6d1495a000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d1495a000-2b6d1495b000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d1495b000-2b6d1495c000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d1495c000-2b6d1495d000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d1495d000-2b6d1495e000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d1495e000-2b6d1495f000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d1495f000-2b6d14960000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d14960000-2b6d14961000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d14961000-2b6d14962000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d14962000-2b6d14963000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d14963000-2b6d14964000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d14964000-2b6d14965000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d14965000-2b6d14966000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d14966000-2b6d14967000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d14967000-2b6d14968000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d14968000-2b6d14969000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d14969000-2b6d1496a000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d1496a000-2b6d1496b000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d1496b000-2b6d1496c000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d1496c000-2b6d1496d000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d1496d000-2b6d1496e000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d1496e000-2b6d1496f000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d1496f000-2b6d14970000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d14970000-2b6d14971000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d14971000-2b6d14972000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d14972000-2b6d14973000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d14973000-2b6d14974000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d14974000-2b6d14975000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d14975000-2b6d14976000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d14976000-2b6d14977000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d14977000-2b6d14978000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d14978000-2b6d14979000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d14979000-2b6d1497a000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d1497a000-2b6d1497b000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d1497b000-2b6d1497c000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d1497c000-2b6d1497d000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d1497d000-2b6d1497e000 rw-p 00000000 00:00 0 
+2b6d1499c000-2b6d1499d000 r--p 00021000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2b6d1499d000-2b6d1499e000 rw-p 00022000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2b6d1499e000-2b6d1499f000 rw-p 00000000 00:00 0 
+2b6d1499f000-2b6d149a6000 r-xp 00000000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2b6d149a6000-2b6d14ba5000 ---p 00007000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2b6d14ba5000-2b6d14ba6000 r--p 00006000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2b6d14ba6000-2b6d14ba7000 rw-p 00007000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2b6d14ba7000-2b6d14bbe000 r-xp 00000000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2b6d14bbe000-2b6d14dbd000 ---p 00017000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2b6d14dbd000-2b6d14dbe000 r--p 00016000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2b6d14dbe000-2b6d14dbf000 rw-p 00017000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2b6d14dbf000-2b6d14dc3000 rw-p 00000000 00:00 0 
+2b6d14dc3000-2b6d14dc5000 r-xp 00000000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2b6d14dc5000-2b6d14fc5000 ---p 00002000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2b6d14fc5000-2b6d14fc6000 r--p 00002000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2b6d14fc6000-2b6d14fc7000 rw-p 00003000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2b6d14fc7000-2b6d15190000 r-xp 00000000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2b6d15190000-2b6d1538f000 ---p 001c9000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2b6d1538f000-2b6d1539a000 r--p 001c8000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2b6d1539a000-2b6d1539d000 rw-p 001d3000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2b6d1539d000-2b6d153a0000 rw-p 00000000 00:00 0 
+2b6d153a0000-2b6d154a1000 r-xp 00000000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2b6d154a1000-2b6d156a0000 ---p 00101000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2b6d156a0000-2b6d156a1000 r--p 00100000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2b6d156a1000-2b6d156a2000 rw-p 00101000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2b6d156a2000-2b6d156b8000 r-xp 00000000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2b6d156b8000-2b6d158b8000 ---p 00016000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2b6d158b8000-2b6d158b9000 r--p 00016000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2b6d158b9000-2b6d158ba000 rw-p 00017000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2b6d158ba000-2b6d15a7c000 r-xp 00000000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2b6d15a7c000-2b6d15c7c000 ---p 001c2000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2b6d15c7c000-2b6d15c80000 r--p 001c2000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2b6d15c80000-2b6d15c82000 rw-p 001c6000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2b6d15c82000-2b6d191a2000 rw-p 00000000 00:00 0 
+2b6d191a2000-2b6d1a4e6000 r-xp 00000000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2b6d1a4e6000-2b6d1a6e5000 ---p 01344000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2b6d1a6e5000-2b6d1a7d3000 r--p 01343000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2b6d1a7d3000-2b6d1a8de000 rw-p 01431000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2b6d1a8de000-2b6d1a8fe000 rw-p 00000000 00:00 0 
+2b6d1a8fe000-2b6d208fe000 ---p 00000000 00:00 0 
+2b6d208fe000-2b6d208ff000 ---p 00000000 00:00 0 
+2b6d208ff000-2b6d20aff000 rw-p 00000000 00:00 0 
+2b6d20aff000-2b6d20b00000 ---p 00000000 00:00 0 
+2b6d20b00000-2b6d20f18000 rw-p 00000000 00:00 0 
+2b6d24000000-2b6d24021000 rw-p 00000000 00:00 0 
+2b6d24021000-2b6d28000000 ---p 00000000 00:00 0 
+2b6d28000000-2b6d28021000 rw-p 00000000 00:00 0 
+2b6d28021000-2b6d2c000000 ---p 00000000 00:00 0 
+2b6d2c000000-2b6d2c400000 ---p 00000000 00:00 0 
+2b6d2c400000-2b6d2c600000 rw-s 00000000 00:04 757826601                  /dev/zero (deleted)
+2b6d2c600000-2b6d2c800000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d2c800000-2b6d2ca00000 rw-s 00000000 00:04 757826602                  /dev/zero (deleted)
+2b6d2ca00000-2b6d2d000000 ---p 00000000 00:00 0 
+2b6d2d000000-2b6d2d200000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d2d200000-2b6d2d400000 rw-s 00000000 00:04 757826604                  /dev/zero (deleted)
+2b6d2d400000-2b6d2d619000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6d2d619000-2b6d2e000000 ---p 00000000 00:00 0 
+2b6d30000000-2b6d56000000 ---p 00000000 00:00 0 
+2b6d58000000-2b6d58021000 rw-p 00000000 00:00 0 
+2b6d58021000-2b6d5c000000 ---p 00000000 00:00 0 
+7ffe9db09000-7ffe9db34000 rw-p 00000000 00:00 0                          [stack]
+7ffe9dbc7000-7ffe9dbc9000 r-xp 00000000 00:00 0                          [vdso]
 ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
-/var/spool/pbs/mom_priv/jobs/1323975.hn1.SC: line 15: 24019 Aborted                 (core dumped) ./bin/swell mtx "$full_file_no_ext" 350 >> "${filename_no_ext}_swell.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 15917 Aborted                 (core dumped) ./bin/topo_swell mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_swell.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 15952 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+*** Error in `./bin/topo_swell': malloc(): memory corruption: 0x0000000001b94660 ***
+======= Backtrace: =========
+/lib64/libc.so.6(+0x82c96)[0x2afe6680ec96]
+/lib64/libc.so.6(__libc_malloc+0x4c)[0x2afe668111ac]
+./bin/topo_swell[0x409d3f]
+./bin/topo_swell[0x405aad]
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2afe667ae3d5]
+./bin/topo_swell[0x405cde]
+======= Memory map: ========
+00400000-004e4000 r-xp 00000000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e4000-006e8000 r--p 000e4000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e8000-006e9000 rw-p 000e8000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e9000-006ea000 rw-p 00000000 00:00 0 
+010c0000-03626000 rw-p 00000000 00:00 0                                  [heap]
+200000000-200400000 ---p 00000000 00:00 0 
+200400000-200600000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+200600000-200800000 rw-s 00000000 00:05 165952                           /dev/nvidia0
+200800000-206000000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+206000000-207000000 ---p 00000000 00:00 0 
+207000000-207200000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207200000-207400000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207400000-207600000 rw-s 207400000 00:05 48615200                        /dev/nvidia-uvm
+207600000-207800000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207800000-207a00000 ---p 00000000 00:00 0 
+207a00000-207c00000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207c00000-207e00000 rw-s 00000000 00:04 757826624                        /dev/zero (deleted)
+207e00000-400200000 ---p 00000000 00:00 0 
+10000000000-10004000000 ---p 00000000 00:00 0 
+2afe6564d000-2afe6566f000 r-xp 00000000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2afe6566f000-2afe65673000 rw-p 00000000 00:00 0 
+2afe65673000-2afe65683000 -w-s 00000000 00:05 165952                     /dev/nvidia0
+2afe65683000-2afe65684000 r--s 00000000 00:05 165952                     /dev/nvidia0
+2afe65684000-2afe6568d000 rw-p 00000000 00:00 0 
+2afe6568d000-2afe6569d000 -w-s 00000000 00:05 169643                     /dev/nvidia1
+2afe6569d000-2afe6569e000 r--s 00000000 00:05 169643                     /dev/nvidia1
+2afe6569e000-2afe6582b000 rw-p 00000000 00:00 0 
+2afe6582b000-2afe6582c000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe6582c000-2afe6582d000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe6582d000-2afe6582e000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe6582e000-2afe6582f000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe6582f000-2afe65830000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe65830000-2afe65831000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe65831000-2afe65832000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe65832000-2afe65833000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe65833000-2afe65834000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe65834000-2afe65835000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe65835000-2afe65836000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe65836000-2afe65837000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe65837000-2afe65838000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe65838000-2afe65839000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe65839000-2afe6583a000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe6583a000-2afe6583b000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe6583b000-2afe6583c000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe6583c000-2afe6583d000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe6583d000-2afe6583e000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe6583e000-2afe6583f000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe6583f000-2afe65840000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe65840000-2afe65841000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe65841000-2afe65842000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe65842000-2afe65843000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe65843000-2afe65844000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe65844000-2afe65845000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe65845000-2afe65846000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe65846000-2afe65847000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe65847000-2afe65848000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe65848000-2afe65849000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe65849000-2afe6584a000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe6584a000-2afe6584b000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe6584b000-2afe6584c000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe6584c000-2afe6584d000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe6584d000-2afe6584e000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe6584e000-2afe6584f000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe6584f000-2afe65850000 rw-p 00000000 00:00 0 
+2afe6586e000-2afe6586f000 r--p 00021000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2afe6586f000-2afe65870000 rw-p 00022000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2afe65870000-2afe65871000 rw-p 00000000 00:00 0 
+2afe65871000-2afe65878000 r-xp 00000000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2afe65878000-2afe65a77000 ---p 00007000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2afe65a77000-2afe65a78000 r--p 00006000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2afe65a78000-2afe65a79000 rw-p 00007000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2afe65a79000-2afe65a90000 r-xp 00000000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2afe65a90000-2afe65c8f000 ---p 00017000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2afe65c8f000-2afe65c90000 r--p 00016000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2afe65c90000-2afe65c91000 rw-p 00017000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2afe65c91000-2afe65c95000 rw-p 00000000 00:00 0 
+2afe65c95000-2afe65c97000 r-xp 00000000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2afe65c97000-2afe65e97000 ---p 00002000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2afe65e97000-2afe65e98000 r--p 00002000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2afe65e98000-2afe65e99000 rw-p 00003000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2afe65e99000-2afe66062000 r-xp 00000000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2afe66062000-2afe66261000 ---p 001c9000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2afe66261000-2afe6626c000 r--p 001c8000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2afe6626c000-2afe6626f000 rw-p 001d3000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2afe6626f000-2afe66272000 rw-p 00000000 00:00 0 
+2afe66272000-2afe66373000 r-xp 00000000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2afe66373000-2afe66572000 ---p 00101000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2afe66572000-2afe66573000 r--p 00100000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2afe66573000-2afe66574000 rw-p 00101000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2afe66574000-2afe6658a000 r-xp 00000000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2afe6658a000-2afe6678a000 ---p 00016000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2afe6678a000-2afe6678b000 r--p 00016000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2afe6678b000-2afe6678c000 rw-p 00017000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2afe6678c000-2afe6694e000 r-xp 00000000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2afe6694e000-2afe66b4e000 ---p 001c2000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2afe66b4e000-2afe66b52000 r--p 001c2000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2afe66b52000-2afe66b54000 rw-p 001c6000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2afe66b54000-2afe6a074000 rw-p 00000000 00:00 0 
+2afe6a074000-2afe6b3b8000 r-xp 00000000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2afe6b3b8000-2afe6b5b7000 ---p 01344000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2afe6b5b7000-2afe6b6a5000 r--p 01343000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2afe6b6a5000-2afe6b7b0000 rw-p 01431000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2afe6b7b0000-2afe6b7d0000 rw-p 00000000 00:00 0 
+2afe6b7d0000-2afe717d0000 ---p 00000000 00:00 0 
+2afe717d0000-2afe717d1000 ---p 00000000 00:00 0 
+2afe717d1000-2afe719d1000 rw-p 00000000 00:00 0 
+2afe719d1000-2afe719d2000 ---p 00000000 00:00 0 
+2afe719d2000-2afe71dea000 rw-p 00000000 00:00 0 
+2afe74000000-2afe74021000 rw-p 00000000 00:00 0 
+2afe74021000-2afe78000000 ---p 00000000 00:00 0 
+2afe78000000-2afe78021000 rw-p 00000000 00:00 0 
+2afe78021000-2afe7c000000 ---p 00000000 00:00 0 
+2afe7c000000-2afe7c400000 ---p 00000000 00:00 0 
+2afe7c400000-2afe7c600000 rw-s 00000000 00:04 757826622                  /dev/zero (deleted)
+2afe7c600000-2afe7c800000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe7c800000-2afe7ca00000 rw-s 00000000 00:04 757826623                  /dev/zero (deleted)
+2afe7ca00000-2afe7d000000 ---p 00000000 00:00 0 
+2afe7d000000-2afe7d200000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe7d200000-2afe7d400000 rw-s 00000000 00:04 757826625                  /dev/zero (deleted)
+2afe7d400000-2afe7d619000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe7d619000-2afe7e000000 ---p 00000000 00:00 0 
+2afe80000000-2afea6000000 ---p 00000000 00:00 0 
+2afea8000000-2afea8021000 rw-p 00000000 00:00 0 
+2afea8021000-2afeac000000 ---p 00000000 00:00 0 
+7ffd43e1e000-7ffd43e49000 rw-p 00000000 00:00 0                          [stack]
+7ffd43e4d000-7ffd43e4f000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 15972 Aborted                 (core dumped) ./bin/topo_swell mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_swell.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 16081 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+*** Error in `./bin/topo_swell': malloc(): memory corruption: 0x0000000002199590 ***
+======= Backtrace: =========
+/lib64/libc.so.6(+0x82c96)[0x2afe9404bc96]
+/lib64/libc.so.6(__libc_malloc+0x4c)[0x2afe9404e1ac]
+./bin/topo_swell[0x409d3f]
+./bin/topo_swell[0x405aad]
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2afe93feb3d5]
+./bin/topo_swell[0x405cde]
+======= Memory map: ========
+00400000-004e4000 r-xp 00000000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e4000-006e8000 r--p 000e4000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e8000-006e9000 rw-p 000e8000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e9000-006ea000 rw-p 00000000 00:00 0 
+016c5000-03c2b000 rw-p 00000000 00:00 0                                  [heap]
+200000000-200400000 ---p 00000000 00:00 0 
+200400000-200600000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+200600000-200800000 rw-s 00000000 00:05 165952                           /dev/nvidia0
+200800000-206000000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+206000000-207000000 ---p 00000000 00:00 0 
+207000000-207200000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207200000-207400000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207400000-207600000 rw-s 207400000 00:05 48615200                        /dev/nvidia-uvm
+207600000-207800000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207800000-207a00000 ---p 00000000 00:00 0 
+207a00000-207c00000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207c00000-207e00000 rw-s 00000000 00:04 757808531                        /dev/zero (deleted)
+207e00000-400200000 ---p 00000000 00:00 0 
+10000000000-10004000000 ---p 00000000 00:00 0 
+2afe92e8a000-2afe92eac000 r-xp 00000000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2afe92eac000-2afe92eb0000 rw-p 00000000 00:00 0 
+2afe92eb0000-2afe92ec0000 -w-s 00000000 00:05 165952                     /dev/nvidia0
+2afe92ec0000-2afe92ec1000 r--s 00000000 00:05 165952                     /dev/nvidia0
+2afe92ec1000-2afe92eca000 rw-p 00000000 00:00 0 
+2afe92eca000-2afe92eda000 -w-s 00000000 00:05 169643                     /dev/nvidia1
+2afe92eda000-2afe92edb000 r--s 00000000 00:05 169643                     /dev/nvidia1
+2afe92edb000-2afe93068000 rw-p 00000000 00:00 0 
+2afe93068000-2afe93069000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe93069000-2afe9306a000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe9306a000-2afe9306b000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe9306b000-2afe9306c000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe9306c000-2afe9306d000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe9306d000-2afe9306e000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe9306e000-2afe9306f000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe9306f000-2afe93070000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe93070000-2afe93071000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe93071000-2afe93072000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe93072000-2afe93073000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe93073000-2afe93074000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe93074000-2afe93075000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe93075000-2afe93076000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe93076000-2afe93077000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe93077000-2afe93078000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe93078000-2afe93079000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe93079000-2afe9307a000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe9307a000-2afe9307b000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe9307b000-2afe9307c000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe9307c000-2afe9307d000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe9307d000-2afe9307e000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe9307e000-2afe9307f000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe9307f000-2afe93080000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe93080000-2afe93081000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe93081000-2afe93082000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe93082000-2afe93083000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe93083000-2afe93084000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe93084000-2afe93085000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe93085000-2afe93086000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe93086000-2afe93087000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe93087000-2afe93088000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe93088000-2afe93089000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe93089000-2afe9308a000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe9308a000-2afe9308b000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe9308b000-2afe9308c000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afe9308c000-2afe9308d000 rw-p 00000000 00:00 0 
+2afe930ab000-2afe930ac000 r--p 00021000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2afe930ac000-2afe930ad000 rw-p 00022000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2afe930ad000-2afe930ae000 rw-p 00000000 00:00 0 
+2afe930ae000-2afe930b5000 r-xp 00000000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2afe930b5000-2afe932b4000 ---p 00007000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2afe932b4000-2afe932b5000 r--p 00006000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2afe932b5000-2afe932b6000 rw-p 00007000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2afe932b6000-2afe932cd000 r-xp 00000000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2afe932cd000-2afe934cc000 ---p 00017000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2afe934cc000-2afe934cd000 r--p 00016000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2afe934cd000-2afe934ce000 rw-p 00017000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2afe934ce000-2afe934d2000 rw-p 00000000 00:00 0 
+2afe934d2000-2afe934d4000 r-xp 00000000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2afe934d4000-2afe936d4000 ---p 00002000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2afe936d4000-2afe936d5000 r--p 00002000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2afe936d5000-2afe936d6000 rw-p 00003000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2afe936d6000-2afe9389f000 r-xp 00000000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2afe9389f000-2afe93a9e000 ---p 001c9000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2afe93a9e000-2afe93aa9000 r--p 001c8000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2afe93aa9000-2afe93aac000 rw-p 001d3000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2afe93aac000-2afe93aaf000 rw-p 00000000 00:00 0 
+2afe93aaf000-2afe93bb0000 r-xp 00000000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2afe93bb0000-2afe93daf000 ---p 00101000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2afe93daf000-2afe93db0000 r--p 00100000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2afe93db0000-2afe93db1000 rw-p 00101000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2afe93db1000-2afe93dc7000 r-xp 00000000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2afe93dc7000-2afe93fc7000 ---p 00016000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2afe93fc7000-2afe93fc8000 r--p 00016000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2afe93fc8000-2afe93fc9000 rw-p 00017000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2afe93fc9000-2afe9418b000 r-xp 00000000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2afe9418b000-2afe9438b000 ---p 001c2000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2afe9438b000-2afe9438f000 r--p 001c2000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2afe9438f000-2afe94391000 rw-p 001c6000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2afe94391000-2afe978b1000 rw-p 00000000 00:00 0 
+2afe978b1000-2afe98bf5000 r-xp 00000000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2afe98bf5000-2afe98df4000 ---p 01344000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2afe98df4000-2afe98ee2000 r--p 01343000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2afe98ee2000-2afe98fed000 rw-p 01431000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2afe98fed000-2afe9900d000 rw-p 00000000 00:00 0 
+2afe9900d000-2afe9f00d000 ---p 00000000 00:00 0 
+2afe9f00d000-2afe9f00e000 ---p 00000000 00:00 0 
+2afe9f00e000-2afe9f20e000 rw-p 00000000 00:00 0 
+2afe9f20e000-2afe9f20f000 ---p 00000000 00:00 0 
+2afe9f20f000-2afe9f627000 rw-p 00000000 00:00 0 
+2afea0000000-2afeb0000000 ---p 00000000 00:00 0 
+2afeb0000000-2afeb0021000 rw-p 00000000 00:00 0 
+2afeb0021000-2afeb4000000 ---p 00000000 00:00 0 
+2afeb4000000-2afeb4021000 rw-p 00000000 00:00 0 
+2afeb4021000-2afeb8000000 ---p 00000000 00:00 0 
+2afeb8000000-2afeb8400000 ---p 00000000 00:00 0 
+2afeb8400000-2afeb8600000 rw-s 00000000 00:04 757808529                  /dev/zero (deleted)
+2afeb8600000-2afeb8800000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afeb8800000-2afeb8a00000 rw-s 00000000 00:04 757808530                  /dev/zero (deleted)
+2afeb8a00000-2afeb9000000 ---p 00000000 00:00 0 
+2afeb9000000-2afeb9200000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afeb9200000-2afeb9400000 rw-s 00000000 00:04 757808532                  /dev/zero (deleted)
+2afeb9400000-2afeb9619000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2afeb9619000-2afed0000000 ---p 00000000 00:00 0 
+2afed0000000-2afed0021000 rw-p 00000000 00:00 0 
+2afed0021000-2afed4000000 ---p 00000000 00:00 0 
+7ffd65137000-7ffd65162000 rw-p 00000000 00:00 0                          [stack]
+7ffd6517b000-7ffd6517d000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 16210 Aborted                 (core dumped) ./bin/topo_swell mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_swell.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 16278 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+*** Error in `./bin/topo_swell': malloc(): memory corruption: 0x00000000028e25c0 ***
+======= Backtrace: =========
+/lib64/libc.so.6(+0x82c96)[0x2abda3d1ac96]
+/lib64/libc.so.6(__libc_malloc+0x4c)[0x2abda3d1d1ac]
+./bin/topo_swell[0x409d3f]
+./bin/topo_swell[0x405aad]
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2abda3cba3d5]
+./bin/topo_swell[0x405cde]
+======= Memory map: ========
+00400000-004e4000 r-xp 00000000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e4000-006e8000 r--p 000e4000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e8000-006e9000 rw-p 000e8000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e9000-006ea000 rw-p 00000000 00:00 0 
+01e0e000-04374000 rw-p 00000000 00:00 0                                  [heap]
+200000000-200400000 ---p 00000000 00:00 0 
+200400000-200600000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+200600000-200800000 rw-s 00000000 00:05 165952                           /dev/nvidia0
+200800000-206000000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+206000000-207000000 ---p 00000000 00:00 0 
+207000000-207200000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207200000-207400000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207400000-207600000 rw-s 207400000 00:05 48615200                        /dev/nvidia-uvm
+207600000-207800000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207800000-207a00000 ---p 00000000 00:00 0 
+207a00000-207c00000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207c00000-207e00000 rw-s 00000000 00:04 757809614                        /dev/zero (deleted)
+207e00000-400200000 ---p 00000000 00:00 0 
+10000000000-10004000000 ---p 00000000 00:00 0 
+2abda2b59000-2abda2b7b000 r-xp 00000000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2abda2b7b000-2abda2b7f000 rw-p 00000000 00:00 0 
+2abda2b7f000-2abda2b8f000 -w-s 00000000 00:05 165952                     /dev/nvidia0
+2abda2b8f000-2abda2b90000 r--s 00000000 00:05 165952                     /dev/nvidia0
+2abda2b90000-2abda2b99000 rw-p 00000000 00:00 0 
+2abda2b99000-2abda2ba9000 -w-s 00000000 00:05 169643                     /dev/nvidia1
+2abda2ba9000-2abda2baa000 r--s 00000000 00:05 169643                     /dev/nvidia1
+2abda2baa000-2abda2d37000 rw-p 00000000 00:00 0 
+2abda2d37000-2abda2d38000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d38000-2abda2d39000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d39000-2abda2d3a000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d3a000-2abda2d3b000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d3b000-2abda2d3c000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d3c000-2abda2d3d000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d3d000-2abda2d3e000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d3e000-2abda2d3f000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d3f000-2abda2d40000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d40000-2abda2d41000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d41000-2abda2d42000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d42000-2abda2d43000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d43000-2abda2d44000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d44000-2abda2d45000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d45000-2abda2d46000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d46000-2abda2d47000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d47000-2abda2d48000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d48000-2abda2d49000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d49000-2abda2d4a000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d4a000-2abda2d4b000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d4b000-2abda2d4c000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d4c000-2abda2d4d000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d4d000-2abda2d4e000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d4e000-2abda2d4f000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d4f000-2abda2d50000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d50000-2abda2d51000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d51000-2abda2d52000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d52000-2abda2d53000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d53000-2abda2d54000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d54000-2abda2d55000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d55000-2abda2d56000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d56000-2abda2d57000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d57000-2abda2d58000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d58000-2abda2d59000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d59000-2abda2d5a000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d5a000-2abda2d5b000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abda2d5b000-2abda2d5c000 rw-p 00000000 00:00 0 
+2abda2d7a000-2abda2d7b000 r--p 00021000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2abda2d7b000-2abda2d7c000 rw-p 00022000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2abda2d7c000-2abda2d7d000 rw-p 00000000 00:00 0 
+2abda2d7d000-2abda2d84000 r-xp 00000000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2abda2d84000-2abda2f83000 ---p 00007000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2abda2f83000-2abda2f84000 r--p 00006000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2abda2f84000-2abda2f85000 rw-p 00007000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2abda2f85000-2abda2f9c000 r-xp 00000000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2abda2f9c000-2abda319b000 ---p 00017000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2abda319b000-2abda319c000 r--p 00016000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2abda319c000-2abda319d000 rw-p 00017000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2abda319d000-2abda31a1000 rw-p 00000000 00:00 0 
+2abda31a1000-2abda31a3000 r-xp 00000000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2abda31a3000-2abda33a3000 ---p 00002000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2abda33a3000-2abda33a4000 r--p 00002000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2abda33a4000-2abda33a5000 rw-p 00003000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2abda33a5000-2abda356e000 r-xp 00000000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2abda356e000-2abda376d000 ---p 001c9000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2abda376d000-2abda3778000 r--p 001c8000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2abda3778000-2abda377b000 rw-p 001d3000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2abda377b000-2abda377e000 rw-p 00000000 00:00 0 
+2abda377e000-2abda387f000 r-xp 00000000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2abda387f000-2abda3a7e000 ---p 00101000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2abda3a7e000-2abda3a7f000 r--p 00100000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2abda3a7f000-2abda3a80000 rw-p 00101000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2abda3a80000-2abda3a96000 r-xp 00000000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2abda3a96000-2abda3c96000 ---p 00016000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2abda3c96000-2abda3c97000 r--p 00016000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2abda3c97000-2abda3c98000 rw-p 00017000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2abda3c98000-2abda3e5a000 r-xp 00000000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2abda3e5a000-2abda405a000 ---p 001c2000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2abda405a000-2abda405e000 r--p 001c2000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2abda405e000-2abda4060000 rw-p 001c6000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2abda4060000-2abda7580000 rw-p 00000000 00:00 0 
+2abda7580000-2abda88c4000 r-xp 00000000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2abda88c4000-2abda8ac3000 ---p 01344000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2abda8ac3000-2abda8bb1000 r--p 01343000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2abda8bb1000-2abda8cbc000 rw-p 01431000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2abda8cbc000-2abda8cdc000 rw-p 00000000 00:00 0 
+2abda8cdc000-2abdaecdc000 ---p 00000000 00:00 0 
+2abdaecdc000-2abdaecdd000 ---p 00000000 00:00 0 
+2abdaecdd000-2abdaeedd000 rw-p 00000000 00:00 0 
+2abdaeedd000-2abdaeede000 ---p 00000000 00:00 0 
+2abdaeede000-2abdaf2f6000 rw-p 00000000 00:00 0 
+2abdb0000000-2abdc0000000 ---p 00000000 00:00 0 
+2abdc0000000-2abdc0021000 rw-p 00000000 00:00 0 
+2abdc0021000-2abdc4000000 ---p 00000000 00:00 0 
+2abdc4000000-2abdc4021000 rw-p 00000000 00:00 0 
+2abdc4021000-2abdc8000000 ---p 00000000 00:00 0 
+2abdc8000000-2abdc8400000 ---p 00000000 00:00 0 
+2abdc8400000-2abdc8600000 rw-s 00000000 00:04 757809612                  /dev/zero (deleted)
+2abdc8600000-2abdc8800000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abdc8800000-2abdc8a00000 rw-s 00000000 00:04 757809613                  /dev/zero (deleted)
+2abdc8a00000-2abdc9000000 ---p 00000000 00:00 0 
+2abdc9000000-2abdc9200000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abdc9200000-2abdc9400000 rw-s 00000000 00:04 757809615                  /dev/zero (deleted)
+2abdc9400000-2abdc9619000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2abdc9619000-2abde0000000 ---p 00000000 00:00 0 
+2abde0000000-2abde0021000 rw-p 00000000 00:00 0 
+2abde0021000-2abde4000000 ---p 00000000 00:00 0 
+7ffdf0b48000-7ffdf0b73000 rw-p 00000000 00:00 0                          [stack]
+7ffdf0bb7000-7ffdf0bb9000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 16311 Aborted                 (core dumped) ./bin/topo_swell mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_swell.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 16333 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+*** Error in `./bin/topo_swell': malloc(): memory corruption: 0x00000000014985c0 ***
+======= Backtrace: =========
+/lib64/libc.so.6(+0x82c96)[0x2ad75238dc96]
+/lib64/libc.so.6(__libc_malloc+0x4c)[0x2ad7523901ac]
+./bin/topo_swell[0x409d3f]
+./bin/topo_swell[0x405aad]
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2ad75232d3d5]
+./bin/topo_swell[0x405cde]
+======= Memory map: ========
+00400000-004e4000 r-xp 00000000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e4000-006e8000 r--p 000e4000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e8000-006e9000 rw-p 000e8000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e9000-006ea000 rw-p 00000000 00:00 0 
+009c4000-02f2a000 rw-p 00000000 00:00 0                                  [heap]
+200000000-200400000 ---p 00000000 00:00 0 
+200400000-200600000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+200600000-200800000 rw-s 00000000 00:05 165952                           /dev/nvidia0
+200800000-206000000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+206000000-207000000 ---p 00000000 00:00 0 
+207000000-207200000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207200000-207400000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207400000-207600000 rw-s 207400000 00:05 48615200                        /dev/nvidia-uvm
+207600000-207800000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207800000-207a00000 ---p 00000000 00:00 0 
+207a00000-207c00000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207c00000-207e00000 rw-s 00000000 00:04 757811923                        /dev/zero (deleted)
+207e00000-400200000 ---p 00000000 00:00 0 
+10000000000-10004000000 ---p 00000000 00:00 0 
+2ad7511cc000-2ad7511ee000 r-xp 00000000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2ad7511ee000-2ad7511f2000 rw-p 00000000 00:00 0 
+2ad7511f2000-2ad751202000 -w-s 00000000 00:05 165952                     /dev/nvidia0
+2ad751202000-2ad751203000 r--s 00000000 00:05 165952                     /dev/nvidia0
+2ad751203000-2ad75120c000 rw-p 00000000 00:00 0 
+2ad75120c000-2ad75121c000 -w-s 00000000 00:05 169643                     /dev/nvidia1
+2ad75121c000-2ad75121d000 r--s 00000000 00:05 169643                     /dev/nvidia1
+2ad75121d000-2ad7513aa000 rw-p 00000000 00:00 0 
+2ad7513aa000-2ad7513ab000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513ab000-2ad7513ac000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513ac000-2ad7513ad000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513ad000-2ad7513ae000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513ae000-2ad7513af000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513af000-2ad7513b0000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513b0000-2ad7513b1000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513b1000-2ad7513b2000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513b2000-2ad7513b3000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513b3000-2ad7513b4000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513b4000-2ad7513b5000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513b5000-2ad7513b6000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513b6000-2ad7513b7000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513b7000-2ad7513b8000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513b8000-2ad7513b9000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513b9000-2ad7513ba000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513ba000-2ad7513bb000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513bb000-2ad7513bc000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513bc000-2ad7513bd000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513bd000-2ad7513be000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513be000-2ad7513bf000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513bf000-2ad7513c0000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513c0000-2ad7513c1000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513c1000-2ad7513c2000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513c2000-2ad7513c3000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513c3000-2ad7513c4000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513c4000-2ad7513c5000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513c5000-2ad7513c6000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513c6000-2ad7513c7000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513c7000-2ad7513c8000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513c8000-2ad7513c9000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513c9000-2ad7513ca000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513ca000-2ad7513cb000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513cb000-2ad7513cc000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513cc000-2ad7513cd000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513cd000-2ad7513ce000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad7513ce000-2ad7513cf000 rw-p 00000000 00:00 0 
+2ad7513ed000-2ad7513ee000 r--p 00021000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2ad7513ee000-2ad7513ef000 rw-p 00022000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2ad7513ef000-2ad7513f0000 rw-p 00000000 00:00 0 
+2ad7513f0000-2ad7513f7000 r-xp 00000000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2ad7513f7000-2ad7515f6000 ---p 00007000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2ad7515f6000-2ad7515f7000 r--p 00006000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2ad7515f7000-2ad7515f8000 rw-p 00007000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2ad7515f8000-2ad75160f000 r-xp 00000000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2ad75160f000-2ad75180e000 ---p 00017000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2ad75180e000-2ad75180f000 r--p 00016000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2ad75180f000-2ad751810000 rw-p 00017000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2ad751810000-2ad751814000 rw-p 00000000 00:00 0 
+2ad751814000-2ad751816000 r-xp 00000000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2ad751816000-2ad751a16000 ---p 00002000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2ad751a16000-2ad751a17000 r--p 00002000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2ad751a17000-2ad751a18000 rw-p 00003000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2ad751a18000-2ad751be1000 r-xp 00000000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2ad751be1000-2ad751de0000 ---p 001c9000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2ad751de0000-2ad751deb000 r--p 001c8000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2ad751deb000-2ad751dee000 rw-p 001d3000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2ad751dee000-2ad751df1000 rw-p 00000000 00:00 0 
+2ad751df1000-2ad751ef2000 r-xp 00000000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2ad751ef2000-2ad7520f1000 ---p 00101000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2ad7520f1000-2ad7520f2000 r--p 00100000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2ad7520f2000-2ad7520f3000 rw-p 00101000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2ad7520f3000-2ad752109000 r-xp 00000000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2ad752109000-2ad752309000 ---p 00016000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2ad752309000-2ad75230a000 r--p 00016000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2ad75230a000-2ad75230b000 rw-p 00017000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2ad75230b000-2ad7524cd000 r-xp 00000000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2ad7524cd000-2ad7526cd000 ---p 001c2000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2ad7526cd000-2ad7526d1000 r--p 001c2000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2ad7526d1000-2ad7526d3000 rw-p 001c6000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2ad7526d3000-2ad755bf3000 rw-p 00000000 00:00 0 
+2ad755bf3000-2ad756f37000 r-xp 00000000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2ad756f37000-2ad757136000 ---p 01344000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2ad757136000-2ad757224000 r--p 01343000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2ad757224000-2ad75732f000 rw-p 01431000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2ad75732f000-2ad75734f000 rw-p 00000000 00:00 0 
+2ad75734f000-2ad75d34f000 ---p 00000000 00:00 0 
+2ad75d34f000-2ad75d350000 ---p 00000000 00:00 0 
+2ad75d350000-2ad75d550000 rw-p 00000000 00:00 0 
+2ad75d550000-2ad75d551000 ---p 00000000 00:00 0 
+2ad75d551000-2ad75d969000 rw-p 00000000 00:00 0 
+2ad760000000-2ad770000000 ---p 00000000 00:00 0 
+2ad770000000-2ad770021000 rw-p 00000000 00:00 0 
+2ad770021000-2ad774000000 ---p 00000000 00:00 0 
+2ad774000000-2ad774021000 rw-p 00000000 00:00 0 
+2ad774021000-2ad778000000 ---p 00000000 00:00 0 
+2ad778000000-2ad778400000 ---p 00000000 00:00 0 
+2ad778400000-2ad778600000 rw-s 00000000 00:04 757811921                  /dev/zero (deleted)
+2ad778600000-2ad778800000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad778800000-2ad778a00000 rw-s 00000000 00:04 757811922                  /dev/zero (deleted)
+2ad778a00000-2ad779000000 ---p 00000000 00:00 0 
+2ad779000000-2ad779200000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad779200000-2ad779400000 rw-s 00000000 00:04 757811924                  /dev/zero (deleted)
+2ad779400000-2ad779619000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2ad779619000-2ad790000000 ---p 00000000 00:00 0 
+2ad790000000-2ad790021000 rw-p 00000000 00:00 0 
+2ad790021000-2ad794000000 ---p 00000000 00:00 0 
+7ffc2fd3f000-7ffc2fd6a000 rw-p 00000000 00:00 0                          [stack]
+7ffc2fd8f000-7ffc2fd91000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 16351 Aborted                 (core dumped) ./bin/topo_swell mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_swell.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 16386 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+*** Error in `./bin/topo_swell': malloc(): memory corruption: 0x0000000002c2d590 ***
+======= Backtrace: =========
+/lib64/libc.so.6(+0x82c96)[0x2b78a39edc96]
+/lib64/libc.so.6(__libc_malloc+0x4c)[0x2b78a39f01ac]
+./bin/topo_swell[0x409d3f]
+./bin/topo_swell[0x405aad]
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b78a398d3d5]
+./bin/topo_swell[0x405cde]
+======= Memory map: ========
+00400000-004e4000 r-xp 00000000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e4000-006e8000 r--p 000e4000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e8000-006e9000 rw-p 000e8000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e9000-006ea000 rw-p 00000000 00:00 0 
+02159000-046bf000 rw-p 00000000 00:00 0                                  [heap]
+200000000-200400000 ---p 00000000 00:00 0 
+200400000-200600000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+200600000-200800000 rw-s 00000000 00:05 165952                           /dev/nvidia0
+200800000-206000000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+206000000-207000000 ---p 00000000 00:00 0 
+207000000-207200000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207200000-207400000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207400000-207600000 rw-s 207400000 00:05 48615200                        /dev/nvidia-uvm
+207600000-207800000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207800000-207a00000 ---p 00000000 00:00 0 
+207a00000-207c00000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207c00000-207e00000 rw-s 00000000 00:04 757808596                        /dev/zero (deleted)
+207e00000-400200000 ---p 00000000 00:00 0 
+10000000000-10004000000 ---p 00000000 00:00 0 
+2b78a282c000-2b78a284e000 r-xp 00000000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2b78a284e000-2b78a2852000 rw-p 00000000 00:00 0 
+2b78a2852000-2b78a2862000 -w-s 00000000 00:05 165952                     /dev/nvidia0
+2b78a2862000-2b78a2863000 r--s 00000000 00:05 165952                     /dev/nvidia0
+2b78a2863000-2b78a286c000 rw-p 00000000 00:00 0 
+2b78a286c000-2b78a287c000 -w-s 00000000 00:05 169643                     /dev/nvidia1
+2b78a287c000-2b78a287d000 r--s 00000000 00:05 169643                     /dev/nvidia1
+2b78a287d000-2b78a2a0a000 rw-p 00000000 00:00 0 
+2b78a2a0a000-2b78a2a0b000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a0b000-2b78a2a0c000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a0c000-2b78a2a0d000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a0d000-2b78a2a0e000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a0e000-2b78a2a0f000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a0f000-2b78a2a10000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a10000-2b78a2a11000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a11000-2b78a2a12000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a12000-2b78a2a13000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a13000-2b78a2a14000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a14000-2b78a2a15000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a15000-2b78a2a16000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a16000-2b78a2a17000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a17000-2b78a2a18000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a18000-2b78a2a19000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a19000-2b78a2a1a000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a1a000-2b78a2a1b000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a1b000-2b78a2a1c000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a1c000-2b78a2a1d000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a1d000-2b78a2a1e000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a1e000-2b78a2a1f000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a1f000-2b78a2a20000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a20000-2b78a2a21000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a21000-2b78a2a22000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a22000-2b78a2a23000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a23000-2b78a2a24000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a24000-2b78a2a25000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a25000-2b78a2a26000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a26000-2b78a2a27000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a27000-2b78a2a28000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a28000-2b78a2a29000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a29000-2b78a2a2a000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a2a000-2b78a2a2b000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a2b000-2b78a2a2c000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a2c000-2b78a2a2d000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a2d000-2b78a2a2e000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78a2a2e000-2b78a2a2f000 rw-p 00000000 00:00 0 
+2b78a2a4d000-2b78a2a4e000 r--p 00021000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2b78a2a4e000-2b78a2a4f000 rw-p 00022000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2b78a2a4f000-2b78a2a50000 rw-p 00000000 00:00 0 
+2b78a2a50000-2b78a2a57000 r-xp 00000000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2b78a2a57000-2b78a2c56000 ---p 00007000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2b78a2c56000-2b78a2c57000 r--p 00006000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2b78a2c57000-2b78a2c58000 rw-p 00007000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2b78a2c58000-2b78a2c6f000 r-xp 00000000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2b78a2c6f000-2b78a2e6e000 ---p 00017000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2b78a2e6e000-2b78a2e6f000 r--p 00016000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2b78a2e6f000-2b78a2e70000 rw-p 00017000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2b78a2e70000-2b78a2e74000 rw-p 00000000 00:00 0 
+2b78a2e74000-2b78a2e76000 r-xp 00000000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2b78a2e76000-2b78a3076000 ---p 00002000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2b78a3076000-2b78a3077000 r--p 00002000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2b78a3077000-2b78a3078000 rw-p 00003000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2b78a3078000-2b78a3241000 r-xp 00000000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2b78a3241000-2b78a3440000 ---p 001c9000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2b78a3440000-2b78a344b000 r--p 001c8000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2b78a344b000-2b78a344e000 rw-p 001d3000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2b78a344e000-2b78a3451000 rw-p 00000000 00:00 0 
+2b78a3451000-2b78a3552000 r-xp 00000000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2b78a3552000-2b78a3751000 ---p 00101000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2b78a3751000-2b78a3752000 r--p 00100000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2b78a3752000-2b78a3753000 rw-p 00101000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2b78a3753000-2b78a3769000 r-xp 00000000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2b78a3769000-2b78a3969000 ---p 00016000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2b78a3969000-2b78a396a000 r--p 00016000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2b78a396a000-2b78a396b000 rw-p 00017000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2b78a396b000-2b78a3b2d000 r-xp 00000000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2b78a3b2d000-2b78a3d2d000 ---p 001c2000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2b78a3d2d000-2b78a3d31000 r--p 001c2000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2b78a3d31000-2b78a3d33000 rw-p 001c6000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2b78a3d33000-2b78a7253000 rw-p 00000000 00:00 0 
+2b78a7253000-2b78a8597000 r-xp 00000000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2b78a8597000-2b78a8796000 ---p 01344000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2b78a8796000-2b78a8884000 r--p 01343000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2b78a8884000-2b78a898f000 rw-p 01431000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2b78a898f000-2b78a89af000 rw-p 00000000 00:00 0 
+2b78a89af000-2b78ae9af000 ---p 00000000 00:00 0 
+2b78ae9af000-2b78ae9b0000 ---p 00000000 00:00 0 
+2b78ae9b0000-2b78aebb0000 rw-p 00000000 00:00 0 
+2b78aebb0000-2b78aebb1000 ---p 00000000 00:00 0 
+2b78aebb1000-2b78aefc9000 rw-p 00000000 00:00 0 
+2b78b0000000-2b78c0000000 ---p 00000000 00:00 0 
+2b78c0000000-2b78c0021000 rw-p 00000000 00:00 0 
+2b78c0021000-2b78c4000000 ---p 00000000 00:00 0 
+2b78c4000000-2b78c4021000 rw-p 00000000 00:00 0 
+2b78c4021000-2b78c8000000 ---p 00000000 00:00 0 
+2b78c8000000-2b78c8400000 ---p 00000000 00:00 0 
+2b78c8400000-2b78c8600000 rw-s 00000000 00:04 757808594                  /dev/zero (deleted)
+2b78c8600000-2b78c8800000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78c8800000-2b78c8a00000 rw-s 00000000 00:04 757808595                  /dev/zero (deleted)
+2b78c8a00000-2b78c9000000 ---p 00000000 00:00 0 
+2b78c9000000-2b78c9200000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78c9200000-2b78c9400000 rw-s 00000000 00:04 757808597                  /dev/zero (deleted)
+2b78c9400000-2b78c9619000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b78c9619000-2b78e0000000 ---p 00000000 00:00 0 
+2b78e0000000-2b78e0021000 rw-p 00000000 00:00 0 
+2b78e0021000-2b78e4000000 ---p 00000000 00:00 0 
+7ffcdd978000-7ffcdd9a3000 rw-p 00000000 00:00 0                          [stack]
+7ffcdd9a7000-7ffcdd9a9000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 16406 Aborted                 (core dumped) ./bin/topo_swell mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_swell.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 16441 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+*** Error in `./bin/topo_swell': malloc(): memory corruption: 0x0000000002107650 ***
+======= Backtrace: =========
+/lib64/libc.so.6(+0x82c96)[0x2af7dfd0ac96]
+/lib64/libc.so.6(__libc_malloc+0x4c)[0x2af7dfd0d1ac]
+./bin/topo_swell[0x409d3f]
+./bin/topo_swell[0x405aad]
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2af7dfcaa3d5]
+./bin/topo_swell[0x405cde]
+======= Memory map: ========
+00400000-004e4000 r-xp 00000000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e4000-006e8000 r--p 000e4000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e8000-006e9000 rw-p 000e8000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e9000-006ea000 rw-p 00000000 00:00 0 
+01633000-03b99000 rw-p 00000000 00:00 0                                  [heap]
+200000000-200400000 ---p 00000000 00:00 0 
+200400000-200600000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+200600000-200800000 rw-s 00000000 00:05 165952                           /dev/nvidia0
+200800000-206000000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+206000000-207000000 ---p 00000000 00:00 0 
+207000000-207200000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207200000-207400000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207400000-207600000 rw-s 207400000 00:05 48615200                        /dev/nvidia-uvm
+207600000-207800000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207800000-207a00000 ---p 00000000 00:00 0 
+207a00000-207c00000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207c00000-207e00000 rw-s 00000000 00:04 757811962                        /dev/zero (deleted)
+207e00000-400200000 ---p 00000000 00:00 0 
+10000000000-10004000000 ---p 00000000 00:00 0 
+2af7deb49000-2af7deb6b000 r-xp 00000000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2af7deb6b000-2af7deb6f000 rw-p 00000000 00:00 0 
+2af7deb6f000-2af7deb7f000 -w-s 00000000 00:05 165952                     /dev/nvidia0
+2af7deb7f000-2af7deb80000 r--s 00000000 00:05 165952                     /dev/nvidia0
+2af7deb80000-2af7deb89000 rw-p 00000000 00:00 0 
+2af7deb89000-2af7deb99000 -w-s 00000000 00:05 169643                     /dev/nvidia1
+2af7deb99000-2af7deb9a000 r--s 00000000 00:05 169643                     /dev/nvidia1
+2af7deb9a000-2af7ded27000 rw-p 00000000 00:00 0 
+2af7ded27000-2af7ded28000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded28000-2af7ded29000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded29000-2af7ded2a000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded2a000-2af7ded2b000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded2b000-2af7ded2c000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded2c000-2af7ded2d000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded2d000-2af7ded2e000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded2e000-2af7ded2f000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded2f000-2af7ded30000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded30000-2af7ded31000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded31000-2af7ded32000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded32000-2af7ded33000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded33000-2af7ded34000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded34000-2af7ded35000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded35000-2af7ded36000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded36000-2af7ded37000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded37000-2af7ded38000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded38000-2af7ded39000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded39000-2af7ded3a000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded3a000-2af7ded3b000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded3b000-2af7ded3c000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded3c000-2af7ded3d000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded3d000-2af7ded3e000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded3e000-2af7ded3f000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded3f000-2af7ded40000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded40000-2af7ded41000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded41000-2af7ded42000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded42000-2af7ded43000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded43000-2af7ded44000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded44000-2af7ded45000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded45000-2af7ded46000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded46000-2af7ded47000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded47000-2af7ded48000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded48000-2af7ded49000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded49000-2af7ded4a000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded4a000-2af7ded4b000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ded4b000-2af7ded4c000 rw-p 00000000 00:00 0 
+2af7ded6a000-2af7ded6b000 r--p 00021000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2af7ded6b000-2af7ded6c000 rw-p 00022000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2af7ded6c000-2af7ded6d000 rw-p 00000000 00:00 0 
+2af7ded6d000-2af7ded74000 r-xp 00000000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2af7ded74000-2af7def73000 ---p 00007000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2af7def73000-2af7def74000 r--p 00006000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2af7def74000-2af7def75000 rw-p 00007000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2af7def75000-2af7def8c000 r-xp 00000000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2af7def8c000-2af7df18b000 ---p 00017000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2af7df18b000-2af7df18c000 r--p 00016000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2af7df18c000-2af7df18d000 rw-p 00017000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2af7df18d000-2af7df191000 rw-p 00000000 00:00 0 
+2af7df191000-2af7df193000 r-xp 00000000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2af7df193000-2af7df393000 ---p 00002000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2af7df393000-2af7df394000 r--p 00002000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2af7df394000-2af7df395000 rw-p 00003000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2af7df395000-2af7df55e000 r-xp 00000000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2af7df55e000-2af7df75d000 ---p 001c9000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2af7df75d000-2af7df768000 r--p 001c8000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2af7df768000-2af7df76b000 rw-p 001d3000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2af7df76b000-2af7df76e000 rw-p 00000000 00:00 0 
+2af7df76e000-2af7df86f000 r-xp 00000000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2af7df86f000-2af7dfa6e000 ---p 00101000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2af7dfa6e000-2af7dfa6f000 r--p 00100000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2af7dfa6f000-2af7dfa70000 rw-p 00101000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2af7dfa70000-2af7dfa86000 r-xp 00000000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2af7dfa86000-2af7dfc86000 ---p 00016000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2af7dfc86000-2af7dfc87000 r--p 00016000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2af7dfc87000-2af7dfc88000 rw-p 00017000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2af7dfc88000-2af7dfe4a000 r-xp 00000000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2af7dfe4a000-2af7e004a000 ---p 001c2000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2af7e004a000-2af7e004e000 r--p 001c2000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2af7e004e000-2af7e0050000 rw-p 001c6000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2af7e0050000-2af7e3570000 rw-p 00000000 00:00 0 
+2af7e3570000-2af7e48b4000 r-xp 00000000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2af7e48b4000-2af7e4ab3000 ---p 01344000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2af7e4ab3000-2af7e4ba1000 r--p 01343000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2af7e4ba1000-2af7e4cac000 rw-p 01431000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2af7e4cac000-2af7e4ccc000 rw-p 00000000 00:00 0 
+2af7e4ccc000-2af7eaccc000 ---p 00000000 00:00 0 
+2af7eaccc000-2af7eaccd000 ---p 00000000 00:00 0 
+2af7eaccd000-2af7eaecd000 rw-p 00000000 00:00 0 
+2af7eaecd000-2af7eaece000 ---p 00000000 00:00 0 
+2af7eaece000-2af7eb2e6000 rw-p 00000000 00:00 0 
+2af7ec000000-2af7ec400000 ---p 00000000 00:00 0 
+2af7ec400000-2af7ec600000 rw-s 00000000 00:04 757811960                  /dev/zero (deleted)
+2af7ec600000-2af7ec800000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ec800000-2af7eca00000 rw-s 00000000 00:04 757811961                  /dev/zero (deleted)
+2af7eca00000-2af7ed000000 ---p 00000000 00:00 0 
+2af7ed000000-2af7ed200000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ed200000-2af7ed400000 rw-s 00000000 00:04 757811963                  /dev/zero (deleted)
+2af7ed400000-2af7ed619000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2af7ed619000-2af7ee000000 ---p 00000000 00:00 0 
+2af7f0000000-2af800000000 ---p 00000000 00:00 0 
+2af800000000-2af800021000 rw-p 00000000 00:00 0 
+2af800021000-2af804000000 ---p 00000000 00:00 0 
+2af804000000-2af804021000 rw-p 00000000 00:00 0 
+2af804021000-2af808000000 ---p 00000000 00:00 0 
+2af808000000-2af81e000000 ---p 00000000 00:00 0 
+2af820000000-2af820021000 rw-p 00000000 00:00 0 
+2af820021000-2af824000000 ---p 00000000 00:00 0 
+7ffdc2a67000-7ffdc2a92000 rw-p 00000000 00:00 0                          [stack]
+7ffdc2afa000-7ffdc2afc000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 16463 Aborted                 (core dumped) ./bin/topo_swell mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_swell.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 16527 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+*** Error in `./bin/topo_swell': malloc(): memory corruption: 0x00000000024e3650 ***
+======= Backtrace: =========
+/lib64/libc.so.6(+0x82c96)[0x2b29cb0b5c96]
+/lib64/libc.so.6(__libc_malloc+0x4c)[0x2b29cb0b81ac]
+./bin/topo_swell[0x409d3f]
+./bin/topo_swell[0x405aad]
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b29cb0553d5]
+./bin/topo_swell[0x405cde]
+======= Memory map: ========
+00400000-004e4000 r-xp 00000000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e4000-006e8000 r--p 000e4000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e8000-006e9000 rw-p 000e8000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e9000-006ea000 rw-p 00000000 00:00 0 
+01a0f000-03f75000 rw-p 00000000 00:00 0                                  [heap]
+200000000-200400000 ---p 00000000 00:00 0 
+200400000-200600000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+200600000-200800000 rw-s 00000000 00:05 165952                           /dev/nvidia0
+200800000-206000000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+206000000-207000000 ---p 00000000 00:00 0 
+207000000-207200000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207200000-207400000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207400000-207600000 rw-s 207400000 00:05 48615200                        /dev/nvidia-uvm
+207600000-207800000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207800000-207a00000 ---p 00000000 00:00 0 
+207a00000-207c00000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207c00000-207e00000 rw-s 00000000 00:04 757811967                        /dev/zero (deleted)
+207e00000-400200000 ---p 00000000 00:00 0 
+10000000000-10004000000 ---p 00000000 00:00 0 
+2b29c9ef4000-2b29c9f16000 r-xp 00000000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2b29c9f16000-2b29c9f1a000 rw-p 00000000 00:00 0 
+2b29c9f1a000-2b29c9f2a000 -w-s 00000000 00:05 165952                     /dev/nvidia0
+2b29c9f2a000-2b29c9f2b000 r--s 00000000 00:05 165952                     /dev/nvidia0
+2b29c9f2b000-2b29c9f34000 rw-p 00000000 00:00 0 
+2b29c9f34000-2b29c9f44000 -w-s 00000000 00:05 169643                     /dev/nvidia1
+2b29c9f44000-2b29c9f45000 r--s 00000000 00:05 169643                     /dev/nvidia1
+2b29c9f45000-2b29ca0d2000 rw-p 00000000 00:00 0 
+2b29ca0d2000-2b29ca0d3000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0d3000-2b29ca0d4000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0d4000-2b29ca0d5000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0d5000-2b29ca0d6000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0d6000-2b29ca0d7000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0d7000-2b29ca0d8000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0d8000-2b29ca0d9000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0d9000-2b29ca0da000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0da000-2b29ca0db000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0db000-2b29ca0dc000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0dc000-2b29ca0dd000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0dd000-2b29ca0de000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0de000-2b29ca0df000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0df000-2b29ca0e0000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0e0000-2b29ca0e1000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0e1000-2b29ca0e2000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0e2000-2b29ca0e3000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0e3000-2b29ca0e4000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0e4000-2b29ca0e5000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0e5000-2b29ca0e6000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0e6000-2b29ca0e7000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0e7000-2b29ca0e8000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0e8000-2b29ca0e9000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0e9000-2b29ca0ea000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0ea000-2b29ca0eb000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0eb000-2b29ca0ec000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0ec000-2b29ca0ed000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0ed000-2b29ca0ee000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0ee000-2b29ca0ef000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0ef000-2b29ca0f0000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0f0000-2b29ca0f1000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0f1000-2b29ca0f2000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0f2000-2b29ca0f3000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0f3000-2b29ca0f4000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0f4000-2b29ca0f5000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0f5000-2b29ca0f6000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29ca0f6000-2b29ca0f7000 rw-p 00000000 00:00 0 
+2b29ca115000-2b29ca116000 r--p 00021000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2b29ca116000-2b29ca117000 rw-p 00022000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2b29ca117000-2b29ca118000 rw-p 00000000 00:00 0 
+2b29ca118000-2b29ca11f000 r-xp 00000000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2b29ca11f000-2b29ca31e000 ---p 00007000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2b29ca31e000-2b29ca31f000 r--p 00006000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2b29ca31f000-2b29ca320000 rw-p 00007000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2b29ca320000-2b29ca337000 r-xp 00000000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2b29ca337000-2b29ca536000 ---p 00017000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2b29ca536000-2b29ca537000 r--p 00016000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2b29ca537000-2b29ca538000 rw-p 00017000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2b29ca538000-2b29ca53c000 rw-p 00000000 00:00 0 
+2b29ca53c000-2b29ca53e000 r-xp 00000000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2b29ca53e000-2b29ca73e000 ---p 00002000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2b29ca73e000-2b29ca73f000 r--p 00002000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2b29ca73f000-2b29ca740000 rw-p 00003000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2b29ca740000-2b29ca909000 r-xp 00000000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2b29ca909000-2b29cab08000 ---p 001c9000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2b29cab08000-2b29cab13000 r--p 001c8000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2b29cab13000-2b29cab16000 rw-p 001d3000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2b29cab16000-2b29cab19000 rw-p 00000000 00:00 0 
+2b29cab19000-2b29cac1a000 r-xp 00000000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2b29cac1a000-2b29cae19000 ---p 00101000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2b29cae19000-2b29cae1a000 r--p 00100000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2b29cae1a000-2b29cae1b000 rw-p 00101000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2b29cae1b000-2b29cae31000 r-xp 00000000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2b29cae31000-2b29cb031000 ---p 00016000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2b29cb031000-2b29cb032000 r--p 00016000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2b29cb032000-2b29cb033000 rw-p 00017000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2b29cb033000-2b29cb1f5000 r-xp 00000000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2b29cb1f5000-2b29cb3f5000 ---p 001c2000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2b29cb3f5000-2b29cb3f9000 r--p 001c2000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2b29cb3f9000-2b29cb3fb000 rw-p 001c6000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2b29cb3fb000-2b29ce91b000 rw-p 00000000 00:00 0 
+2b29ce91b000-2b29cfc5f000 r-xp 00000000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2b29cfc5f000-2b29cfe5e000 ---p 01344000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2b29cfe5e000-2b29cff4c000 r--p 01343000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2b29cff4c000-2b29d0057000 rw-p 01431000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2b29d0057000-2b29d0077000 rw-p 00000000 00:00 0 
+2b29d0077000-2b29d6077000 ---p 00000000 00:00 0 
+2b29d6077000-2b29d6078000 ---p 00000000 00:00 0 
+2b29d6078000-2b29d6278000 rw-p 00000000 00:00 0 
+2b29d6278000-2b29d6279000 ---p 00000000 00:00 0 
+2b29d6279000-2b29d6691000 rw-p 00000000 00:00 0 
+2b29d8000000-2b29d8021000 rw-p 00000000 00:00 0 
+2b29d8021000-2b29dc000000 ---p 00000000 00:00 0 
+2b29dc000000-2b29dc400000 ---p 00000000 00:00 0 
+2b29dc400000-2b29dc600000 rw-s 00000000 00:04 757811965                  /dev/zero (deleted)
+2b29dc600000-2b29dc800000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29dc800000-2b29dca00000 rw-s 00000000 00:04 757811966                  /dev/zero (deleted)
+2b29dca00000-2b29dd000000 ---p 00000000 00:00 0 
+2b29dd000000-2b29dd200000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29dd200000-2b29dd400000 rw-s 00000000 00:04 757811968                  /dev/zero (deleted)
+2b29dd400000-2b29dd619000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b29dd619000-2b29de000000 ---p 00000000 00:00 0 
+2b29e0000000-2b29f0000000 ---p 00000000 00:00 0 
+2b29f0000000-2b29f0021000 rw-p 00000000 00:00 0 
+2b29f0021000-2b29f4000000 ---p 00000000 00:00 0 
+2b29f4000000-2b2a0a000000 ---p 00000000 00:00 0 
+2b2a0c000000-2b2a0c021000 rw-p 00000000 00:00 0 
+2b2a0c021000-2b2a10000000 ---p 00000000 00:00 0 
+7ffcc22dd000-7ffcc2308000 rw-p 00000000 00:00 0                          [stack]
+7ffcc230e000-7ffcc2310000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 16551 Aborted                 (core dumped) ./bin/topo_swell mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_swell.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 16573 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+*** Error in `./bin/topo_swell': malloc(): memory corruption: 0x0000000001226680 ***
+======= Backtrace: =========
+/lib64/libc.so.6(+0x82c96)[0x2b6c4fdb3c96]
+/lib64/libc.so.6(__libc_malloc+0x4c)[0x2b6c4fdb61ac]
+./bin/topo_swell[0x409d3f]
+./bin/topo_swell[0x405aad]
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b6c4fd533d5]
+./bin/topo_swell[0x405cde]
+======= Memory map: ========
+00400000-004e4000 r-xp 00000000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e4000-006e8000 r--p 000e4000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e8000-006e9000 rw-p 000e8000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e9000-006ea000 rw-p 00000000 00:00 0 
+00752000-02cb8000 rw-p 00000000 00:00 0                                  [heap]
+200000000-200400000 ---p 00000000 00:00 0 
+200400000-200600000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+200600000-200800000 rw-s 00000000 00:05 165952                           /dev/nvidia0
+200800000-206000000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+206000000-207000000 ---p 00000000 00:00 0 
+207000000-207200000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207200000-207400000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207400000-207600000 rw-s 207400000 00:05 48615200                        /dev/nvidia-uvm
+207600000-207800000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207800000-207a00000 ---p 00000000 00:00 0 
+207a00000-207c00000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207c00000-207e00000 rw-s 00000000 00:04 757811972                        /dev/zero (deleted)
+207e00000-400200000 ---p 00000000 00:00 0 
+10000000000-10004000000 ---p 00000000 00:00 0 
+2b6c4ebf2000-2b6c4ec14000 r-xp 00000000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2b6c4ec14000-2b6c4ec18000 rw-p 00000000 00:00 0 
+2b6c4ec18000-2b6c4ec28000 -w-s 00000000 00:05 165952                     /dev/nvidia0
+2b6c4ec28000-2b6c4ec29000 r--s 00000000 00:05 165952                     /dev/nvidia0
+2b6c4ec29000-2b6c4ec32000 rw-p 00000000 00:00 0 
+2b6c4ec32000-2b6c4ec42000 -w-s 00000000 00:05 169643                     /dev/nvidia1
+2b6c4ec42000-2b6c4ec43000 r--s 00000000 00:05 169643                     /dev/nvidia1
+2b6c4ec43000-2b6c4edd0000 rw-p 00000000 00:00 0 
+2b6c4edd0000-2b6c4edd1000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4edd1000-2b6c4edd2000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4edd2000-2b6c4edd3000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4edd3000-2b6c4edd4000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4edd4000-2b6c4edd5000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4edd5000-2b6c4edd6000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4edd6000-2b6c4edd7000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4edd7000-2b6c4edd8000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4edd8000-2b6c4edd9000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4edd9000-2b6c4edda000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4edda000-2b6c4eddb000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4eddb000-2b6c4eddc000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4eddc000-2b6c4eddd000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4eddd000-2b6c4edde000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4edde000-2b6c4eddf000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4eddf000-2b6c4ede0000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4ede0000-2b6c4ede1000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4ede1000-2b6c4ede2000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4ede2000-2b6c4ede3000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4ede3000-2b6c4ede4000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4ede4000-2b6c4ede5000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4ede5000-2b6c4ede6000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4ede6000-2b6c4ede7000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4ede7000-2b6c4ede8000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4ede8000-2b6c4ede9000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4ede9000-2b6c4edea000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4edea000-2b6c4edeb000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4edeb000-2b6c4edec000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4edec000-2b6c4eded000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4eded000-2b6c4edee000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4edee000-2b6c4edef000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4edef000-2b6c4edf0000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4edf0000-2b6c4edf1000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4edf1000-2b6c4edf2000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4edf2000-2b6c4edf3000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4edf3000-2b6c4edf4000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c4edf4000-2b6c4edf5000 rw-p 00000000 00:00 0 
+2b6c4ee13000-2b6c4ee14000 r--p 00021000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2b6c4ee14000-2b6c4ee15000 rw-p 00022000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2b6c4ee15000-2b6c4ee16000 rw-p 00000000 00:00 0 
+2b6c4ee16000-2b6c4ee1d000 r-xp 00000000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2b6c4ee1d000-2b6c4f01c000 ---p 00007000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2b6c4f01c000-2b6c4f01d000 r--p 00006000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2b6c4f01d000-2b6c4f01e000 rw-p 00007000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2b6c4f01e000-2b6c4f035000 r-xp 00000000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2b6c4f035000-2b6c4f234000 ---p 00017000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2b6c4f234000-2b6c4f235000 r--p 00016000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2b6c4f235000-2b6c4f236000 rw-p 00017000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2b6c4f236000-2b6c4f23a000 rw-p 00000000 00:00 0 
+2b6c4f23a000-2b6c4f23c000 r-xp 00000000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2b6c4f23c000-2b6c4f43c000 ---p 00002000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2b6c4f43c000-2b6c4f43d000 r--p 00002000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2b6c4f43d000-2b6c4f43e000 rw-p 00003000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2b6c4f43e000-2b6c4f607000 r-xp 00000000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2b6c4f607000-2b6c4f806000 ---p 001c9000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2b6c4f806000-2b6c4f811000 r--p 001c8000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2b6c4f811000-2b6c4f814000 rw-p 001d3000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2b6c4f814000-2b6c4f817000 rw-p 00000000 00:00 0 
+2b6c4f817000-2b6c4f918000 r-xp 00000000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2b6c4f918000-2b6c4fb17000 ---p 00101000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2b6c4fb17000-2b6c4fb18000 r--p 00100000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2b6c4fb18000-2b6c4fb19000 rw-p 00101000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2b6c4fb19000-2b6c4fb2f000 r-xp 00000000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2b6c4fb2f000-2b6c4fd2f000 ---p 00016000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2b6c4fd2f000-2b6c4fd30000 r--p 00016000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2b6c4fd30000-2b6c4fd31000 rw-p 00017000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2b6c4fd31000-2b6c4fef3000 r-xp 00000000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2b6c4fef3000-2b6c500f3000 ---p 001c2000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2b6c500f3000-2b6c500f7000 r--p 001c2000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2b6c500f7000-2b6c500f9000 rw-p 001c6000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2b6c500f9000-2b6c53619000 rw-p 00000000 00:00 0 
+2b6c53619000-2b6c5495d000 r-xp 00000000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2b6c5495d000-2b6c54b5c000 ---p 01344000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2b6c54b5c000-2b6c54c4a000 r--p 01343000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2b6c54c4a000-2b6c54d55000 rw-p 01431000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2b6c54d55000-2b6c54d75000 rw-p 00000000 00:00 0 
+2b6c54d75000-2b6c5ad75000 ---p 00000000 00:00 0 
+2b6c5ad75000-2b6c5ad76000 ---p 00000000 00:00 0 
+2b6c5ad76000-2b6c5af76000 rw-p 00000000 00:00 0 
+2b6c5af76000-2b6c5af77000 ---p 00000000 00:00 0 
+2b6c5af77000-2b6c5b38f000 rw-p 00000000 00:00 0 
+2b6c5c000000-2b6c5c400000 ---p 00000000 00:00 0 
+2b6c5c400000-2b6c5c600000 rw-s 00000000 00:04 757811970                  /dev/zero (deleted)
+2b6c5c600000-2b6c5c800000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c5c800000-2b6c5ca00000 rw-s 00000000 00:04 757811971                  /dev/zero (deleted)
+2b6c5ca00000-2b6c5d000000 ---p 00000000 00:00 0 
+2b6c5d000000-2b6c5d200000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c5d200000-2b6c5d400000 rw-s 00000000 00:04 757811973                  /dev/zero (deleted)
+2b6c5d400000-2b6c5d619000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b6c5d619000-2b6c5e000000 ---p 00000000 00:00 0 
+2b6c60000000-2b6c70000000 ---p 00000000 00:00 0 
+2b6c70000000-2b6c70021000 rw-p 00000000 00:00 0 
+2b6c70021000-2b6c74000000 ---p 00000000 00:00 0 
+2b6c74000000-2b6c74021000 rw-p 00000000 00:00 0 
+2b6c74021000-2b6c78000000 ---p 00000000 00:00 0 
+2b6c78000000-2b6c8e000000 ---p 00000000 00:00 0 
+2b6c90000000-2b6c90021000 rw-p 00000000 00:00 0 
+2b6c90021000-2b6c94000000 ---p 00000000 00:00 0 
+7ffd41916000-7ffd41941000 rw-p 00000000 00:00 0                          [stack]
+7ffd419a7000-7ffd419a9000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 16606 Aborted                 (core dumped) ./bin/topo_swell mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_swell.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 16628 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+*** Error in `./bin/topo_swell': malloc(): memory corruption: 0x000000000158d690 ***
+======= Backtrace: =========
+/lib64/libc.so.6(+0x82c96)[0x2b4875d6fc96]
+/lib64/libc.so.6(__libc_malloc+0x4c)[0x2b4875d721ac]
+./bin/topo_swell[0x409d3f]
+./bin/topo_swell[0x405aad]
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b4875d0f3d5]
+./bin/topo_swell[0x405cde]
+======= Memory map: ========
+00400000-004e4000 r-xp 00000000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e4000-006e8000 r--p 000e4000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e8000-006e9000 rw-p 000e8000 2ba:be5b4 144116399827108351             /lfs/usrhome/mtech/cs22m036/scratch/job1325755/bin/topo_swell
+006e9000-006ea000 rw-p 00000000 00:00 0 
+00ab9000-0301f000 rw-p 00000000 00:00 0                                  [heap]
+200000000-200400000 ---p 00000000 00:00 0 
+200400000-200600000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+200600000-200800000 rw-s 00000000 00:05 165952                           /dev/nvidia0
+200800000-206000000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+206000000-207000000 ---p 00000000 00:00 0 
+207000000-207200000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207200000-207400000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207400000-207600000 rw-s 207400000 00:05 48615200                        /dev/nvidia-uvm
+207600000-207800000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207800000-207a00000 ---p 00000000 00:00 0 
+207a00000-207c00000 rw-s 00000000 00:05 165944                           /dev/nvidiactl
+207c00000-207e00000 rw-s 00000000 00:04 757811982                        /dev/zero (deleted)
+207e00000-400200000 ---p 00000000 00:00 0 
+10000000000-10004000000 ---p 00000000 00:00 0 
+2b4874bae000-2b4874bd0000 r-xp 00000000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2b4874bd0000-2b4874bd2000 r-xp 00000000 00:00 0                          [vdso]
+2b4874bd2000-2b4874bd6000 rw-p 00000000 00:00 0 
+2b4874bd6000-2b4874be6000 -w-s 00000000 00:05 165952                     /dev/nvidia0
+2b4874be6000-2b4874be7000 r--s 00000000 00:05 165952                     /dev/nvidia0
+2b4874be7000-2b4874bf0000 rw-p 00000000 00:00 0 
+2b4874bf0000-2b4874c00000 -w-s 00000000 00:05 169643                     /dev/nvidia1
+2b4874c00000-2b4874c01000 r--s 00000000 00:05 169643                     /dev/nvidia1
+2b4874c01000-2b4874d8e000 rw-p 00000000 00:00 0 
+2b4874d8e000-2b4874d8f000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874d8f000-2b4874d90000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874d90000-2b4874d91000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874d91000-2b4874d92000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874d92000-2b4874d93000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874d93000-2b4874d94000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874d94000-2b4874d95000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874d95000-2b4874d96000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874d96000-2b4874d97000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874d97000-2b4874d98000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874d98000-2b4874d99000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874d99000-2b4874d9a000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874d9a000-2b4874d9b000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874d9b000-2b4874d9c000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874d9c000-2b4874d9d000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874d9d000-2b4874d9e000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874d9e000-2b4874d9f000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874d9f000-2b4874da0000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874da0000-2b4874da1000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874da1000-2b4874da2000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874da2000-2b4874da3000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874da3000-2b4874da4000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874da4000-2b4874da5000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874da5000-2b4874da6000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874da6000-2b4874da7000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874da7000-2b4874da8000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874da8000-2b4874da9000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874da9000-2b4874daa000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874daa000-2b4874dab000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874dab000-2b4874dac000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874dac000-2b4874dad000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874dad000-2b4874dae000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874dae000-2b4874daf000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874daf000-2b4874db0000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874db0000-2b4874db1000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874db1000-2b4874db2000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b4874db2000-2b4874db3000 rw-p 00000000 00:00 0 
+2b4874dcf000-2b4874dd0000 r--p 00021000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2b4874dd0000-2b4874dd1000 rw-p 00022000 08:04 49027365                   /usr/lib64/ld-2.17.so
+2b4874dd1000-2b4874dd2000 rw-p 00000000 00:00 0 
+2b4874dd2000-2b4874dd9000 r-xp 00000000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2b4874dd9000-2b4874fd8000 ---p 00007000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2b4874fd8000-2b4874fd9000 r--p 00006000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2b4874fd9000-2b4874fda000 rw-p 00007000 08:04 49026525                   /usr/lib64/librt-2.17.so
+2b4874fda000-2b4874ff1000 r-xp 00000000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2b4874ff1000-2b48751f0000 ---p 00017000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2b48751f0000-2b48751f1000 r--p 00016000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2b48751f1000-2b48751f2000 rw-p 00017000 08:04 49026743                   /usr/lib64/libpthread-2.17.so
+2b48751f2000-2b48751f6000 rw-p 00000000 00:00 0 
+2b48751f6000-2b48751f8000 r-xp 00000000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2b48751f8000-2b48753f8000 ---p 00002000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2b48753f8000-2b48753f9000 r--p 00002000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2b48753f9000-2b48753fa000 rw-p 00003000 08:04 49026403                   /usr/lib64/libdl-2.17.so
+2b48753fa000-2b48755c3000 r-xp 00000000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2b48755c3000-2b48757c2000 ---p 001c9000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2b48757c2000-2b48757cd000 r--p 001c8000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2b48757cd000-2b48757d0000 rw-p 001d3000 2ba:be5b4 144115389805217424     /lfs/sware/gcc9.2.0/lib64/libstdc++.so.6.0.27
+2b48757d0000-2b48757d3000 rw-p 00000000 00:00 0 
+2b48757d3000-2b48758d4000 r-xp 00000000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2b48758d4000-2b4875ad3000 ---p 00101000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2b4875ad3000-2b4875ad4000 r--p 00100000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2b4875ad4000-2b4875ad5000 rw-p 00101000 08:04 49026903                   /usr/lib64/libm-2.17.so
+2b4875ad5000-2b4875aeb000 r-xp 00000000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2b4875aeb000-2b4875ceb000 ---p 00016000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2b4875ceb000-2b4875cec000 r--p 00016000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2b4875cec000-2b4875ced000 rw-p 00017000 2ba:be5b4 144115389805217454     /lfs/sware/gcc9.2.0/lib64/libgcc_s.so.1
+2b4875ced000-2b4875eaf000 r-xp 00000000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2b4875eaf000-2b48760af000 ---p 001c2000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2b48760af000-2b48760b3000 r--p 001c2000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2b48760b3000-2b48760b5000 rw-p 001c6000 08:04 49027184                   /usr/lib64/libc-2.17.so
+2b48760b5000-2b48795d5000 rw-p 00000000 00:00 0 
+2b48795d5000-2b487a919000 r-xp 00000000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2b487a919000-2b487ab18000 ---p 01344000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2b487ab18000-2b487ac06000 r--p 01343000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2b487ac06000-2b487ad11000 rw-p 01431000 08:04 49026167                   /usr/lib64/libcuda.so.470.57.02
+2b487ad11000-2b487ad31000 rw-p 00000000 00:00 0 
+2b487ad31000-2b4880d31000 ---p 00000000 00:00 0 
+2b4880d31000-2b4880d32000 ---p 00000000 00:00 0 
+2b4880d32000-2b4880f32000 rw-p 00000000 00:00 0 
+2b4880f32000-2b4880f33000 ---p 00000000 00:00 0 
+2b4880f33000-2b488134b000 rw-p 00000000 00:00 0 
+2b4884000000-2b4884021000 rw-p 00000000 00:00 0 
+2b4884021000-2b4888000000 ---p 00000000 00:00 0 
+2b4888000000-2b4888021000 rw-p 00000000 00:00 0 
+2b4888021000-2b488c000000 ---p 00000000 00:00 0 
+2b488c000000-2b488c400000 ---p 00000000 00:00 0 
+2b488c400000-2b488c600000 rw-s 00000000 00:04 757811980                  /dev/zero (deleted)
+2b488c600000-2b488c800000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b488c800000-2b488ca00000 rw-s 00000000 00:04 757811981                  /dev/zero (deleted)
+2b488ca00000-2b488d000000 ---p 00000000 00:00 0 
+2b488d000000-2b488d200000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b488d200000-2b488d400000 rw-s 00000000 00:04 757811983                  /dev/zero (deleted)
+2b488d400000-2b488d619000 rw-s 00000000 00:05 165944                     /dev/nvidiactl
+2b488d619000-2b488e000000 ---p 00000000 00:00 0 
+2b4890000000-2b48b6000000 ---p 00000000 00:00 0 
+2b48b8000000-2b48b8021000 rw-p 00000000 00:00 0 
+2b48b8021000-2b48bc000000 ---p 00000000 00:00 0 
+7ffc9b9d7000-7ffc9ba02000 rw-p 00000000 00:00 0                          [stack]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 16659 Aborted                 (core dumped) ./bin/topo_swell mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_swell.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 16684 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 16959 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 17033 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 17095 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 17179 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 17238 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 17393 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 17594 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 17650 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 17724 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 17804 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 18147 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 18334 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 18699 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 18868 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 19241 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 19443 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 19771 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 20161 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 20338 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
+/var/spool/pbs/mom_priv/jobs/1325755.hn1.SC: line 15: 20707 Segmentation fault      (core dumped) ./bin/topo_sort mtx "$full_file_no_ext" >> "${filename_no_ext}_bfs_sort.txt"
 mv: cannot move ‘bfs_cuda’ to ‘/lfs/usrhome/mtech/cs22m036/MTP/gardenia/./bfs_cuda’: Directory not empty
 mv: cannot move ‘bin’ to ‘/lfs/usrhome/mtech/cs22m036/MTP/gardenia/./bin’: Directory not empty
 mv: cannot move ‘cub’ to ‘/lfs/usrhome/mtech/cs22m036/MTP/gardenia/./cub’: Directory not empty

@@ -5,9 +5,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 4.819232
+opt time = 0.112320
 	iterations = 3.
-	runtime [topo_bitonic] = 41.954624 ms.
+	runtime [topo_bitonic] = 16.721664 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -17,9 +17,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 4.807584
+opt time = 0.113824
 	iterations = 3.
-	runtime [topo_bitonic] = 41.869663 ms.
+	runtime [topo_bitonic] = 16.739424 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -29,9 +29,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 4.794016
+opt time = 0.109792
 	iterations = 3.
-	runtime [topo_bitonic] = 41.792030 ms.
+	runtime [topo_bitonic] = 16.784191 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -41,9 +41,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 4.598656
+opt time = 0.111424
 	iterations = 3.
-	runtime [topo_bitonic] = 39.916447 ms.
+	runtime [topo_bitonic] = 16.755615 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -53,9 +53,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 4.596832
+opt time = 0.113472
 	iterations = 3.
-	runtime [topo_bitonic] = 39.905857 ms.
+	runtime [topo_bitonic] = 18.395424 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -65,9 +65,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 4.597504
+opt time = 0.120832
 	iterations = 3.
-	runtime [topo_bitonic] = 39.923489 ms.
+	runtime [topo_bitonic] = 16.734304 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -77,9 +77,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 4.597664
+opt time = 0.121248
 	iterations = 3.
-	runtime [topo_bitonic] = 39.899361 ms.
+	runtime [topo_bitonic] = 16.753824 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -89,9 +89,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 4.599552
+opt time = 0.123168
 	iterations = 3.
-	runtime [topo_bitonic] = 39.914944 ms.
+	runtime [topo_bitonic] = 16.757153 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -101,9 +101,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 0.112896
+opt time = 0.114144
 	iterations = 3.
-	runtime [topo_bitonic] = 18.346369 ms.
+	runtime [topo_bitonic] = 18.415327 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -113,9 +113,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 0.115328
+opt time = 0.131712
 	iterations = 3.
-	runtime [topo_bitonic] = 18.414688 ms.
+	runtime [topo_bitonic] = 16.732544 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -125,9 +125,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 0.113568
+opt time = 0.124416
 	iterations = 3.
-	runtime [topo_bitonic] = 18.438751 ms.
+	runtime [topo_bitonic] = 16.704063 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -137,9 +137,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 0.113184
+opt time = 0.129664
 	iterations = 3.
-	runtime [topo_bitonic] = 18.408928 ms.
+	runtime [topo_bitonic] = 16.769344 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -149,9 +149,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 0.113856
+opt time = 4.032768
 	iterations = 3.
-	runtime [topo_bitonic] = 18.362112 ms.
+	runtime [topo_bitonic] = 41.093822 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -161,9 +161,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 0.112736
+opt time = 4.603552
 	iterations = 3.
-	runtime [topo_bitonic] = 18.390881 ms.
+	runtime [topo_bitonic] = 39.925022 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -173,9 +173,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 0.123712
+opt time = 4.603488
 	iterations = 3.
-	runtime [topo_bitonic] = 18.423744 ms.
+	runtime [topo_bitonic] = 40.086849 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -185,9 +185,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 0.112992
+opt time = 4.601120
 	iterations = 3.
-	runtime [topo_bitonic] = 18.371103 ms.
+	runtime [topo_bitonic] = 39.909248 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -197,9 +197,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 0.114368
+opt time = 2.820384
 	iterations = 3.
-	runtime [topo_bitonic] = 18.360767 ms.
+	runtime [topo_bitonic] = 40.860832 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -209,9 +209,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 0.124576
+opt time = 4.599520
 	iterations = 3.
-	runtime [topo_bitonic] = 18.417152 ms.
+	runtime [topo_bitonic] = 39.635265 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -221,9 +221,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 0.125088
+opt time = 4.604128
 	iterations = 3.
-	runtime [topo_bitonic] = 18.429600 ms.
+	runtime [topo_bitonic] = 39.889439 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -233,9 +233,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 0.114944
+opt time = 0.130208
 	iterations = 3.
-	runtime [topo_bitonic] = 18.387903 ms.
+	runtime [topo_bitonic] = 17.747520 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -245,9 +245,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 0.124192
+opt time = 4.600480
 	iterations = 3.
-	runtime [topo_bitonic] = 18.407904 ms.
+	runtime [topo_bitonic] = 39.860542 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -257,9 +257,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 4.739872
+opt time = 4.607104
 	iterations = 3.
-	runtime [topo_bitonic] = 41.454689 ms.
+	runtime [topo_bitonic] = 40.427361 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -269,9 +269,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 4.600768
+opt time = 0.124800
 	iterations = 3.
-	runtime [topo_bitonic] = 39.893471 ms.
+	runtime [topo_bitonic] = 18.381985 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -281,9 +281,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 4.599616
+opt time = 0.111936
 	iterations = 3.
-	runtime [topo_bitonic] = 39.856640 ms.
+	runtime [topo_bitonic] = 16.718113 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -293,9 +293,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 4.599872
+opt time = 0.121472
 	iterations = 3.
-	runtime [topo_bitonic] = 39.865696 ms.
+	runtime [topo_bitonic] = 16.932096 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -305,9 +305,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 4.596672
+opt time = 4.605536
 	iterations = 3.
-	runtime [topo_bitonic] = 39.850655 ms.
+	runtime [topo_bitonic] = 40.431873 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -317,9 +317,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 4.598304
+opt time = 4.604448
 	iterations = 3.
-	runtime [topo_bitonic] = 39.855904 ms.
+	runtime [topo_bitonic] = 40.020226 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -329,9 +329,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 4.594528
+opt time = 0.133856
 	iterations = 3.
-	runtime [topo_bitonic] = 39.849632 ms.
+	runtime [topo_bitonic] = 16.723104 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -341,9 +341,9 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 4.599168
+opt time = 0.107616
 	iterations = 3.
-	runtime [topo_bitonic] = 39.846527 ms.
+	runtime [topo_bitonic] = 16.770081 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -353,8 +353,8 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 24575 source: 49150
 Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
-opt time = 4.597312
+opt time = 0.121344
 	iterations = 3.
-	runtime [topo_bitonic] = 39.842560 ms.
+	runtime [topo_bitonic] = 16.734655 ms.
 
 

@@ -4,7 +4,7 @@ include ../common.mk
 # B40_DIR=../../back40computing-read-only
 # B40C_INC=-I $(B40_DIR) -I $(B40_DIR)/test
 OBJS= main.o verifier.o
-all: topo_swell topo_base topo_bitonic
+all: topo_swell topo_base topo_bitonic topo_sort
 # bfs_linear_base bfs_linear_lb bfs_omp_beamer bfs_omp_base bfs_topo_base
 
 %.o: %.cpp
@@ -19,10 +19,10 @@ else
 endif
 
 %.o: %.cu
-	/lfs/sware/cuda-11.2/bin/nvcc  $(INCLUDES) -c $<
+	/lfs/sware/cuda-11.2/bin/nvcc -g -G $(INCLUDES) -c $<
 
 topo_swell: topo_swell.o $(OBJS)
-	/lfs/sware/cuda-11.2/bin/nvcc  $(INCLUDES) $(OBJS)  topo_swell.o -o $@ $(LIBS)
+	/lfs/sware/cuda-11.2/bin/nvcc -g -G $(INCLUDES) $(OBJS)  topo_swell.o -o $@ $(LIBS)
 	mv $@ $(BIN)
 
 bfs_opt: bfs_opt.o $(OBJS)
@@ -34,11 +34,15 @@ bfs_atomic_free: atomic_free.o $(OBJS)
 	mv $@ $(BIN)
 
 topo_base: topo_base.o $(OBJS)
-	/lfs/sware/cuda-11.2/bin/nvcc  $(INCLUDES) $(OBJS)  topo_base.o -o $@ $(LIBS)
+	/lfs/sware/cuda-11.2/bin/nvcc -g -G $(INCLUDES) $(OBJS)  topo_base.o -o $@ $(LIBS)
 	mv $@ $(BIN)
 
 topo_bitonic: topo_bitonic.o $(OBJS)
-	/lfs/sware/cuda-11.2/bin/nvcc  $(INCLUDES) $(OBJS) topo_bitonic.o -o $@ $(LIBS)
+	/lfs/sware/cuda-11.2/bin/nvcc -g -G $(INCLUDES) $(OBJS) topo_bitonic.o -o $@ $(LIBS)
+	mv $@ $(BIN)
+
+topo_sort: topo_sort.o $(OBJS)
+	/lfs/sware/cuda-11.2/bin/nvcc -g -G $(INCLUDES) $(OBJS) topo_sort.o -o $@ $(LIBS)
 	mv $@ $(BIN)
 
 bfs_topo_gsort: topo_gsort.o $(OBJS)

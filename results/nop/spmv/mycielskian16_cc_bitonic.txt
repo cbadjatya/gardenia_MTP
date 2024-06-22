@@ -1,0 +1,330 @@
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.286016
+	iterations = 2.
+	runtime [bitonic] = 55.266369 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.287424
+	iterations = 2.
+	runtime [bitonic] = 49.526978 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.290560
+	iterations = 2.
+	runtime [bitonic] = 49.568542 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.287744
+	iterations = 2.
+	runtime [bitonic] = 49.546143 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.292160
+	iterations = 2.
+	runtime [bitonic] = 55.213310 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.287680
+	iterations = 2.
+	runtime [bitonic] = 49.614048 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.281120
+	iterations = 2.
+	runtime [bitonic] = 49.585697 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.272032
+	iterations = 2.
+	runtime [bitonic] = 49.504128 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.283072
+	iterations = 2.
+	runtime [bitonic] = 49.584225 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.291040
+	iterations = 2.
+	runtime [bitonic] = 49.538784 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.289344
+	iterations = 2.
+	runtime [bitonic] = 49.570656 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.264992
+	iterations = 2.
+	runtime [bitonic] = 49.514626 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.279616
+	iterations = 2.
+	runtime [bitonic] = 49.486591 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.286848
+	iterations = 2.
+	runtime [bitonic] = 55.230846 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.276192
+	iterations = 2.
+	runtime [bitonic] = 49.491135 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.273504
+	iterations = 2.
+	runtime [bitonic] = 49.499264 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.310624
+	iterations = 2.
+	runtime [bitonic] = 49.436832 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.280896
+	iterations = 2.
+	runtime [bitonic] = 49.514465 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.280000
+	iterations = 2.
+	runtime [bitonic] = 49.488640 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.261472
+	iterations = 2.
+	runtime [bitonic] = 51.375904 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.285600
+	iterations = 2.
+	runtime [bitonic] = 49.530273 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.272160
+	iterations = 2.
+	runtime [bitonic] = 49.499935 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.283264
+	iterations = 2.
+	runtime [bitonic] = 49.505695 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.265920
+	iterations = 2.
+	runtime [bitonic] = 49.493183 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.279776
+	iterations = 2.
+	runtime [bitonic] = 49.483967 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.268992
+	iterations = 2.
+	runtime [bitonic] = 49.477089 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.278528
+	iterations = 2.
+	runtime [bitonic] = 55.197025 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.279552
+	iterations = 2.
+	runtime [bitonic] = 50.516769 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.267520
+	iterations = 2.
+	runtime [bitonic] = 49.514561 ms.
+
+
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 0.283904
+	iterations = 2.
+	runtime [bitonic] = 49.486210 ms.
+
+

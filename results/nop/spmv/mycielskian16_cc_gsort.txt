@@ -1,0 +1,360 @@
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 55.157536
+	iterations = 2.
+	runtime [gsort] = 54.729313 ms.
+Verifying...
+	runtime [serial] = 40.208000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 55.129505
+	iterations = 2.
+	runtime [gsort] = 54.761536 ms.
+Verifying...
+	runtime [serial] = 40.015000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 55.113503
+	iterations = 2.
+	runtime [gsort] = 54.848866 ms.
+Verifying...
+	runtime [serial] = 40.103000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 55.082111
+	iterations = 2.
+	runtime [gsort] = 54.828289 ms.
+Verifying...
+	runtime [serial] = 39.879000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 57.876255
+	iterations = 2.
+	runtime [gsort] = 55.859074 ms.
+Verifying...
+	runtime [serial] = 30.781000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 55.149822
+	iterations = 2.
+	runtime [gsort] = 54.710911 ms.
+Verifying...
+	runtime [serial] = 39.441000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 55.191936
+	iterations = 2.
+	runtime [gsort] = 54.900478 ms.
+Verifying...
+	runtime [serial] = 40.059000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 55.089790
+	iterations = 2.
+	runtime [gsort] = 54.636543 ms.
+Verifying...
+	runtime [serial] = 31.102000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 55.119457
+	iterations = 2.
+	runtime [gsort] = 54.747105 ms.
+Verifying...
+	runtime [serial] = 39.617000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 55.015903
+	iterations = 2.
+	runtime [gsort] = 54.769184 ms.
+Verifying...
+	runtime [serial] = 39.065000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 55.072193
+	iterations = 2.
+	runtime [gsort] = 54.683903 ms.
+Verifying...
+	runtime [serial] = 39.816000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 55.029919
+	iterations = 2.
+	runtime [gsort] = 54.717857 ms.
+Verifying...
+	runtime [serial] = 39.873000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 56.112034
+	iterations = 2.
+	runtime [gsort] = 54.641186 ms.
+Verifying...
+	runtime [serial] = 30.719000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 59.401119
+	iterations = 2.
+	runtime [gsort] = 56.379295 ms.
+Verifying...
+	runtime [serial] = 30.630000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 55.037472
+	iterations = 2.
+	runtime [gsort] = 54.753281 ms.
+Verifying...
+	runtime [serial] = 31.151000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 55.043873
+	iterations = 2.
+	runtime [gsort] = 54.729504 ms.
+Verifying...
+	runtime [serial] = 30.362000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 55.024128
+	iterations = 2.
+	runtime [gsort] = 54.867970 ms.
+Verifying...
+	runtime [serial] = 39.450000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 60.014721
+	iterations = 2.
+	runtime [gsort] = 60.731968 ms.
+Verifying...
+	runtime [serial] = 30.691000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 55.114433
+	iterations = 2.
+	runtime [gsort] = 54.759361 ms.
+Verifying...
+	runtime [serial] = 39.606000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 55.113632
+	iterations = 2.
+	runtime [gsort] = 54.681793 ms.
+Verifying...
+	runtime [serial] = 39.476000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 55.054562
+	iterations = 2.
+	runtime [gsort] = 54.709698 ms.
+Verifying...
+	runtime [serial] = 30.385000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 55.093346
+	iterations = 2.
+	runtime [gsort] = 54.658718 ms.
+Verifying...
+	runtime [serial] = 30.799000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 55.077919
+	iterations = 2.
+	runtime [gsort] = 54.822754 ms.
+Verifying...
+	runtime [serial] = 30.685000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 55.100544
+	iterations = 2.
+	runtime [gsort] = 54.901855 ms.
+Verifying...
+	runtime [serial] = 39.476000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 54.986847
+	iterations = 2.
+	runtime [gsort] = 54.767200 ms.
+Verifying...
+	runtime [serial] = 30.867000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 55.040222
+	iterations = 2.
+	runtime [gsort] = 54.620319 ms.
+Verifying...
+	runtime [serial] = 30.608000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 59.994911
+	iterations = 2.
+	runtime [gsort] = 60.807743 ms.
+Verifying...
+	runtime [serial] = 31.018000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 55.125057
+	iterations = 2.
+	runtime [gsort] = 54.746078 ms.
+Verifying...
+	runtime [serial] = 40.821000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 55.135201
+	iterations = 2.
+	runtime [gsort] = 54.662720 ms.
+Verifying...
+	runtime [serial] = 40.052000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA CC solver (192 CTAs, 256 threads/CTA) ...
+opt time = 56.083904
+	iterations = 2.
+	runtime [gsort] = 54.754017 ms.
+Verifying...
+	runtime [serial] = 30.874000 ms.
+Correct

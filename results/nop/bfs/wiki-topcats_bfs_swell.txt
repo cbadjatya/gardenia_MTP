@@ -8,7 +8,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 383.370361 ms.
+	runtime [topo_swell] = 171.007004 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -21,7 +21,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 383.219391 ms.
+	runtime [topo_swell] = 171.039581 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -34,7 +34,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 383.037201 ms.
+	runtime [topo_swell] = 171.015289 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -47,7 +47,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 383.236420 ms.
+	runtime [topo_swell] = 171.028290 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -60,7 +60,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 170.997543 ms.
+	runtime [topo_swell] = 171.000793 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -73,7 +73,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 172.977859 ms.
+	runtime [topo_swell] = 171.047333 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -86,7 +86,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 405.406189 ms.
+	runtime [topo_swell] = 178.495422 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -99,7 +99,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 382.729980 ms.
+	runtime [topo_swell] = 171.026077 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -112,7 +112,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 381.973145 ms.
+	runtime [topo_swell] = 170.954208 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -125,7 +125,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 171.000610 ms.
+	runtime [topo_swell] = 173.574844 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -138,7 +138,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 406.338074 ms.
+	runtime [topo_swell] = 171.008698 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -151,7 +151,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 382.852875 ms.
+	runtime [topo_swell] = 171.018372 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -164,7 +164,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 382.809052 ms.
+	runtime [topo_swell] = 173.611908 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -177,7 +177,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 170.946426 ms.
+	runtime [topo_swell] = 170.977280 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -190,7 +190,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 170.974686 ms.
+	runtime [topo_swell] = 171.062973 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -203,7 +203,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 170.957336 ms.
+	runtime [topo_swell] = 180.909058 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -216,7 +216,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 170.959579 ms.
+	runtime [topo_swell] = 171.023743 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -229,7 +229,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 382.950012 ms.
+	runtime [topo_swell] = 170.989594 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -242,7 +242,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 383.153442 ms.
+	runtime [topo_swell] = 173.025253 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -255,7 +255,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 383.143158 ms.
+	runtime [topo_swell] = 171.033081 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -268,7 +268,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 383.382019 ms.
+	runtime [topo_swell] = 171.096924 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -281,7 +281,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 383.275757 ms.
+	runtime [topo_swell] = 170.996643 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -294,7 +294,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 383.089203 ms.
+	runtime [topo_swell] = 171.036224 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -307,7 +307,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 383.270264 ms.
+	runtime [topo_swell] = 170.989639 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -320,7 +320,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 171.061310 ms.
+	runtime [topo_swell] = 171.022018 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -333,7 +333,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 173.474075 ms.
+	runtime [topo_swell] = 173.570053 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -346,7 +346,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 406.175140 ms.
+	runtime [topo_swell] = 170.997986 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -359,7 +359,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 382.549713 ms.
+	runtime [topo_swell] = 171.091934 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -372,7 +372,7 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 382.196930 ms.
+	runtime [topo_swell] = 170.998245 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -385,6 +385,6 @@ Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
 opt time = 0.000000
 	iterations = 9.
-	runtime [topo_swell] = 171.141022 ms.
+	runtime [topo_swell] = 170.996384 ms.
 
 

@@ -6,7 +6,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 17.792065 ms.
+	runtime [topo_base] = 16.791649 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -17,7 +17,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 17.782623 ms.
+	runtime [topo_base] = 16.824385 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -28,7 +28,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 17.833471 ms.
+	runtime [topo_base] = 16.809343 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -39,7 +39,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 58.456478 ms.
+	runtime [topo_base] = 16.836128 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -50,7 +50,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 58.429024 ms.
+	runtime [topo_base] = 16.829632 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -61,7 +61,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 58.437950 ms.
+	runtime [topo_base] = 16.890528 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -72,7 +72,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 58.473343 ms.
+	runtime [topo_base] = 17.029087 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -83,7 +83,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 58.408321 ms.
+	runtime [topo_base] = 16.995712 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -94,7 +94,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 58.368320 ms.
+	runtime [topo_base] = 16.791616 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -105,7 +105,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 60.481663 ms.
+	runtime [topo_base] = 16.828928 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -116,7 +116,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 58.462975 ms.
+	runtime [topo_base] = 16.798559 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -127,7 +127,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 16.829281 ms.
+	runtime [topo_base] = 17.024416 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -138,7 +138,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 60.447681 ms.
+	runtime [topo_base] = 16.827328 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -149,7 +149,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 58.430592 ms.
+	runtime [topo_base] = 17.259457 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -160,7 +160,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 17.783615 ms.
+	runtime [topo_base] = 16.855616 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -171,7 +171,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 17.805153 ms.
+	runtime [topo_base] = 16.846336 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -182,7 +182,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 17.796160 ms.
+	runtime [topo_base] = 16.834881 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -193,7 +193,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 58.450146 ms.
+	runtime [topo_base] = 16.881697 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -204,7 +204,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 58.398655 ms.
+	runtime [topo_base] = 16.836191 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -215,7 +215,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 58.454048 ms.
+	runtime [topo_base] = 16.797760 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -226,7 +226,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 58.441311 ms.
+	runtime [topo_base] = 17.069088 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -237,7 +237,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 58.465855 ms.
+	runtime [topo_base] = 16.829887 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -248,7 +248,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 58.397663 ms.
+	runtime [topo_base] = 16.857216 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -259,7 +259,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 16.831743 ms.
+	runtime [topo_base] = 17.049791 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -270,7 +270,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 58.465183 ms.
+	runtime [topo_base] = 17.766432 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -281,7 +281,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 16.836063 ms.
+	runtime [topo_base] = 17.559904 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -292,7 +292,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 60.500446 ms.
+	runtime [topo_base] = 17.820896 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -303,7 +303,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 58.433346 ms.
+	runtime [topo_base] = 17.817663 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -314,7 +314,7 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 17.801344 ms.
+	runtime [topo_base] = 17.797119 ms.
 
 
 Breadth-first Search by Xuhao Chen
@@ -325,6 +325,6 @@ This graph is symmetrized
 max_degree: 14815 source: 9766
 Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
 	iterations = 13.
-	runtime [topo_base] = 17.818497 ms.
+	runtime [topo_base] = 16.805599 ms.
 
 

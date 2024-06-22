@@ -1,5 +1,5 @@
 # See LICENSE.txt for license details.
-ANALYTICS = spmv bfs cc
+ANALYTICS = bfs
 #bc cc pr sgd spmv sssp vc symgs
 MINING = tc kcl_dfs sgl motif_dfs
 KERNELS = $(ANALYTICS)
