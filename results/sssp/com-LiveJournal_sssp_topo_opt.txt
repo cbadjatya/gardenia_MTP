@@ -1,0 +1,112 @@
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+
+
+--------------BFS OPT results for source 9766 and magic val 350-----------------
+Launching CUDA SSSP solver (7809 CTAs, 512 threads/CTA) ...
+time taken for opt = 1.296512
+Number of Bad Warps found = 2870
+	iterations = 13.
+	runtime [topo_opt] = 84.849571 ms.
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+
+
+--------------BFS OPT results for source 9766 and magic val 700-----------------
+Launching CUDA SSSP solver (7809 CTAs, 512 threads/CTA) ...
+time taken for opt = 1.154368
+Number of Bad Warps found = 690
+	iterations = 13.
+	runtime [topo_opt] = 82.947006 ms.
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+
+
+--------------BFS OPT results for source 9766 and magic val 1000-----------------
+Launching CUDA SSSP solver (7809 CTAs, 512 threads/CTA) ...
+time taken for opt = 1.259648
+Number of Bad Warps found = 282
+	iterations = 13.
+	runtime [topo_opt] = 90.441216 ms.
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+
+
+--------------BFS OPT results for source 9766 and magic val 1500-----------------
+Launching CUDA SSSP solver (7809 CTAs, 512 threads/CTA) ...
+time taken for opt = 1.156224
+Number of Bad Warps found = 125
+	iterations = 13.
+	runtime [topo_opt] = 85.768669 ms.
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+
+
+--------------BFS OPT results for source 9766 and magic val 3000-----------------
+Launching CUDA SSSP solver (7809 CTAs, 512 threads/CTA) ...
+time taken for opt = 1.151136
+Number of Bad Warps found = 26
+	iterations = 13.
+	runtime [topo_opt] = 85.461891 ms.
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+
+
+--------------BFS OPT results for source 9766 and magic val 3500-----------------
+Launching CUDA SSSP solver (7809 CTAs, 512 threads/CTA) ...
+time taken for opt = 1.147296
+Number of Bad Warps found = 21
+	iterations = 13.
+	runtime [topo_opt] = 87.049538 ms.
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+
+
+--------------BFS OPT results for source 9766 and magic val 4000-----------------
+Launching CUDA SSSP solver (7809 CTAs, 512 threads/CTA) ...
+time taken for opt = 1.280640
+Number of Bad Warps found = 18
+	iterations = 13.
+	runtime [topo_opt] = 95.654816 ms.
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+
+
+--------------BFS OPT results for source 9766 and magic val 5000-----------------
+Launching CUDA SSSP solver (7809 CTAs, 512 threads/CTA) ...
+time taken for opt = 1.170752
+Number of Bad Warps found = 5
+	iterations = 13.
+	runtime [topo_opt] = 87.783073 ms.

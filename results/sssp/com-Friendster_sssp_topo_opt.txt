@@ -1,0 +1,96 @@
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+max_degree: 5214 source: 40553568
+
+
+--------------BFS OPT results for source 40553568 and magic val 350-----------------
+Launching CUDA SSSP solver (128142 CTAs, 512 threads/CTA) ...
+time taken for opt = 67.222275
+Number of Bad Warps found = 1158087
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+max_degree: 5214 source: 40553568
+
+
+--------------BFS OPT results for source 40553568 and magic val 700-----------------
+Launching CUDA SSSP solver (128142 CTAs, 512 threads/CTA) ...
+time taken for opt = 33.530880
+Number of Bad Warps found = 438416
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+max_degree: 5214 source: 40553568
+
+
+--------------BFS OPT results for source 40553568 and magic val 1000-----------------
+Launching CUDA SSSP solver (128142 CTAs, 512 threads/CTA) ...
+time taken for opt = 24.392511
+Number of Bad Warps found = 215933
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+max_degree: 5214 source: 40553568
+
+
+--------------BFS OPT results for source 40553568 and magic val 1500-----------------
+Launching CUDA SSSP solver (128142 CTAs, 512 threads/CTA) ...
+time taken for opt = 19.118561
+Number of Bad Warps found = 79953
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+max_degree: 5214 source: 40553568
+
+
+--------------BFS OPT results for source 40553568 and magic val 3000-----------------
+Launching CUDA SSSP solver (128142 CTAs, 512 threads/CTA) ...
+time taken for opt = 15.417888
+Number of Bad Warps found = 259
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+max_degree: 5214 source: 40553568
+
+
+--------------BFS OPT results for source 40553568 and magic val 3500-----------------
+Launching CUDA SSSP solver (128142 CTAs, 512 threads/CTA) ...
+time taken for opt = 15.405376
+Number of Bad Warps found = 20
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+max_degree: 5214 source: 40553568
+
+
+--------------BFS OPT results for source 40553568 and magic val 4000-----------------
+Launching CUDA SSSP solver (128142 CTAs, 512 threads/CTA) ...
+time taken for opt = 15.401376
+Number of Bad Warps found = 7
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+max_degree: 5214 source: 40553568
+
+
+--------------BFS OPT results for source 40553568 and magic val 5000-----------------
+Launching CUDA SSSP solver (128142 CTAs, 512 threads/CTA) ...
+time taken for opt = 15.404512
+Number of Bad Warps found = 1

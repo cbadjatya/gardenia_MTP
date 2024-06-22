@@ -1,0 +1,33 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+max_degree: 33313 source: 43607
+--------------BFS OPT results for source 43607 and magic val 350-----------------
+Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
+opt time = 2.072256
+	iterations = 7.
+	runtime [topo_bitonic] = 155.508804 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+max_degree: 33313 source: 43607
+--------------BFS OPT results for source 43607 and magic val 350-----------------
+Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
+opt time = 2.077600
+	iterations = 7.
+	runtime [topo_bitonic] = 157.335495 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+max_degree: 33313 source: 43607
+--------------BFS OPT results for source 43607 and magic val 350-----------------
+Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
+opt time = 2.084192
+	iterations = 7.
+	runtime [topo_bitonic] = 156.290588 ms.

@@ -1,0 +1,45 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1791489 |E| 28508141
+max_degree: 3907 source: 1166026
+--------------BFS OPT results for source 1166026 and magic val 700-----------------
+	time for opt [opt] = 27.478527 ms.
+	iterations = 255.
+	runtime [opt] = 50.025055 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1791489 |E| 28508141
+max_degree: 3907 source: 1166026
+--------------BFS OPT results for source 1166026 and magic val 700-----------------
+	time for opt [opt] = 27.472832 ms.
+	iterations = 255.
+	runtime [opt] = 50.924992 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1791489 |E| 28508141
+max_degree: 3907 source: 1166026
+--------------BFS OPT results for source 1166026 and magic val 700-----------------
+	time for opt [opt] = 26.322048 ms.
+	iterations = 255.
+	runtime [opt] = 47.397663 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1791489 |E| 28508141
+max_degree: 3907 source: 1166026
+--------------BFS OPT results for source 1166026 and magic val 700-----------------
+	time for opt [opt] = 26.269728 ms.
+	iterations = 255.
+	runtime [opt] = 46.951614 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1791489 |E| 28508141
+max_degree: 3907 source: 1166026
+--------------BFS OPT results for source 1166026 and magic val 700-----------------
+	time for opt [opt] = 27.428928 ms.
+	iterations = 255.
+	runtime [opt] = 51.108929 ms.

@@ -1,0 +1,9 @@
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/weighted_mtx/mawi_201512020330.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 226196185 |E| 480047890
+This graph is symmetrized
+max_degree: 210795477 source: 104492305
+Launching CUDA SSSP solver (441790 CTAs, 512 threads/CTA) ...
+	iterations = 7.
+	runtime [topo_base] = 94163.312500 ms.

@@ -1,0 +1,12 @@
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+Launching CUDA CC solver (6627 CTAs, 256 threads/CTA) ...
+opt time = 56.013153
+	iterations = 2.
+	runtime [gsort] = 98.696541 ms.
+Verifying...
+	runtime [serial] = 152.429000 ms.
+Correct

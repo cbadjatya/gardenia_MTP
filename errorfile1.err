@@ -1,0 +1,10 @@
+mv: cannot move ‘bfs_cuda’ to ‘/lfs/usrhome/mtech/cs22m036/MTP/gardenia/./bfs_cuda’: Directory not empty
+mv: cannot move ‘bin’ to ‘/lfs/usrhome/mtech/cs22m036/MTP/gardenia/./bin’: Directory not empty
+mv: cannot move ‘cub’ to ‘/lfs/usrhome/mtech/cs22m036/MTP/gardenia/./cub’: Directory not empty
+mv: cannot move ‘datasets’ to ‘/lfs/usrhome/mtech/cs22m036/MTP/gardenia/./datasets’: Directory not empty
+mv: cannot move ‘include’ to ‘/lfs/usrhome/mtech/cs22m036/MTP/gardenia/./include’: Directory not empty
+mv: cannot move ‘mining’ to ‘/lfs/usrhome/mtech/cs22m036/MTP/gardenia/./mining’: Directory not empty
+mv: cannot move ‘results’ to ‘/lfs/usrhome/mtech/cs22m036/MTP/gardenia/./results’: Directory not empty
+mv: cannot move ‘src’ to ‘/lfs/usrhome/mtech/cs22m036/MTP/gardenia/./src’: Directory not empty
+mv: cannot move ‘test’ to ‘/lfs/usrhome/mtech/cs22m036/MTP/gardenia/./test’: Directory not empty
+mv: cannot move ‘tools’ to ‘/lfs/usrhome/mtech/cs22m036/MTP/gardenia/./tools’: Directory not empty

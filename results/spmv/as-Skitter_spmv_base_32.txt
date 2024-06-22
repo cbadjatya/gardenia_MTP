@@ -1,0 +1,35 @@
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+Launching CUDA SpMV solver (53013 CTAs, 32 threads/CTA) ...
+	runtime [cuda_base] = 3.5930 ms ( 12.35 GFLOP/s  81.7 GB/s) [L2 error 1.000000]
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+Launching CUDA SpMV solver (53013 CTAs, 32 threads/CTA) ...
+	runtime [cuda_base] = 3.5090 ms ( 12.65 GFLOP/s  83.6 GB/s) [L2 error 1.000000]
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+Launching CUDA SpMV solver (53013 CTAs, 32 threads/CTA) ...
+	runtime [cuda_base] = 3.5200 ms ( 12.61 GFLOP/s  83.4 GB/s) [L2 error 1.000000]
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+Launching CUDA SpMV solver (53013 CTAs, 32 threads/CTA) ...
+	runtime [cuda_base] = 3.5700 ms ( 12.43 GFLOP/s  82.2 GB/s) [L2 error 1.000000]
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+Launching CUDA SpMV solver (53013 CTAs, 32 threads/CTA) ...
+	runtime [cuda_base] = 3.5840 ms ( 12.38 GFLOP/s  81.9 GB/s) [L2 error 1.000000]

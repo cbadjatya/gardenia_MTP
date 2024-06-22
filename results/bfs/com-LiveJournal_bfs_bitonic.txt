@@ -1,0 +1,30 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+--------------BFS OPT results for source 0 and magic val 350-----------------
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 1.264224
+	iterations = 14.
+	runtime [topo_bitonic] = 43.052223 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+--------------BFS OPT results for source 0 and magic val 350-----------------
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 1.243072
+	iterations = 14.
+	runtime [topo_bitonic] = 42.597153 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+--------------BFS OPT results for source 0 and magic val 350-----------------
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 1.266816
+	iterations = 14.
+	runtime [topo_bitonic] = 43.430271 ms.

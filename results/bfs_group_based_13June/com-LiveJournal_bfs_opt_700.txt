@@ -1,0 +1,45 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+--------------BFS OPT results for source 2890225 and magic val 700-----------------
+	time for opt [opt] = 8.928192 ms.
+	iterations = 33.
+	runtime [opt] = 20.724833 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+--------------BFS OPT results for source 2890225 and magic val 700-----------------
+	time for opt [opt] = 8.920032 ms.
+	iterations = 33.
+	runtime [opt] = 20.679104 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+--------------BFS OPT results for source 2890225 and magic val 700-----------------
+	time for opt [opt] = 8.925824 ms.
+	iterations = 33.
+	runtime [opt] = 20.712959 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+--------------BFS OPT results for source 2890225 and magic val 700-----------------
+	time for opt [opt] = 8.930080 ms.
+	iterations = 33.
+	runtime [opt] = 20.706881 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+--------------BFS OPT results for source 2890225 and magic val 700-----------------
+	time for opt [opt] = 8.966336 ms.
+	iterations = 33.
+	runtime [opt] = 20.744287 ms.

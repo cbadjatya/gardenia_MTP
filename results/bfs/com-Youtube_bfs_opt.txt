@@ -1,0 +1,158 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+
+
+--------------BFS OPT results for source 0 and magic val 700-----------------
+	iterations = 14.
+	runtime [opt] = 71.415000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+
+
+--------------BFS OPT results for source 0 and magic val 1000-----------------
+	iterations = 14.
+	runtime [opt] = 71.330000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+
+
+--------------BFS OPT results for source 0 and magic val 1500-----------------
+	iterations = 14.
+	runtime [opt] = 76.612000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+
+
+--------------BFS OPT results for source 0 and magic val 3000-----------------
+	iterations = 14.
+	runtime [opt] = 89.517000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+
+
+--------------BFS OPT results for source 0 and magic val 3500-----------------
+	iterations = 14.
+	runtime [opt] = 92.507000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+
+
+--------------BFS OPT results for source 0 and magic val 4000-----------------
+	iterations = 14.
+	runtime [opt] = 92.612000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+
+
+--------------BFS OPT results for source 0 and magic val 5000-----------------
+	iterations = 14.
+	runtime [opt] = 92.492000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+max_degree: 28754 source: 1071
+
+
+--------------BFS OPT results for source 1071 and magic val 350-----------------
+	iterations = 11.
+	runtime [opt] = 13.903000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+max_degree: 28754 source: 1071
+
+
+--------------BFS OPT results for source 1071 and magic val 700-----------------
+	iterations = 11.
+	runtime [opt] = 14.183000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+max_degree: 28754 source: 1071
+
+
+--------------BFS OPT results for source 1071 and magic val 1000-----------------
+	iterations = 11.
+	runtime [opt] = 14.284000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+max_degree: 28754 source: 1071
+
+
+--------------BFS OPT results for source 1071 and magic val 1500-----------------
+	iterations = 11.
+	runtime [opt] = 14.542000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+max_degree: 28754 source: 1071
+
+
+--------------BFS OPT results for source 1071 and magic val 3000-----------------
+	iterations = 11.
+	runtime [opt] = 15.700000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+max_degree: 28754 source: 1071
+
+
+--------------BFS OPT results for source 1071 and magic val 3500-----------------
+	iterations = 11.
+	runtime [opt] = 15.296000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+max_degree: 28754 source: 1071
+
+
+--------------BFS OPT results for source 1071 and magic val 4000-----------------
+	iterations = 11.
+	runtime [opt] = 15.848000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+max_degree: 28754 source: 1071
+
+
+--------------BFS OPT results for source 1071 and magic val 5000-----------------
+	iterations = 11.
+	runtime [opt] = 15.630000 ms.

@@ -1,0 +1,35 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 1806067135
+max_degree: 4223 source: 50229127
+	iterations = 38.
+	runtime [atomic_free] = 357.968414 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 1806067135
+max_degree: 4223 source: 50229127
+	iterations = 38.
+	runtime [atomic_free] = 352.141266 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 1806067135
+max_degree: 4223 source: 50229127
+	iterations = 38.
+	runtime [atomic_free] = 356.513214 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 1806067135
+max_degree: 4223 source: 50229127
+	iterations = 38.
+	runtime [atomic_free] = 351.762970 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 1806067135
+max_degree: 4223 source: 50229127
+	iterations = 38.
+	runtime [atomic_free] = 351.734375 ms.
