@@ -1,0 +1,30 @@
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA CC solver (2217 CTAs, 512 threads/CTA) ...
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA CC solver (2217 CTAs, 512 threads/CTA) ...
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA CC solver (2217 CTAs, 512 threads/CTA) ...
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA CC solver (2217 CTAs, 512 threads/CTA) ...
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA CC solver (2217 CTAs, 512 threads/CTA) ...

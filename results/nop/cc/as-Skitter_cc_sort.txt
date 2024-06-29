@@ -1,0 +1,65 @@
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+Launching CUDA CC solver (3314 CTAs, 512 threads/CTA) ...
+sort time : 47.914272
+	iterations = 2.
+	runtime [base] = 116.900803 ms.
+
+
+Verifying...
+Wrong
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+Launching CUDA CC solver (3314 CTAs, 512 threads/CTA) ...
+sort time : 48.325279
+	iterations = 2.
+	runtime [base] = 117.184830 ms.
+
+
+Verifying...
+Wrong
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+Launching CUDA CC solver (3314 CTAs, 512 threads/CTA) ...
+sort time : 48.244289
+	iterations = 2.
+	runtime [base] = 119.179970 ms.
+
+
+Verifying...
+Wrong
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+Launching CUDA CC solver (3314 CTAs, 512 threads/CTA) ...
+sort time : 47.906239
+	iterations = 2.
+	runtime [base] = 116.727585 ms.
+
+
+Verifying...
+Wrong
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+Launching CUDA CC solver (3314 CTAs, 512 threads/CTA) ...
+sort time : 47.952095
+	iterations = 2.
+	runtime [base] = 117.057884 ms.
+
+
+Verifying...
+Wrong

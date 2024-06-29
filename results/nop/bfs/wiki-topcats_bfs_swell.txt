@@ -6,9 +6,11 @@ This graph is symmetrized
 max_degree: 238607 source: 279122
 Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 171.007004 ms.
+opt time = 5335.370605
+	iterations = 7.
+	runtime [topo_swell] = 733.210693 ms.
+
+
 
 
 Breadth-first Search by Xuhao Chen
@@ -19,9 +21,11 @@ This graph is symmetrized
 max_degree: 238607 source: 279122
 Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 171.039581 ms.
+opt time = 5330.317383
+	iterations = 7.
+	runtime [topo_swell] = 733.193237 ms.
+
+
 
 
 Breadth-first Search by Xuhao Chen
@@ -32,9 +36,11 @@ This graph is symmetrized
 max_degree: 238607 source: 279122
 Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 171.015289 ms.
+opt time = 5300.252930
+	iterations = 7.
+	runtime [topo_swell] = 733.251770 ms.
+
+
 
 
 Breadth-first Search by Xuhao Chen
@@ -45,9 +51,11 @@ This graph is symmetrized
 max_degree: 238607 source: 279122
 Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 171.028290 ms.
+opt time = 5308.699219
+	iterations = 7.
+	runtime [topo_swell] = 733.215332 ms.
+
+
 
 
 Breadth-first Search by Xuhao Chen
@@ -58,333 +66,10 @@ This graph is symmetrized
 max_degree: 238607 source: 279122
 Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
 successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 171.000793 ms.
+opt time = 5321.892090
+	iterations = 7.
+	runtime [topo_swell] = 733.266968 ms.
 
 
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 171.047333 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 178.495422 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 171.026077 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 170.954208 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 173.574844 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 171.008698 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 171.018372 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 173.611908 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 170.977280 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 171.062973 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 180.909058 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 171.023743 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 170.989594 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 173.025253 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 171.033081 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 171.096924 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 170.996643 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 171.036224 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 170.989639 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 171.022018 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 173.570053 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 170.997986 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 171.091934 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 170.998245 ms.
-
-
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
-Removing redundent edges... 313424 redundent edges are removed
-|V| 1791489 |E| 56702858
-This graph is symmetrized
-max_degree: 238607 source: 279122
-Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
-successful xformation
-opt time = 0.000000
-	iterations = 9.
-	runtime [topo_swell] = 170.996384 ms.
 
 

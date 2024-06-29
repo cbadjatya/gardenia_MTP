@@ -1,0 +1,60 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+sort time : 46.844223
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+	iterations = 7.
+	runtime [topo_sort] = 631.290771 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+sort time : 46.821247
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+	iterations = 7.
+	runtime [topo_sort] = 625.726868 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+sort time : 50.309311
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+	iterations = 7.
+	runtime [topo_sort] = 643.283203 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+sort time : 50.303200
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+	iterations = 7.
+	runtime [topo_sort] = 638.063660 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+sort time : 46.853474
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+	iterations = 7.
+	runtime [topo_sort] = 633.585266 ms.
+
+

@@ -1,0 +1,60 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+sort time : 1.210784
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+	iterations = 7.
+	runtime [topo_sort] = 137.713348 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+sort time : 1.208768
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+	iterations = 7.
+	runtime [topo_sort] = 140.062210 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+sort time : 1.220416
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+	iterations = 7.
+	runtime [topo_sort] = 139.967834 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+sort time : 1.301984
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+	iterations = 7.
+	runtime [topo_sort] = 138.036514 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+sort time : 1.222944
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+	iterations = 7.
+	runtime [topo_sort] = 137.469376 ms.
+
+

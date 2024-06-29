@@ -1,0 +1,45 @@
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+successful xformation
+Launching CUDA SpMV solver (3500 CTAs, 512 threads/CTA) ...
+0
+	runtime [cuda_swell] = 30.4630 ms (  3.34 GFLOP/s  21.0 GB/s) [L2 error]
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+successful xformation
+Launching CUDA SpMV solver (3500 CTAs, 512 threads/CTA) ...
+0
+	runtime [cuda_swell] = 30.8180 ms (  3.30 GFLOP/s  20.7 GB/s) [L2 error]
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+successful xformation
+Launching CUDA SpMV solver (3500 CTAs, 512 threads/CTA) ...
+0
+	runtime [cuda_swell] = 30.3930 ms (  3.35 GFLOP/s  21.0 GB/s) [L2 error]
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+successful xformation
+Launching CUDA SpMV solver (3500 CTAs, 512 threads/CTA) ...
+0
+	runtime [cuda_swell] = 30.5180 ms (  3.33 GFLOP/s  20.9 GB/s) [L2 error]
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+successful xformation
+Launching CUDA SpMV solver (3500 CTAs, 512 threads/CTA) ...
+0
+	runtime [cuda_swell] = 30.7750 ms (  3.31 GFLOP/s  20.8 GB/s) [L2 error]

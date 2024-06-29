@@ -1,0 +1,60 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 0.398208
+	iterations = 7.
+	runtime [topo_bitonic] = 99.682785 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 0.383552
+	iterations = 7.
+	runtime [topo_bitonic] = 97.068382 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 0.378112
+	iterations = 7.
+	runtime [topo_bitonic] = 100.411842 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 0.393824
+	iterations = 7.
+	runtime [topo_bitonic] = 99.695297 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 0.434304
+	iterations = 7.
+	runtime [topo_bitonic] = 100.137344 ms.
+
+
