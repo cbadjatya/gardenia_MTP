@@ -1,0 +1,158 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+
+
+--------------BFS OPT results for source 0 and magic val 700-----------------
+	iterations = 8.
+	runtime [opt] = 131.880000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+
+
+--------------BFS OPT results for source 0 and magic val 1000-----------------
+	iterations = 8.
+	runtime [opt] = 126.008000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+
+
+--------------BFS OPT results for source 0 and magic val 1500-----------------
+	iterations = 8.
+	runtime [opt] = 125.971000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+
+
+--------------BFS OPT results for source 0 and magic val 3000-----------------
+	iterations = 8.
+	runtime [opt] = 122.721000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+
+
+--------------BFS OPT results for source 0 and magic val 3500-----------------
+	iterations = 8.
+	runtime [opt] = 117.683000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+
+
+--------------BFS OPT results for source 0 and magic val 4000-----------------
+	iterations = 8.
+	runtime [opt] = 122.071000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+
+
+--------------BFS OPT results for source 0 and magic val 5000-----------------
+	iterations = 8.
+	runtime [opt] = 123.068000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+max_degree: 33313 source: 43607
+
+
+--------------BFS OPT results for source 43607 and magic val 350-----------------
+	iterations = 5.
+	runtime [opt] = 63.972000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+max_degree: 33313 source: 43607
+
+
+--------------BFS OPT results for source 43607 and magic val 700-----------------
+	iterations = 5.
+	runtime [opt] = 53.523000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+max_degree: 33313 source: 43607
+
+
+--------------BFS OPT results for source 43607 and magic val 1000-----------------
+	iterations = 5.
+	runtime [opt] = 52.352000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+max_degree: 33313 source: 43607
+
+
+--------------BFS OPT results for source 43607 and magic val 1500-----------------
+	iterations = 5.
+	runtime [opt] = 49.471000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+max_degree: 33313 source: 43607
+
+
+--------------BFS OPT results for source 43607 and magic val 3000-----------------
+	iterations = 6.
+	runtime [opt] = 48.714000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+max_degree: 33313 source: 43607
+
+
+--------------BFS OPT results for source 43607 and magic val 3500-----------------
+	iterations = 6.
+	runtime [opt] = 51.788000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+max_degree: 33313 source: 43607
+
+
+--------------BFS OPT results for source 43607 and magic val 4000-----------------
+	iterations = 6.
+	runtime [opt] = 50.079000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+max_degree: 33313 source: 43607
+
+
+--------------BFS OPT results for source 43607 and magic val 5000-----------------
+	iterations = 6.
+	runtime [opt] = 49.483000 ms.

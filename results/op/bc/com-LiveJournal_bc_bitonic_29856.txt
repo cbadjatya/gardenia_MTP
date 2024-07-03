@@ -1,0 +1,65 @@
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 29856
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.304192
+	iterations = 14.
+Runtime = 84.837090
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 29856
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.306240
+	iterations = 14.
+Runtime = 82.014305
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 29856
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.352896
+	iterations = 14.
+Runtime = 89.298973
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 29856
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.304160
+	iterations = 14.
+Runtime = 84.270721
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 29856
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.320576
+	iterations = 14.
+Runtime = 86.339844
+
+

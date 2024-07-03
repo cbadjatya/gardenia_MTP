@@ -1,0 +1,65 @@
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+source : 29856
+Launching CUDA BC solver (8192 CTAs/SM, 512 threads/CTA) ...
+sort time : 1.695680
+	iterations = 1467.
+Runtime = 376.286133
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+source : 29856
+Launching CUDA BC solver (8192 CTAs/SM, 512 threads/CTA) ...
+sort time : 1.705568
+	iterations = 1467.
+Runtime = 378.559570
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+source : 29856
+Launching CUDA BC solver (8192 CTAs/SM, 512 threads/CTA) ...
+sort time : 1.713984
+	iterations = 1467.
+Runtime = 376.827118
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+source : 29856
+Launching CUDA BC solver (8192 CTAs/SM, 512 threads/CTA) ...
+sort time : 1.697952
+	iterations = 1467.
+Runtime = 374.341858
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+source : 29856
+Launching CUDA BC solver (8192 CTAs/SM, 512 threads/CTA) ...
+sort time : 1.691648
+	iterations = 1467.
+Runtime = 373.884186
+
+

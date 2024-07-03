@@ -1,0 +1,65 @@
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 30777
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.324192
+	iterations = 13.
+Runtime = 69.939713
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 30777
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.331200
+	iterations = 13.
+Runtime = 74.613922
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 30777
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.328768
+	iterations = 13.
+Runtime = 69.514336
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 30777
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.323616
+	iterations = 13.
+Runtime = 72.245407
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 30777
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.306016
+	iterations = 13.
+Runtime = 68.949699
+
+

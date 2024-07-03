@@ -1,0 +1,120 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 1.249504
+	iterations = 13.
+	runtime [topo_bitonic] = 52.259136 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 1.375136
+	iterations = 13.
+	runtime [topo_bitonic] = 56.895294 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 1.248352
+	iterations = 13.
+	runtime [topo_bitonic] = 52.097343 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 1.247584
+	iterations = 13.
+	runtime [topo_bitonic] = 52.098209 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 1.377216
+	iterations = 13.
+	runtime [topo_bitonic] = 56.538494 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 1.292032
+	iterations = 13.
+	runtime [topo_bitonic] = 52.913631 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 1.264768
+	iterations = 13.
+	runtime [topo_bitonic] = 52.262943 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 1.237312
+	iterations = 13.
+	runtime [topo_bitonic] = 52.572159 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 1.368864
+	iterations = 13.
+	runtime [topo_bitonic] = 57.791359 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 1.266112
+	iterations = 13.
+	runtime [topo_bitonic] = 52.984257 ms.
+
+

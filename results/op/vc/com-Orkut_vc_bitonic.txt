@@ -1,0 +1,35 @@
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+Launching CUDA VC solver (6001 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.342336
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+Launching CUDA VC solver (6001 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.331360
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+Launching CUDA VC solver (6001 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.329120
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+Launching CUDA VC solver (6001 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.348832
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+Launching CUDA VC solver (6001 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.326912

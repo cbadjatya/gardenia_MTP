@@ -1,0 +1,65 @@
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+max_degree: 40 source: 2421852
+source : 6733
+Launching CUDA BC solver (32768 CTAs/SM, 512 threads/CTA) ...
+sort time : 4.493920
+	iterations = 2882.
+Runtime = 2504.202148
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+max_degree: 40 source: 2421852
+source : 6733
+Launching CUDA BC solver (32768 CTAs/SM, 512 threads/CTA) ...
+sort time : 4.502784
+	iterations = 2882.
+Runtime = 2508.315430
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+max_degree: 40 source: 2421852
+source : 6733
+Launching CUDA BC solver (32768 CTAs/SM, 512 threads/CTA) ...
+sort time : 4.462368
+	iterations = 2882.
+Runtime = 2506.485840
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+max_degree: 40 source: 2421852
+source : 6733
+Launching CUDA BC solver (32768 CTAs/SM, 512 threads/CTA) ...
+sort time : 4.469952
+	iterations = 2882.
+Runtime = 2506.894775
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+max_degree: 40 source: 2421852
+source : 6733
+Launching CUDA BC solver (32768 CTAs/SM, 512 threads/CTA) ...
+sort time : 4.501024
+	iterations = 2882.
+Runtime = 2505.624268
+
+

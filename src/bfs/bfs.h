@@ -2,6 +2,14 @@
 // Contact: Xuhao Chen <cxh@mit.edu>
 #include "common.h"
 #include "csr_graph.h"
+#include "mm.hpp"
+
+typedef unsigned long int Ordinal;
+typedef unsigned long int Offset;
+typedef float Scalar;
+typedef MtxReader<Ordinal, Scalar, Offset> reader_t;
+typedef typename reader_t::coo_type coo_t;
+typedef CSR<Ordinal, Scalar, Offset> csr_type;
 
 /*
 GARDENIA Benchmark Suite
@@ -40,6 +48,6 @@ bfs_fusion: data-driven GPU implementation with kernel fusion, one thread per ed
 bfs_hybrid: one thread per vertex using CUDA, using Beamer's Direction-Optimizing approach using CUDA
 */
 
-void BFSSolver(Graph &g, int source, DistT *dist);
-void BFSVerifier(Graph &g, int source, DistT *dist);
+void BFSSolver(Graph& g, int source, DistT *dist, int magic_val);
+void BFSVerifier(Graph& g, int source, DistT *dist);
 

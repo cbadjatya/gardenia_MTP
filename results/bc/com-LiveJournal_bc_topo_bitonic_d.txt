@@ -1,0 +1,60 @@
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+source : 2890225
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 1.261920
+	iterations = 33.
+Runtime = 101.522781
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+source : 2890225
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 1.179040
+	iterations = 33.
+Runtime = 95.405983
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+source : 2890225
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 1.146080
+	iterations = 33.
+Runtime = 91.538368
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+source : 2890225
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 1.177856
+	iterations = 33.
+Runtime = 95.016800
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+source : 2890225
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 1.170400
+	iterations = 33.
+Runtime = 93.491074
+
+

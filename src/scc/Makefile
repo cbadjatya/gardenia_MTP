@@ -4,7 +4,7 @@ INCLUDES+=-I $(CUB_DIR)
 SRC=main.cc
 OBJS=base.o bitset.o main.o verifier.o omp_base.o topo.o wcc.o two_phase.o
 
-all: $(OBJS) scc_topo scc_two_phase
+all: $(OBJS) scc_base
 
 %.o: %.cc
 	$(CXX) $(CXXFLAGS) $(PARFLAG) $(INCLUDES) -c $<

@@ -1,0 +1,120 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+sort time : 68.137604
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+	iterations = 13.
+	runtime [topo_sort] = 67.145599 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+sort time : 73.300354
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+	iterations = 13.
+	runtime [topo_sort] = 71.605309 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+sort time : 69.075325
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+	iterations = 13.
+	runtime [topo_sort] = 68.012451 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+sort time : 68.135361
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+	iterations = 13.
+	runtime [topo_sort] = 66.715103 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+sort time : 68.084610
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+	iterations = 13.
+	runtime [topo_sort] = 66.936897 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+sort time : 73.313377
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+	iterations = 13.
+	runtime [topo_sort] = 71.644447 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+sort time : 69.092926
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+	iterations = 13.
+	runtime [topo_sort] = 68.169060 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+sort time : 68.045982
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+	iterations = 13.
+	runtime [topo_sort] = 67.051491 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+sort time : 73.316734
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+	iterations = 13.
+	runtime [topo_sort] = 71.661919 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+sort time : 69.063553
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+	iterations = 13.
+	runtime [topo_sort] = 67.910622 ms.
+
+

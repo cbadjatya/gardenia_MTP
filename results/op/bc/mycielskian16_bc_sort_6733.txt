@@ -1,0 +1,65 @@
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+source : 6733
+Launching CUDA BC solver (96 CTAs/SM, 512 threads/CTA) ...
+sort time : 0.724032
+	iterations = 3.
+Runtime = 41.250145
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+source : 6733
+Launching CUDA BC solver (96 CTAs/SM, 512 threads/CTA) ...
+sort time : 0.765920
+	iterations = 3.
+Runtime = 41.135742
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+source : 6733
+Launching CUDA BC solver (96 CTAs/SM, 512 threads/CTA) ...
+sort time : 0.737984
+	iterations = 3.
+Runtime = 42.023617
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+source : 6733
+Launching CUDA BC solver (96 CTAs/SM, 512 threads/CTA) ...
+sort time : 0.748800
+	iterations = 3.
+Runtime = 40.861824
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+source : 6733
+Launching CUDA BC solver (96 CTAs/SM, 512 threads/CTA) ...
+sort time : 0.757088
+	iterations = 3.
+Runtime = 41.637890
+
+

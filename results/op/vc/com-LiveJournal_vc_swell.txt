@@ -1,0 +1,40 @@
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+Launching CUDA VC solver (7809 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 7538.818359
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+Launching CUDA VC solver (7809 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 7540.525391
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+Launching CUDA VC solver (7809 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 7556.202148
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+Launching CUDA VC solver (7809 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 7529.175293
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+Launching CUDA VC solver (7809 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 7550.791504

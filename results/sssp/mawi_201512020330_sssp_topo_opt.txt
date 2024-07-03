@@ -1,0 +1,14 @@
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/weighted_mtx/mawi_201512020330.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 226196185 |E| 480047890
+This graph is symmetrized
+max_degree: 210795477 source: 104492305
+
+
+--------------BFS OPT results for source 104492305 and magic val 700-----------------
+Launching CUDA SSSP solver (441790 CTAs, 512 threads/CTA) ...
+time taken for opt = 6.292224
+Number of Bad Warps found = 1582
+	iterations = 7.
+	runtime [topo_opt] = 98965.132812 ms.

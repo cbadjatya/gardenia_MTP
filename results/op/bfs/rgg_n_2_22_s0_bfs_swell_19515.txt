@@ -1,0 +1,80 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+SOURCE : 19515
+Launching CUDA BFS solver (8192 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 7847.558594
+	iterations = 1588.
+	runtime [topo_swell] = 191.702530 ms.
+
+
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+SOURCE : 19515
+Launching CUDA BFS solver (8192 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 7853.559570
+	iterations = 1588.
+	runtime [topo_swell] = 192.744217 ms.
+
+
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+SOURCE : 19515
+Launching CUDA BFS solver (8192 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 7851.785156
+	iterations = 1588.
+	runtime [topo_swell] = 186.731964 ms.
+
+
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+SOURCE : 19515
+Launching CUDA BFS solver (8192 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 7849.677246
+	iterations = 1588.
+	runtime [topo_swell] = 187.078949 ms.
+
+
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+SOURCE : 19515
+Launching CUDA BFS solver (8192 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 7851.435547
+	iterations = 1588.
+	runtime [topo_swell] = 185.674011 ms.
+
+
+
+

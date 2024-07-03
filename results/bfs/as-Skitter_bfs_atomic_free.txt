@@ -1,0 +1,70 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 11095298
+max_degree: 3714 source: 149419
+	iterations = 12.
+	runtime [atomic_free] = 2.305760 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 11095298
+max_degree: 3714 source: 149419
+	iterations = 12.
+	runtime [atomic_free] = 2.309600 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 11095298
+max_degree: 3714 source: 149419
+	iterations = 12.
+	runtime [atomic_free] = 2.289280 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 11095298
+max_degree: 3714 source: 149419
+	iterations = 12.
+	runtime [atomic_free] = 2.318112 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 11095298
+max_degree: 3714 source: 149419
+	iterations = 12.
+	runtime [atomic_free] = 2.320736 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 11095298
+max_degree: 3714 source: 149419
+	iterations = 12.
+	runtime [atomic_free] = 2.310432 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 11095298
+max_degree: 3714 source: 149419
+	iterations = 12.
+	runtime [atomic_free] = 2.313888 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 11095298
+max_degree: 3714 source: 149419
+	iterations = 12.
+	runtime [atomic_free] = 2.298304 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 11095298
+max_degree: 3714 source: 149419
+	iterations = 12.
+	runtime [atomic_free] = 2.333120 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 11095298
+max_degree: 3714 source: 149419
+	iterations = 12.
+	runtime [atomic_free] = 2.320000 ms.

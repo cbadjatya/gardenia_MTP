@@ -71,7 +71,7 @@ private:
     iss.str(line);
     return !!(iss >> src >> dest);
   }
-  void read_mtx_file(std::string fname, bool symmetrize = false, bool need_reverse = false) {
+  void read_mtx_file(std::string fname, bool symmetrize = false, bool need_reverse = false, int* source = NULL) {
     std::cout << "Reading (.mtx) input file " << fname << "\n";
     std::ifstream infile(fname.c_str());
     if (!infile) {
@@ -116,11 +116,12 @@ private:
       }
     }
     infile.close();
-    fill_data(symmetrize, need_reverse, true, true);
+    fill_data(symmetrize, need_reverse, true, true, source);
 	}
 
-  void fill_data(bool symmetrize, bool need_reverse, bool sorted, bool remove_redundents) {
+  void fill_data(bool symmetrize, bool need_reverse, bool sorted, bool remove_redundents, int* source = NULL) {
     //sort the neighbor list
+    sorted = false;
     if (sorted) {
       //printf("Sorting the neighbor lists...");
       for(int i = 0; i < n_vertices; i++)
@@ -149,8 +150,12 @@ private:
     max_degree = 0;
     for (int i = 1; i < n_vertices+1; i++) {
       auto degree = adj_lists[i-1].size();
-      if (VertexId(degree) > max_degree)
+      if (VertexId(degree) > max_degree){
         max_degree = VertexId(degree);
+        if(source!=NULL)
+        *source = i-1;
+      }
+        
       vertices[i] = vertices[i-1] + degree;
     }
     edges = custom_alloc_global<VertexId>(n_edges);
@@ -211,10 +216,11 @@ public:
   Graph(std::string prefix, 
         std::string filetype = "bin",
         bool symmetrize = false,
-        bool need_reverse = false) {
+        bool need_reverse = false,
+        int* source = NULL) {
     if (filetype == "mtx") {
       std::string filename = prefix + ".mtx";
-      read_mtx_file(filename, symmetrize, need_reverse);
+      read_mtx_file(filename, symmetrize, need_reverse, source);
     } else if (filetype == "bin") {
       std::ifstream f_meta((prefix + ".meta.txt").c_str());
       assert(f_meta);
@@ -244,7 +250,8 @@ public:
       reverse_edges = edges;
       has_reverse = true;
     }
-    //std::cout << "max_degree: " << max_degree << "\n";
+    if(source!=NULL)
+    std::cout << "max_degree: " << max_degree << " " << "source: "<<*source<< "\n";
     if (max_degree == 0 || max_degree>=n_vertices) exit(1);
     //if (use_dag) orientation();
   }

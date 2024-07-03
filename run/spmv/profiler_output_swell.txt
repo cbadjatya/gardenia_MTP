@@ -1,0 +1,31 @@
+==56856== NVPROF is profiling process 56856, command: ./bin/spmv_swell mtx /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0
+==56856== Some kernel(s) will be replayed on device 0 in order to collect all events/metrics.
+==56856== Profiling application: ./bin/spmv_swell mtx /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0
+==56856== Profiling result:
+==56856== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla V100-PCIE-32GB (0)"
+    Kernel: spmv_csr_scalar(int, int const *, float const *, float const *, float*, int*, int*, unsigned int*)
+          1                 warp_execution_efficiency                 Warp Execution Efficiency     100.00%     100.00%     100.00%
+          1              gld_transactions_per_request      Global Load Transactions Per Request   11.742524   11.742524   11.742524
+          1              gst_transactions_per_request     Global Store Transactions Per Request    4.000000    4.000000    4.000000
+          1                           global_hit_rate         Global Hit Rate in unified l1/tex      53.50%      53.50%      53.50%
+          1                            local_hit_rate                            Local Hit Rate       0.00%       0.00%       0.00%
+          1                            gld_throughput                    Global Load Throughput  1427.4GB/s  1427.4GB/s  1427.4GB/s
+          1                            gst_throughput                   Global Store Throughput  9.8415GB/s  9.8415GB/s  9.8415GB/s
+          1                            gld_efficiency             Global Memory Load Efficiency      32.99%      32.99%      32.99%
+          1                            gst_efficiency            Global Memory Store Efficiency     100.00%     100.00%     100.00%
+          1                        achieved_occupancy                        Achieved Occupancy    0.932813    0.932813    0.932813
+          1                  eligible_warps_per_cycle           Eligible Warps Per Active Cycle    0.425196    0.425196    0.425196
+    Kernel: populate(int, int*, float*, int*, float*, float*, float*, int*, int*, int*, int*, int*, int*)
+          1                 warp_execution_efficiency                 Warp Execution Efficiency     100.00%     100.00%     100.00%
+          1              gld_transactions_per_request      Global Load Transactions Per Request   29.351451   29.351451   29.351451
+          1              gst_transactions_per_request     Global Store Transactions Per Request    4.000058    4.000058    4.000058
+          1                           global_hit_rate         Global Hit Rate in unified l1/tex       6.68%       6.68%       6.68%
+          1                            local_hit_rate                            Local Hit Rate       0.00%       0.00%       0.00%
+          1                            gld_throughput                    Global Load Throughput  219.73GB/s  219.73GB/s  219.73GB/s
+          1                            gst_throughput                   Global Store Throughput  18.630GB/s  18.630GB/s  18.630GB/s
+          1                            gld_efficiency             Global Memory Load Efficiency      13.22%      13.22%      13.22%
+          1                            gst_efficiency            Global Memory Store Efficiency     100.00%     100.00%     100.00%
+          1                        achieved_occupancy                        Achieved Occupancy    0.952105    0.952105    0.952105
+          1                  eligible_warps_per_cycle           Eligible Warps Per Active Cycle    0.042654    0.042654    0.042654

@@ -1,0 +1,12 @@
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/weighted_mtx/GAP-twitter.mtx
+Removing redundent edges... 4839550 redundent edges are removed
+|V| 61578415 |E| 2931890218
+This graph is symmetrized
+max_degree: 3081112 source: 16409683
+
+
+--------------BFS OPT results for source 16409683 and magic val 700-----------------
+Launching CUDA SSSP solver (120271 CTAs, 512 threads/CTA) ...
+time taken for opt = 62.232513
+Number of Bad Warps found = 441977

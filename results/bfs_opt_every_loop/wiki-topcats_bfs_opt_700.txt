@@ -1,0 +1,40 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1791489 |E| 28508141
+max_degree: 3907 source: 1166026
+--------------BFS OPT results for source 1166026 and magic val 700-----------------
+	iterations = 255.
+	runtime [opt] = 171.710342 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1791489 |E| 28508141
+max_degree: 3907 source: 1166026
+--------------BFS OPT results for source 1166026 and magic val 700-----------------
+	iterations = 255.
+	runtime [opt] = 164.018112 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1791489 |E| 28508141
+max_degree: 3907 source: 1166026
+--------------BFS OPT results for source 1166026 and magic val 700-----------------
+	iterations = 255.
+	runtime [opt] = 162.521286 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1791489 |E| 28508141
+max_degree: 3907 source: 1166026
+--------------BFS OPT results for source 1166026 and magic val 700-----------------
+	iterations = 255.
+	runtime [opt] = 182.469604 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1791489 |E| 28508141
+max_degree: 3907 source: 1166026
+--------------BFS OPT results for source 1166026 and magic val 700-----------------
+	iterations = 255.
+	runtime [opt] = 166.561310 ms.

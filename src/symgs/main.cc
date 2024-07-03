@@ -49,7 +49,7 @@ int main(int argc, char *argv[]) {
   thrust::sequence(ordering, ordering+m);
   int *colors = (int *)malloc(m * sizeof(int));
   for(int i = 0; i < m; i ++) colors[i] = MAXCOLOR;
-  int num_colors = VCSolver(g, colors);
+  int num_colors = VCSolver(g, colors, 1000);
   thrust::sort_by_key(colors, colors+m, ordering);
   int *temp = (int *)malloc((num_colors+1) * sizeof(int));
   thrust::reduce_by_key(colors, colors+m,

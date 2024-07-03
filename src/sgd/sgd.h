@@ -22,7 +22,7 @@ sgd_warp: one warp per row (vertex) using CUDA
 sgd_vector: one vector per row (vertex) using CUDA
 *
 */
-#define K (20)               // dimension of the latent vector (number of features)
+#define K (5)               // dimension of the latent vector (number of features)
 static ScoreT lambda = 0.001; // regularization_factor
 static ScoreT step = 0.00000035;  // learning rate in the algorithm
 static float epsilon = 0.1;  // convergence condition

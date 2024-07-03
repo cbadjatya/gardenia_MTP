@@ -1,0 +1,100 @@
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+Launching CUDA SpMV solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 1.682144
+	runtime [cuda_base] = 27.1265 ms (  5.11 GFLOP/s  33.0 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+Launching CUDA SpMV solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 1.681216
+	runtime [cuda_base] = 26.9985 ms (  5.14 GFLOP/s  33.2 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+Launching CUDA SpMV solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 1.692320
+	runtime [cuda_base] = 27.1184 ms (  5.12 GFLOP/s  33.1 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+Launching CUDA SpMV solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 1.696544
+	runtime [cuda_base] = 27.1719 ms (  5.11 GFLOP/s  33.0 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+Launching CUDA SpMV solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 1.566592
+	runtime [cuda_base] = 25.7571 ms (  5.39 GFLOP/s  34.8 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+Launching CUDA SpMV solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 1.678976
+	runtime [cuda_base] = 27.1977 ms (  5.10 GFLOP/s  33.0 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+Launching CUDA SpMV solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 1.515456
+	runtime [cuda_base] = 25.7526 ms (  5.39 GFLOP/s  34.8 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+Launching CUDA SpMV solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 1.536960
+	runtime [cuda_base] = 25.7170 ms (  5.39 GFLOP/s  34.9 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+Launching CUDA SpMV solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 1.554560
+	runtime [cuda_base] = 25.6496 ms (  5.41 GFLOP/s  34.9 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+Launching CUDA SpMV solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 1.561504
+	runtime [cuda_base] = 25.7495 ms (  5.39 GFLOP/s  34.8 GB/s) [L2 error 1.000000]
+
+

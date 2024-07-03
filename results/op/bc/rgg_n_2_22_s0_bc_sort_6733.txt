@@ -1,0 +1,65 @@
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+source : 6733
+Launching CUDA BC solver (8192 CTAs/SM, 512 threads/CTA) ...
+sort time : 1.683328
+	iterations = 1442.
+Runtime = 368.231415
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+source : 6733
+Launching CUDA BC solver (8192 CTAs/SM, 512 threads/CTA) ...
+sort time : 1.702368
+	iterations = 1442.
+Runtime = 371.721924
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+source : 6733
+Launching CUDA BC solver (8192 CTAs/SM, 512 threads/CTA) ...
+sort time : 1.722784
+	iterations = 1442.
+Runtime = 370.282501
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+source : 6733
+Launching CUDA BC solver (8192 CTAs/SM, 512 threads/CTA) ...
+sort time : 1.675040
+	iterations = 1442.
+Runtime = 367.891144
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+source : 6733
+Launching CUDA BC solver (8192 CTAs/SM, 512 threads/CTA) ...
+sort time : 1.712160
+	iterations = 1442.
+Runtime = 372.120544
+
+

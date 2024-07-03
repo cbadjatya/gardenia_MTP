@@ -1,0 +1,13 @@
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+max_degree: 238342 source: 279122
+source : 5173
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 2.068864
+	iterations = 12.
+Runtime = 372.913330
+
+

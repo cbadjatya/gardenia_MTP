@@ -1,8 +1,9 @@
 # See LICENSE.txt for license details.
-ANALYTICS = bc bfs cc pr sgd spmv sssp vc symgs
+ANALYTICS = bfs
+#bc cc pr sgd spmv sssp vc symgs
 MINING = tc kcl_dfs sgl motif_dfs
 KERNELS = $(ANALYTICS)
-KERNELS = $(MINING)
+#KERNELS = $(MINING)
 SUITE = $(KERNELS)
 
 .PHONY: all

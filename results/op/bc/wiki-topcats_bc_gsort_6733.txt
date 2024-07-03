@@ -1,0 +1,65 @@
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+max_degree: 238342 source: 279122
+source : 6733
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 2.106624
+	iterations = 11.
+Runtime = 416.573029
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+max_degree: 238342 source: 279122
+source : 6733
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 2.040608
+	iterations = 11.
+Runtime = 243.854553
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+max_degree: 238342 source: 279122
+source : 6733
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 1.972480
+	iterations = 11.
+Runtime = 238.638657
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+max_degree: 238342 source: 279122
+source : 6733
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 2.080992
+	iterations = 10.
+Runtime = 279.557953
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+max_degree: 238342 source: 279122
+source : 6733
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 1.978400
+	iterations = 10.
+Runtime = 269.963409
+
+

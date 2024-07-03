@@ -27,6 +27,6 @@ vc_linear_base: data-driven GPU implementation, one thread per vertex using CUDA
 vc_linear_bitset: data-driven GPU implementation using bitset operations, one thread per vertex using CUDA
 */
 
-int VCSolver(Graph &g, int *colors);
+int VCSolver(Graph &g, int *colors, int magic);
 void VCVerifier(Graph &g, int *colors);
 

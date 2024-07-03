@@ -1,0 +1,65 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+max_degree: 33313 source: 43607
+
+
+--------------BFS OPT results for source 43607 and magic val 100-----------------
+time taken for opt = 5.243360
+Number of Bad Warps found = 84183
+	iterations = 7.
+	runtime [opt] = 124.078110 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+max_degree: 33313 source: 43607
+
+
+--------------BFS OPT results for source 43607 and magic val 100-----------------
+time taken for opt = 5.285184
+Number of Bad Warps found = 84183
+	iterations = 7.
+	runtime [opt] = 119.941345 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+max_degree: 33313 source: 43607
+
+
+--------------BFS OPT results for source 43607 and magic val 100-----------------
+time taken for opt = 5.248320
+Number of Bad Warps found = 84183
+	iterations = 7.
+	runtime [opt] = 118.977951 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+max_degree: 33313 source: 43607
+
+
+--------------BFS OPT results for source 43607 and magic val 100-----------------
+time taken for opt = 5.268032
+Number of Bad Warps found = 84183
+	iterations = 7.
+	runtime [opt] = 125.383102 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+max_degree: 33313 source: 43607
+
+
+--------------BFS OPT results for source 43607 and magic val 100-----------------
+time taken for opt = 5.263904
+Number of Bad Warps found = 84183
+	iterations = 7.
+	runtime [opt] = 126.074623 ms.

@@ -1,0 +1,45 @@
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+Launching CUDA SSSP solver (96 CTAs, 512 threads/CTA) ...
+	iterations = 3.
+	runtime [topo_base] = 26.559393 ms.
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+Launching CUDA SSSP solver (96 CTAs, 512 threads/CTA) ...
+	iterations = 3.
+	runtime [topo_base] = 26.532225 ms.
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+Launching CUDA SSSP solver (96 CTAs, 512 threads/CTA) ...
+	iterations = 3.
+	runtime [topo_base] = 26.520288 ms.
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+Launching CUDA SSSP solver (96 CTAs, 512 threads/CTA) ...
+	iterations = 3.
+	runtime [topo_base] = 26.571072 ms.
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+Launching CUDA SSSP solver (96 CTAs, 512 threads/CTA) ...
+	iterations = 3.
+	runtime [topo_base] = 26.542912 ms.

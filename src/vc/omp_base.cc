@@ -41,7 +41,7 @@ void conflict_resolve(Graph &g, Worklist &inwl, Worklist &outwl, int *colors) {
 	}
 }
 
-int VCSolver(Graph &g, int *colors) {
+int VCSolver(Graph &g, int *colors, int magic) {
 	int num_threads = 1;
 	#pragma omp parallel
 	{

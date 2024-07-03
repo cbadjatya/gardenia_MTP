@@ -1,0 +1,45 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 11095298
+max_degree: 3714 source: 149419
+--------------BFS OPT results for source 149419 and magic val 700-----------------
+	time for opt [opt] = 8.369664 ms.
+	iterations = 12.
+	runtime [opt] = 10.471264 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 11095298
+max_degree: 3714 source: 149419
+--------------BFS OPT results for source 149419 and magic val 700-----------------
+	time for opt [opt] = 8.374464 ms.
+	iterations = 12.
+	runtime [opt] = 10.485696 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 11095298
+max_degree: 3714 source: 149419
+--------------BFS OPT results for source 149419 and magic val 700-----------------
+	time for opt [opt] = 8.416928 ms.
+	iterations = 12.
+	runtime [opt] = 10.470016 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 11095298
+max_degree: 3714 source: 149419
+--------------BFS OPT results for source 149419 and magic val 700-----------------
+	time for opt [opt] = 8.363360 ms.
+	iterations = 12.
+	runtime [opt] = 10.495168 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 11095298
+max_degree: 3714 source: 149419
+--------------BFS OPT results for source 149419 and magic val 700-----------------
+	time for opt [opt] = 8.366336 ms.
+	iterations = 12.
+	runtime [opt] = 10.459520 ms.

@@ -1,0 +1,50 @@
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+max_degree: 40 source: 2421852
+Launching CUDA SSSP solver (32768 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.745728
+	iterations = 1911.
+	runtime [topo_gsort] = 679.075806 ms.
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+max_degree: 40 source: 2421852
+Launching CUDA SSSP solver (32768 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.737504
+	iterations = 1911.
+	runtime [topo_gsort] = 672.206238 ms.
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+max_degree: 40 source: 2421852
+Launching CUDA SSSP solver (32768 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.837216
+	iterations = 1911.
+	runtime [topo_gsort] = 676.979126 ms.
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+max_degree: 40 source: 2421852
+Launching CUDA SSSP solver (32768 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.752768
+	iterations = 1911.
+	runtime [topo_gsort] = 677.732361 ms.
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+max_degree: 40 source: 2421852
+Launching CUDA SSSP solver (32768 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.790144
+	iterations = 1911.
+	runtime [topo_gsort] = 675.072205 ms.

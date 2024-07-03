@@ -1,0 +1,65 @@
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 6733
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 1.426432
+	iterations = 13.
+Runtime = 76.433731
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 6733
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 2.558528
+	iterations = 13.
+Runtime = 78.522690
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 6733
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 1.494496
+	iterations = 13.
+Runtime = 80.748894
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 6733
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 1.395200
+	iterations = 13.
+Runtime = 77.083427
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 6733
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 1.515680
+	iterations = 13.
+Runtime = 81.151009
+
+

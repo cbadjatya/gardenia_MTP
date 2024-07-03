@@ -1,0 +1,19 @@
+==57242== NVPROF is profiling process 57242, command: ./bin/spmv_base mtx /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0
+==57242== Some kernel(s) will be replayed on device 0 in order to collect all events/metrics.
+==57242== Profiling application: ./bin/spmv_base mtx /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0
+==57242== Profiling result:
+==57242== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla V100-PCIE-32GB (0)"
+    Kernel: spmv_csr_scalar(int, int const *, int const *, float const *, float const *, float*, unsigned int*)
+          1                 warp_execution_efficiency                 Warp Execution Efficiency      59.32%      59.32%      59.32%
+          1              gld_transactions_per_request      Global Load Transactions Per Request   15.524959   15.524959   15.524959
+          1              gst_transactions_per_request     Global Store Transactions Per Request    4.000000    4.000000    4.000000
+          1                           global_hit_rate         Global Hit Rate in unified l1/tex      67.17%      67.17%      67.17%
+          1                            local_hit_rate                            Local Hit Rate       0.00%       0.00%       0.00%
+          1                            gld_throughput                    Global Load Throughput  2087.2GB/s  2087.2GB/s  2087.2GB/s
+          1                            gst_throughput                   Global Store Throughput  5.5822GB/s  5.5822GB/s  5.5822GB/s
+          1                            gld_efficiency             Global Memory Load Efficiency      13.45%      13.45%      13.45%
+          1                            gst_efficiency            Global Memory Store Efficiency     100.00%     100.00%     100.00%
+          1                        achieved_occupancy                        Achieved Occupancy    0.912996    0.912996    0.912996
+          1                  eligible_warps_per_cycle           Eligible Warps Per Active Cycle    0.495775    0.495775    0.495775

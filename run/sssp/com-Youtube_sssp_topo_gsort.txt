@@ -1,0 +1,50 @@
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+max_degree: 28754 source: 1071
+Launching CUDA SSSP solver (2217 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.896704
+	iterations = 13.
+	runtime [topo_gsort] = 31.713087 ms.
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+max_degree: 28754 source: 1071
+Launching CUDA SSSP solver (2217 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.893024
+	iterations = 13.
+	runtime [topo_gsort] = 31.716991 ms.
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+max_degree: 28754 source: 1071
+Launching CUDA SSSP solver (2217 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.911584
+	iterations = 13.
+	runtime [topo_gsort] = 32.225311 ms.
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+max_degree: 28754 source: 1071
+Launching CUDA SSSP solver (2217 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.944448
+	iterations = 13.
+	runtime [topo_gsort] = 32.237247 ms.
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+max_degree: 28754 source: 1071
+Launching CUDA SSSP solver (2217 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.909696
+	iterations = 13.
+	runtime [topo_gsort] = 32.224705 ms.

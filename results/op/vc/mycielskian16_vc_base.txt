@@ -1,0 +1,40 @@
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA VC solver (96 CTAs, 512 threads/CTA) ...
+	iterations = 15.
+	runtime[topo_base] = 71.908096 ms, num_colors = 28.
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA VC solver (96 CTAs, 512 threads/CTA) ...
+	iterations = 15.
+	runtime[topo_base] = 59.583744 ms, num_colors = 29.
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA VC solver (96 CTAs, 512 threads/CTA) ...
+	iterations = 15.
+	runtime[topo_base] = 65.412994 ms, num_colors = 31.
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA VC solver (96 CTAs, 512 threads/CTA) ...
+	iterations = 14.
+	runtime[topo_base] = 57.043938 ms, num_colors = 29.
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA VC solver (96 CTAs, 512 threads/CTA) ...
+	iterations = 15.
+	runtime[topo_base] = 72.731453 ms, num_colors = 28.

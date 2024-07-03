@@ -1,0 +1,50 @@
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA SpMV solver (96 CTAs, 512 threads/CTA) ...
+opt time = 0.170624
+	runtime [cuda_base] = 5.8649 ms ( 11.38 GFLOP/s  68.4 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA SpMV solver (96 CTAs, 512 threads/CTA) ...
+opt time = 0.165248
+	runtime [cuda_base] = 5.8545 ms ( 11.40 GFLOP/s  68.6 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA SpMV solver (96 CTAs, 512 threads/CTA) ...
+opt time = 0.179328
+	runtime [cuda_base] = 5.7844 ms ( 11.54 GFLOP/s  69.4 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA SpMV solver (96 CTAs, 512 threads/CTA) ...
+opt time = 0.169152
+	runtime [cuda_base] = 5.7559 ms ( 11.60 GFLOP/s  69.7 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+Launching CUDA SpMV solver (96 CTAs, 512 threads/CTA) ...
+opt time = 0.175520
+	runtime [cuda_base] = 5.8621 ms ( 11.39 GFLOP/s  68.5 GB/s) [L2 error 1.000000]
+
+

@@ -1,0 +1,35 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1791489 |E| 28508141
+max_degree: 3907 source: 1166026
+	iterations = 255.
+	runtime [atomic_free] = 42.399326 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1791489 |E| 28508141
+max_degree: 3907 source: 1166026
+	iterations = 255.
+	runtime [atomic_free] = 39.298817 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1791489 |E| 28508141
+max_degree: 3907 source: 1166026
+	iterations = 255.
+	runtime [atomic_free] = 39.950272 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1791489 |E| 28508141
+max_degree: 3907 source: 1166026
+	iterations = 255.
+	runtime [atomic_free] = 39.117664 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1791489 |E| 28508141
+max_degree: 3907 source: 1166026
+	iterations = 255.
+	runtime [atomic_free] = 39.493473 ms.

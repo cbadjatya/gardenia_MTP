@@ -1,0 +1,55 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+SOURCE : 1010840
+Launching CUDA BFS solver (8192 CTAs, 512 threads/CTA) ...
+opt time = 0.415072
+	iterations = 1048.
+	runtime [topo_gsort] = 141.865158 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+SOURCE : 1010840
+Launching CUDA BFS solver (8192 CTAs, 512 threads/CTA) ...
+opt time = 0.405472
+	iterations = 1048.
+	runtime [topo_gsort] = 141.573730 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+SOURCE : 1010840
+Launching CUDA BFS solver (8192 CTAs, 512 threads/CTA) ...
+opt time = 0.394432
+	iterations = 1048.
+	runtime [topo_gsort] = 141.526718 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+SOURCE : 1010840
+Launching CUDA BFS solver (8192 CTAs, 512 threads/CTA) ...
+opt time = 0.406432
+	iterations = 1048.
+	runtime [topo_gsort] = 141.968445 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+SOURCE : 1010840
+Launching CUDA BFS solver (8192 CTAs, 512 threads/CTA) ...
+opt time = 0.396992
+	iterations = 1048.
+	runtime [topo_gsort] = 141.870560 ms.

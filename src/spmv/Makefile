@@ -1,9 +1,9 @@
 include ../common.mk
 SRC=main.cc
-OBJS=vector.o omp_base.o verifier.o main.o
+OBJS=main.o
 INCLUDES += -I${MKLROOT}/include -I$(CUB_DIR)
 LIBS += -L${MKLROOT}/lib/intel64
-all: $(OBJS) spmv_vector spmv_omp_base spmv_warp spmv_base
+all: $(OBJS) spmv_base spmv_opt
 
 %.o: %.cpp
 	$(ICPC) $(ICPCFLAGS) $(INCLUDES) -march=core-avx2 -D__PURE_INTEL_C99_HEADERS__ -c $<
@@ -43,9 +43,15 @@ spmv_omp_simd: omp_simd.o main.o verifier.o
 	$(ICPC) $(ICPCFLAGS) $(INCLUDES) main.o omp_simd.o verifier.o -o $@
 	mv $@ $(BIN)
 
-spmv_base: main.o base.o verifier.o
-	$(NVCC) $(NVFLAGS) $(INCLUDES) $(EXTRA) main.o base.o verifier.o -o $@ $(LIBS)
+spmv_base: main.o base.o
+	$(NVCC) $(NVFLAGS) -g -G $(INCLUDES) $(EXTRA) main.o base.o -o $@ $(LIBS)
 	mv $@ $(BIN)
+
+
+spmv_opt: main.o opt.o
+	$(NVCC) $(NVFLAGS) -g -G $(INCLUDES) $(EXTRA) main.o opt.o -o $@ $(LIBS)
+	mv $@ $(BIN)
+
 
 spmv_tex: main.o tex.o verifier.o
 	$(NVCC) $(NVFLAGS) $(INCLUDES) $(EXTRA) main.o tex.o verifier.o -o $@ $(LIBS)

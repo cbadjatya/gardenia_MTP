@@ -1,0 +1,65 @@
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+source : 279122
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 37.406143
+	iterations = 1.
+Runtime = 229.938171
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+source : 279122
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 35.060738
+	iterations = 10.
+Runtime = 1978.239502
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+source : 279122
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 37.392960
+	iterations = 10.
+Runtime = 2137.513428
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+source : 279122
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 35.006657
+	iterations = 11.
+Runtime = 2116.393799
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+source : 279122
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 34.928223
+	iterations = 10.
+Runtime = 2144.523438
+
+

@@ -1,0 +1,35 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+	iterations = 33.
+	runtime [atomic_free] = 19.095009 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+	iterations = 33.
+	runtime [atomic_free] = 17.634497 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+	iterations = 33.
+	runtime [atomic_free] = 17.362688 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+	iterations = 33.
+	runtime [atomic_free] = 17.605503 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+	iterations = 33.
+	runtime [atomic_free] = 17.352608 ms.

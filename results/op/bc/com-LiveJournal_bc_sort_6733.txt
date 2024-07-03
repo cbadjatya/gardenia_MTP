@@ -1,0 +1,65 @@
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 6733
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+sort time : 1.748672
+	iterations = 13.
+Runtime = 95.562691
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 6733
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+sort time : 1.839424
+	iterations = 13.
+Runtime = 98.082497
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 6733
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+sort time : 1.746720
+	iterations = 13.
+Runtime = 94.353951
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 6733
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+sort time : 1.794848
+	iterations = 13.
+Runtime = 94.609375
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 6733
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+sort time : 1.744032
+	iterations = 13.
+Runtime = 95.221725
+
+

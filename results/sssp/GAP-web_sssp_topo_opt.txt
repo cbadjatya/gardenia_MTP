@@ -1,0 +1,9 @@
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/weighted_mtx/GAP-web.mtx
+Removing redundent edges... 5492155 redundent edges are removed
+|V| 50636151 |E| 3855093741
+This graph is symmetrized
+max_degree: 8563852 source: 42265165
+
+
+--------------BFS OPT results for source 42265165 and magic val 700-----------------

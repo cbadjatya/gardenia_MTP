@@ -1,0 +1,65 @@
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+max_degree: 238342 source: 279122
+source : 29856
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.279808
+	iterations = 8.
+Runtime = 297.929291
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+max_degree: 238342 source: 279122
+source : 29856
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.315872
+	iterations = 8.
+Runtime = 316.052399
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+max_degree: 238342 source: 279122
+source : 29856
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.280768
+	iterations = 8.
+Runtime = 298.750061
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+max_degree: 238342 source: 279122
+source : 29856
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.284768
+	iterations = 8.
+Runtime = 293.710419
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+max_degree: 238342 source: 279122
+source : 29856
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.296512
+	iterations = 8.
+Runtime = 291.183289
+
+

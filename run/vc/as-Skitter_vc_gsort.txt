@@ -1,0 +1,55 @@
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+Launching CUDA VC solver (3314 CTAs, 512 threads/CTA) ...
+time taken for opt = 1.144544
+	iterations = 37.
+	runtime[topo_gsort] = 638.160889 ms, num_colors = 74.
+Verifying...
+Wrong
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+Launching CUDA VC solver (3314 CTAs, 512 threads/CTA) ...
+time taken for opt = 1.055488
+	iterations = 38.
+	runtime[topo_gsort] = 610.773926 ms, num_colors = 74.
+Verifying...
+Wrong
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+Launching CUDA VC solver (3314 CTAs, 512 threads/CTA) ...
+time taken for opt = 1.059520
+	iterations = 39.
+	runtime[topo_gsort] = 630.069641 ms, num_colors = 78.
+Verifying...
+Wrong
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+Launching CUDA VC solver (3314 CTAs, 512 threads/CTA) ...
+time taken for opt = 1.038176
+	iterations = 41.
+	runtime[topo_gsort] = 240.258499 ms, num_colors = 70.
+Verifying...
+Wrong
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+Launching CUDA VC solver (3314 CTAs, 512 threads/CTA) ...
+time taken for opt = 1.038112
+	iterations = 36.
+	runtime[topo_gsort] = 574.644653 ms, num_colors = 69.
+Verifying...
+Wrong

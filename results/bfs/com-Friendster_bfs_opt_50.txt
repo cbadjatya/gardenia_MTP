@@ -1,0 +1,55 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+max_degree: 5214 source: 40553568
+
+
+--------------BFS OPT results for source 40553568 and magic val 50-----------------
+time taken for opt = 99.365341
+Number of Bad Warps found = 2035180
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+max_degree: 5214 source: 40553568
+
+
+--------------BFS OPT results for source 40553568 and magic val 50-----------------
+time taken for opt = 99.348000
+Number of Bad Warps found = 2035180
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+max_degree: 5214 source: 40553568
+
+
+--------------BFS OPT results for source 40553568 and magic val 50-----------------
+time taken for opt = 99.423012
+Number of Bad Warps found = 2035180
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+max_degree: 5214 source: 40553568
+
+
+--------------BFS OPT results for source 40553568 and magic val 50-----------------
+time taken for opt = 99.454109
+Number of Bad Warps found = 2035180
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+max_degree: 5214 source: 40553568
+
+
+--------------BFS OPT results for source 40553568 and magic val 50-----------------
+time taken for opt = 99.406334
+Number of Bad Warps found = 2035180

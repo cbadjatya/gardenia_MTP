@@ -1,0 +1,65 @@
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+max_degree: 238342 source: 279122
+source : 6733
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.280384
+	iterations = 8.
+Runtime = 396.037140
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+max_degree: 238342 source: 279122
+source : 6733
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.309184
+	iterations = 8.
+Runtime = 420.146729
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+max_degree: 238342 source: 279122
+source : 6733
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.279200
+	iterations = 8.
+Runtime = 393.708557
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+max_degree: 238342 source: 279122
+source : 6733
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.279840
+	iterations = 8.
+Runtime = 394.087311
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+max_degree: 238342 source: 279122
+source : 6733
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.281056
+	iterations = 8.
+Runtime = 395.126587
+
+

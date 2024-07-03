@@ -1,0 +1,80 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+SOURCE : 1010840
+Launching CUDA BFS solver (8192 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 7850.706543
+	iterations = 1048.
+	runtime [topo_swell] = 136.763138 ms.
+
+
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+SOURCE : 1010840
+Launching CUDA BFS solver (8192 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 7851.580078
+	iterations = 1048.
+	runtime [topo_swell] = 136.413925 ms.
+
+
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+SOURCE : 1010840
+Launching CUDA BFS solver (8192 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 7843.179688
+	iterations = 1048.
+	runtime [topo_swell] = 136.769440 ms.
+
+
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+SOURCE : 1010840
+Launching CUDA BFS solver (8192 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 7854.557617
+	iterations = 1048.
+	runtime [topo_swell] = 136.504868 ms.
+
+
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+SOURCE : 1010840
+Launching CUDA BFS solver (8192 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 7872.859375
+	iterations = 1048.
+	runtime [topo_swell] = 136.235840 ms.
+
+
+
+

@@ -2,7 +2,7 @@ include ../common.mk
 INCLUDES+=-I $(CUB_DIR)
 EXE=sssp
 OBJS=main.o verifier.o
-all: $(EXE)_linear_base $(EXE)_linear_lb $(EXE)_omp_base
+all: $(EXE)_topo_base $(EXE)_topo_opt
 
 %.o: %.cpp
 	$(ICPC) $(ICPCFLAGS) $(INCLUDES) -c $<
@@ -34,11 +34,15 @@ $(EXE)_linear_lb: main.o linear_lb.o verifier.o
 	mv $@ $(BIN)
 
 $(EXE)_dstep: main.o dstep.o verifier.o
-	$(NVCC) $(NVFLAGS) $(INCLUDES) $(EXTRA) main.o dstep.o verifier.o -o $@ $(LIBS)
+	$(NVCC) $(NVFLAGS) -G -g $(INCLUDES) $(EXTRA) main.o dstep.o verifier.o -o $@ $(LIBS)
 	mv $@ $(BIN)
 
-$(EXE)_topo_base: main.o topo_base.o verifier.o
-	$(NVCC) $(NVFLAGS) $(INCLUDES) $(EXTRA) main.o topo_base.o verifier.o -o $@ $(LIBS)
+$(EXE)_topo_base: main.o topo_base.o
+	$(NVCC) $(NVFLAGS)  $(INCLUDES) $(EXTRA) main.o topo_base.o -o $@ $(LIBS)
+	mv $@ $(BIN)
+
+$(EXE)_topo_opt: main.o topo_opt.o
+	$(NVCC) $(NVFLAGS)  $(INCLUDES) $(EXTRA) main.o topo_opt.o -o $@ $(LIBS)
 	mv $@ $(BIN)
 
 $(EXE)_topo_lb: main.o topo_lb.o verifier.o

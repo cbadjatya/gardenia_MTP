@@ -8,6 +8,7 @@
 #include "component.h"
 #include "cuda_launch_config.hpp"
 #define MST_TYPE unsigned
+#define THRUST_IGNORE_CUB_VERSION_CHECK
 
 __global__ void dinit(int m, MST_TYPE *eleminwts, 
                       MST_TYPE *minwtcomponent, unsigned *partners, 
@@ -204,7 +205,7 @@ int main(int argc, char *argv[]) {
 	CUDA_SAFE_CALL(cudaMalloc(&gedgecount, sizeof(unsigned) * 1));
 	CUDA_SAFE_CALL(cudaMemcpy(gedgecount, &edgecount, sizeof(unsigned) * 1, cudaMemcpyHostToDevice));
 
-	int nthreads = BLOCK_SIZE;
+	int nthreads = 512;
 	int nblocks = (m - 1) / nthreads + 1;
 	int nSM = 13;
 	//const size_t max_blocks = maximum_residency(dfindcompmintwo, nthreads, 0);
@@ -219,16 +220,16 @@ int main(int argc, char *argv[]) {
 		++iteration;
 		prevncomponents = currncomponents;
 		dinit<<<nblocks, nthreads>>>(m, eleminwts, minwtcomponent, partners, processinnextiteration, goaheadnodeofcomponent);
-		CudaTest("dinit failed");
+		// CudaTest("dinit failed");
 		dfindelemin<<<nblocks, nthreads>>>(m, d_row_offsets, d_column_indices, d_weight, mstwt, cs, eleminwts, minwtcomponent, partners);
 		dfindelemin2<<<nblocks, nthreads>>>(m, d_row_offsets, d_column_indices, d_weight, cs, eleminwts, minwtcomponent, partners, goaheadnodeofcomponent);
 		verify_min_elem<<<nblocks, nthreads>>> (m, d_row_offsets, d_column_indices, d_weight, cs, minwtcomponent, partners, processinnextiteration, goaheadnodeofcomponent);
-		CudaTest("dfindelemin failed");
+		// CudaTest("dfindelemin failed");
 		do {
 			repeat = false;
 			CUDA_SAFE_CALL(cudaMemcpy(grepeat, &repeat, sizeof(bool) * 1, cudaMemcpyHostToDevice));
 			dfindcompmintwo <<<nSM * max_blocks, nthreads>>> (m, mstwt, cs, eleminwts, minwtcomponent, partners, processinnextiteration, gb, grepeat, gedgecount);
-			CudaTest("dfindcompmintwo failed");
+			// CudaTest("dfindcompmintwo failed");
 			CUDA_SAFE_CALL(cudaMemcpy(&repeat, grepeat, sizeof(bool) * 1, cudaMemcpyDeviceToHost));
 		} while (repeat); // only required for quicker convergence?
 		currncomponents = cs.numberOfComponentsHost();

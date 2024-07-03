@@ -1,0 +1,128 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+
+
+--------------BFS OPT results for source 0 and magic val 700-----------------
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+
+
+--------------BFS OPT results for source 0 and magic val 1000-----------------
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+
+
+--------------BFS OPT results for source 0 and magic val 1500-----------------
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+
+
+--------------BFS OPT results for source 0 and magic val 3000-----------------
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+
+
+--------------BFS OPT results for source 0 and magic val 3500-----------------
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+
+
+--------------BFS OPT results for source 0 and magic val 4000-----------------
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+
+
+--------------BFS OPT results for source 0 and magic val 5000-----------------
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+max_degree: 5214 source: 40553568
+
+
+--------------BFS OPT results for source 40553568 and magic val 350-----------------
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+max_degree: 5214 source: 40553568
+
+
+--------------BFS OPT results for source 40553568 and magic val 700-----------------
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+max_degree: 5214 source: 40553568
+
+
+--------------BFS OPT results for source 40553568 and magic val 1000-----------------
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+max_degree: 5214 source: 40553568
+
+
+--------------BFS OPT results for source 40553568 and magic val 1500-----------------
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+max_degree: 5214 source: 40553568
+
+
+--------------BFS OPT results for source 40553568 and magic val 3000-----------------
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+max_degree: 5214 source: 40553568
+
+
+--------------BFS OPT results for source 40553568 and magic val 3500-----------------
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+max_degree: 5214 source: 40553568
+
+
+--------------BFS OPT results for source 40553568 and magic val 4000-----------------
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 3612134270
+This graph is symmetrized
+max_degree: 5214 source: 40553568
+
+
+--------------BFS OPT results for source 40553568 and magic val 5000-----------------

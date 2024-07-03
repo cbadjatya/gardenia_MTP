@@ -28,6 +28,8 @@ __global__ void initialize(int m, int source, ScoreT *scores, int *path_counts, 
 }
 
 // Shortest path calculation by forward BFS
+// no coalesced access anyway...then why is it running slower? after opt...worst case it should run the same...
+// is it just that single added memory access??
 __global__ void bc_forward(int m, const uint64_t *row_offsets, 
                            const IndexT *column_indices, 
                            int *path_counts, int *depths, int depth, 
@@ -53,6 +55,7 @@ __global__ void bc_forward(int m, const uint64_t *row_offsets,
 }
 
 // Dependency accumulation by back propagation
+// cannot apply mapping to this kernel since it would require ref. redirection inside a loop...too expensive...
 __global__ void bc_reverse(int num, const uint64_t *row_offsets, 
                            const IndexT *column_indices, 
                            int start, int *frontiers, 
@@ -121,10 +124,10 @@ void BCSolver(Graph &g, int source, ScoreT *h_scores) {
 	int frontiers_len = 0;
 	vector<int> depth_index;
 	depth_index.push_back(0);
-	int nthreads = BLOCK_SIZE;
+	int nthreads = 512;
 	int nblocks = (m - 1) / nthreads + 1;
 	initialize <<<nblocks, nthreads>>> (m, source, d_scores, d_path_counts, d_depths, d_deltas, d_visited, d_expanded);
-	CudaTest("initializing failed");
+	// CudaTest("initializing failed");
 	CUDA_SAFE_CALL(cudaMemcpy(&d_frontiers[0], &source, sizeof(int), cudaMemcpyHostToDevice));
 	CUDA_SAFE_CALL(cudaDeviceSynchronize());
 	printf("Launching CUDA BC solver (%d CTAs/SM, %d threads/CTA) ...\n", nblocks, nthreads);
@@ -140,9 +143,9 @@ void BCSolver(Graph &g, int source, ScoreT *h_scores) {
 		frontiers_len += h_nitems;
 		depth_index.push_back(frontiers_len);
 		bc_forward<<<nblocks, nthreads>>>(m, d_row_offsets, d_column_indices, d_path_counts, d_depths, depth, d_changed, d_visited, d_expanded, d_nitems, d_frontiers, frontiers_len);
-		CudaTest("solving bc_forward failed");
+		// CudaTest("solving bc_forward failed");
 		bc_update <<<nblocks, nthreads>>> (m, d_depths, d_visited);
-		CudaTest("solving bc_update failed");
+		// CudaTest("solving bc_update failed");
 		CUDA_SAFE_CALL(cudaMemcpy(&h_changed, d_changed, sizeof(bool), cudaMemcpyDeviceToHost));
 		CUDA_SAFE_CALL(cudaMemcpy(&h_nitems, d_nitems, sizeof(int), cudaMemcpyDeviceToHost));
 	} while (h_changed);
@@ -154,7 +157,7 @@ void BCSolver(Graph &g, int source, ScoreT *h_scores) {
 		nblocks = (h_nitems - 1) / nthreads + 1;
 		//printf("Reverse: depth=%d, frontier_size=%d\n", d, h_nitems);
 		bc_reverse<<<nblocks, nthreads>>>(h_nitems, d_row_offsets, d_column_indices, depth_index[d], d_frontiers, d_scores, d_path_counts, d_depths, d, d_deltas);
-		CudaTest("solving bc_reverse failed");
+		// CudaTest("solving bc_reverse failed");
 	}
 	
 	//CUDA_SAFE_CALL(cudaMemcpy(h_scores, d_scores, sizeof(ScoreT) * m, cudaMemcpyDeviceToHost));

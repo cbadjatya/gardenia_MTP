@@ -1,0 +1,65 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+SOURCE : 8930
+sort time : 0.437152
+Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
+	iterations = 3.
+	runtime [topo_sort] = 16.216736 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+SOURCE : 8930
+sort time : 0.433728
+Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
+	iterations = 3.
+	runtime [topo_sort] = 16.066944 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+SOURCE : 8930
+sort time : 0.429696
+Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
+	iterations = 3.
+	runtime [topo_sort] = 16.130112 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+SOURCE : 8930
+sort time : 0.437760
+Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
+	iterations = 3.
+	runtime [topo_sort] = 16.087393 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+SOURCE : 8930
+sort time : 0.437888
+Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
+	iterations = 3.
+	runtime [topo_sort] = 16.209856 ms.
+
+

@@ -1,0 +1,55 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+SOURCE : 8930
+Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
+opt time = 1.195520
+	iterations = 3.
+	runtime [topo_gsort] = 13.019616 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+SOURCE : 8930
+Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
+opt time = 1.191808
+	iterations = 3.
+	runtime [topo_gsort] = 12.915072 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+SOURCE : 8930
+Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
+opt time = 1.198080
+	iterations = 3.
+	runtime [topo_gsort] = 12.926336 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+SOURCE : 8930
+Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
+opt time = 1.184928
+	iterations = 3.
+	runtime [topo_gsort] = 12.926880 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+SOURCE : 8930
+Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
+opt time = 1.196032
+	iterations = 3.
+	runtime [topo_gsort] = 12.925472 ms.

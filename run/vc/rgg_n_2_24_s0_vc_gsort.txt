@@ -1,0 +1,55 @@
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+Launching CUDA VC solver (32768 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.747648
+	iterations = 15.
+	runtime[topo_gsort] = 72.744446 ms, num_colors = 24.
+Verifying...
+Correct
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+Launching CUDA VC solver (32768 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.735520
+	iterations = 15.
+	runtime[topo_gsort] = 72.127007 ms, num_colors = 24.
+Verifying...
+Correct
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+Launching CUDA VC solver (32768 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.700832
+	iterations = 16.
+	runtime[topo_gsort] = 73.408508 ms, num_colors = 25.
+Verifying...
+Correct
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+Launching CUDA VC solver (32768 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.731840
+	iterations = 16.
+	runtime[topo_gsort] = 72.519234 ms, num_colors = 24.
+Verifying...
+Correct
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+Launching CUDA VC solver (32768 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.719520
+	iterations = 16.
+	runtime[topo_gsort] = 74.744194 ms, num_colors = 24.
+Verifying...
+Correct

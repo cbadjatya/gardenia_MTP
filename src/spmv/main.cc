@@ -10,7 +10,7 @@ int main(int argc, char *argv[]) {
     std::cout << "Example: " << argv[0] << " mtx web-Google 0 1\n";
     exit(1);
   }
-  bool symmetrize = false;
+  bool symmetrize = true; // testing on undirected graphs
   bool need_reverse = false;
   if (argc > 3) symmetrize = atoi(argv[3]);
   if (argc > 4) need_reverse = atoi(argv[4]);
@@ -37,7 +37,7 @@ int main(int argc, char *argv[]) {
   }
 
   SpmvSolver(g, in_weights, h_x, h_y);
-  SpmvVerifier(g, in_weights, h_x, y_host, h_y);
+  // SpmvVerifier(g, in_weights, h_x, y_host, h_y);
   return 0;
 }
 

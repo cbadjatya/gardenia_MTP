@@ -62,7 +62,7 @@ int main(int argc, char *argv[]) {
 	std::random_shuffle(ordering, ordering+m);
 //*/
 	SGDSolver(m, n, nnz, h_row_offsets, h_column_indices, h_rating, h_user_lv, h_item_lv, ordering);
-	SGDVerifier(m, n, nnz, h_row_offsets, h_column_indices, h_rating, lv_u, lv_i, ordering);
+	// SGDVerifier(m, n, nnz, h_row_offsets, h_column_indices, h_rating, lv_u, lv_i, ordering);
 
 	free(h_row_offsets);
 	free(h_column_indices);

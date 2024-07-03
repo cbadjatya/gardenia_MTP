@@ -1,0 +1,65 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+max_degree: 40 source: 2421852
+SOURCE : 19515
+sort time : 4.241440
+Launching CUDA BFS solver (32768 CTAs, 512 threads/CTA) ...
+	iterations = 2606.
+	runtime [topo_sort] = 2878.858398 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+max_degree: 40 source: 2421852
+SOURCE : 19515
+sort time : 4.307136
+Launching CUDA BFS solver (32768 CTAs, 512 threads/CTA) ...
+	iterations = 2606.
+	runtime [topo_sort] = 2881.748291 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+max_degree: 40 source: 2421852
+SOURCE : 19515
+sort time : 4.380672
+Launching CUDA BFS solver (32768 CTAs, 512 threads/CTA) ...
+	iterations = 2606.
+	runtime [topo_sort] = 2880.726562 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+max_degree: 40 source: 2421852
+SOURCE : 19515
+sort time : 4.293504
+Launching CUDA BFS solver (32768 CTAs, 512 threads/CTA) ...
+	iterations = 2606.
+	runtime [topo_sort] = 2882.518066 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+max_degree: 40 source: 2421852
+SOURCE : 19515
+sort time : 4.329824
+Launching CUDA BFS solver (32768 CTAs, 512 threads/CTA) ...
+	iterations = 2606.
+	runtime [topo_sort] = 2883.300537 ms.
+
+

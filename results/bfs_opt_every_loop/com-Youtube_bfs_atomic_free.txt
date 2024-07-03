@@ -1,0 +1,35 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 2987624
+max_degree: 4256 source: 642861
+	iterations = 15.
+	runtime [atomic_free] = 11.322464 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 2987624
+max_degree: 4256 source: 642861
+	iterations = 15.
+	runtime [atomic_free] = 11.139136 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 2987624
+max_degree: 4256 source: 642861
+	iterations = 15.
+	runtime [atomic_free] = 11.113536 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 2987624
+max_degree: 4256 source: 642861
+	iterations = 15.
+	runtime [atomic_free] = 11.175296 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 2987624
+max_degree: 4256 source: 642861
+	iterations = 15.
+	runtime [atomic_free] = 11.164192 ms.

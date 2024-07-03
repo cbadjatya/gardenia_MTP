@@ -3,12 +3,12 @@ include ../common.mk
 ICPCFLAGS+=-std=c++98
 CXXFLAGS+=-std=c++11
 SIMFLAGS+=-std=c++11
-SRC=main.cc
+SRC=main.cc verifier.cc
 #OBJS=omp_base.o linear_base.o linear_lb.o topo_base.o topo_lb.o main.o verifier.o
-OBJS=omp_base.o linear_lb.o main.o verifier.o
+OBJS=main.o verifier.o
 
 #all: $(OBJS) bc_linear_base bc_linear_lb bc_topo_base bc_topo_lb bc_omp_base
-all: $(OBJS) bc_omp_base bc_linear_base bc_topo_base bc_linear_lb bc_topo_lb 
+all: $(OBJS) bc_topo_base bc_topo_opt
 
 %.o: %.cpp
 	$(ICPC) $(ICPCFLAGS) $(INCLUDES) -c $<
@@ -53,7 +53,11 @@ bc_linear_pb: linear_pb.o main.o verifier.o
 	mv $@  $(BIN)
 
 bc_topo_base: topo_base.o main.o verifier.o
-	$(NVCC) $(NVFLAGS) $(INCLUDES) $(EXTRA) main.o topo_base.o verifier.o -o $@ $(LIBS)
+	$(NVCC) $(NVFLAGS) -g -G $(INCLUDES) $(EXTRA) main.o topo_base.o verifier.o -o $@ $(LIBS)
+	mv $@  $(BIN)
+
+bc_topo_opt: topo_opt.o main.o verifier.o
+	$(NVCC) $(NVFLAGS) -g -G $(INCLUDES) $(EXTRA) main.o topo_opt.o verifier.o -o $@ $(LIBS)
 	mv $@  $(BIN)
 
 bc_topo_lb: topo_lb.o main.o verifier.o

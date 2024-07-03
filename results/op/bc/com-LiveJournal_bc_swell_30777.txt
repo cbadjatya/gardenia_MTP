@@ -1,0 +1,75 @@
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 30777
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 128.879364
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+	iterations = 13.
+Runtime = 93.480164
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 30777
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 127.426178
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+	iterations = 13.
+Runtime = 89.503456
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 30777
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 129.310242
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+	iterations = 13.
+Runtime = 92.518944
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 30777
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 128.497223
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+	iterations = 13.
+Runtime = 89.029411
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 30777
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 128.096542
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+	iterations = 13.
+Runtime = 92.321022
+
+

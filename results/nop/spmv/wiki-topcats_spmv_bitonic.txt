@@ -1,0 +1,100 @@
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+Launching CUDA SpMV solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 1.268640
+	runtime [cuda_base] = 224.8965 ms (  0.50 GFLOP/s   3.2 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+Launching CUDA SpMV solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 1.229056
+	runtime [cuda_base] = 208.0369 ms (  0.55 GFLOP/s   3.4 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+Launching CUDA SpMV solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 1.239808
+	runtime [cuda_base] = 206.4814 ms (  0.55 GFLOP/s   3.4 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+Launching CUDA SpMV solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 1.328128
+	runtime [cuda_base] = 214.6404 ms (  0.53 GFLOP/s   3.3 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+Launching CUDA SpMV solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 1.204736
+	runtime [cuda_base] = 205.4688 ms (  0.55 GFLOP/s   3.5 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+Launching CUDA SpMV solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 1.214432
+	runtime [cuda_base] = 205.6400 ms (  0.55 GFLOP/s   3.4 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+Launching CUDA SpMV solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 1.245536
+	runtime [cuda_base] = 206.3605 ms (  0.55 GFLOP/s   3.4 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+Launching CUDA SpMV solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 1.220416
+	runtime [cuda_base] = 209.3886 ms (  0.54 GFLOP/s   3.4 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+Launching CUDA SpMV solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 1.215840
+	runtime [cuda_base] = 208.1937 ms (  0.54 GFLOP/s   3.4 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+Launching CUDA SpMV solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 1.236256
+	runtime [cuda_base] = 206.3147 ms (  0.55 GFLOP/s   3.4 GB/s) [L2 error 1.000000]
+
+

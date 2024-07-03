@@ -11,15 +11,24 @@ int main(int argc, char *argv[]) {
     std::cout << "Example: " << argv[0] << " mtx web-Google 1\n";
     exit(1);
   }
+  
   bool symmetrize = false;
   bool need_reverse = false;
-  if (argc > 3) symmetrize = atoi(argv[3]);
-  if (argc > 4) need_reverse = atoi(argv[4]);
-  Graph g(argv[2], argv[1], symmetrize, need_reverse);
+  
+  int source = 0;
+
+  Graph g(argv[2], argv[1], symmetrize, need_reverse); // return source with max degree
+
+
+  int magic_val = -1;
+
+  if (argc == 4) magic_val = atoi(argv[3]);
+  
   auto m = g.V();
   auto colors = custom_alloc_global<int>(m);
   for(int i = 0; i < m; i ++) colors[i] = MAXCOLOR;
-  VCSolver(g, colors);
+
+  VCSolver(g, colors, magic_val);
   VCVerifier(g, colors);
   return 0;
 }

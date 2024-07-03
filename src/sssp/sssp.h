@@ -2,6 +2,7 @@
 // Contact: Xuhao Chen <cxh@mit.edu>
 #include "common.h"
 #include "csr_graph.h"
+#include <cuda_profiler_api.h>
 /*
 GARDENIA Benchmark Suite
 Kernel: Single-source Shortest Paths (SSSP)
@@ -44,6 +45,6 @@ sssp_linear_lb: data-driven GPU implementation, one thread per edge using CUDA
 
 //const DistT kDistInf = numeric_limits<DistT>::max()/2;
 #define kDistInf UINT_MAX/2
-void SSSPSolver(Graph &g, int source, DistT *weight, DistT *dist, int delta);
+void SSSPSolver(Graph &g, int source, DistT *weight, DistT *dist, int delta, int magic);
 void SSSPVerifier(Graph &g, int source, DistT *weight, DistT *dist);
 

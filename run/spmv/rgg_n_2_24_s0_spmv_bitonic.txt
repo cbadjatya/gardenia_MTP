@@ -1,0 +1,50 @@
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+Launching CUDA SpMV solver (32768 CTAs, 512 threads/CTA) ...
+opt time = 1.050464
+	runtime [cuda_base] = 10.1634 ms ( 52.17 GFLOP/s 339.4 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+Launching CUDA SpMV solver (32768 CTAs, 512 threads/CTA) ...
+opt time = 1.071424
+	runtime [cuda_base] = 10.1584 ms ( 52.20 GFLOP/s 339.6 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+Launching CUDA SpMV solver (32768 CTAs, 512 threads/CTA) ...
+opt time = 1.023936
+	runtime [cuda_base] = 10.1203 ms ( 52.39 GFLOP/s 340.9 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+Launching CUDA SpMV solver (32768 CTAs, 512 threads/CTA) ...
+opt time = 1.027712
+	runtime [cuda_base] = 10.1501 ms ( 52.24 GFLOP/s 339.9 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+Launching CUDA SpMV solver (32768 CTAs, 512 threads/CTA) ...
+opt time = 1.041984
+	runtime [cuda_base] = 10.1501 ms ( 52.24 GFLOP/s 339.9 GB/s) [L2 error 1.000000]
+
+

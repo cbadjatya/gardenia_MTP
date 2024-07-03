@@ -1,0 +1,2 @@
+error 700: Cuda error in file 'bitonic.cu' in line 277 : an illegal memory access was encountered.
+mv: cannot move ‘bin’ to ‘/lfs/usrhome/mtech/cs22m036/MTP/gardenia/run/symgs/./bin’: Directory not empty

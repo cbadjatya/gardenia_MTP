@@ -1,0 +1,50 @@
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+Launching CUDA SpMV solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 0.544992
+	runtime [cuda_base] = 22.1778 ms (  4.59 GFLOP/s  28.8 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+Launching CUDA SpMV solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 0.540864
+	runtime [cuda_base] = 22.0949 ms (  4.61 GFLOP/s  28.9 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+Launching CUDA SpMV solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 0.549152
+	runtime [cuda_base] = 22.7112 ms (  4.48 GFLOP/s  28.2 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+Launching CUDA SpMV solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 0.570848
+	runtime [cuda_base] = 22.0968 ms (  4.61 GFLOP/s  28.9 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+Launching CUDA SpMV solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 0.577248
+	runtime [cuda_base] = 22.1152 ms (  4.60 GFLOP/s  28.9 GB/s) [L2 error 1.000000]
+
+

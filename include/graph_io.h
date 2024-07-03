@@ -286,7 +286,7 @@ void graph2csr(char *graph, int &m, int &nnz, IndexT *&row_offsets, IndexT *&col
 
 // transfer mtx graph to CSR format
 void mtx2csr(char *mtx, int &m, int &n, int &nnz, IndexT *&row_offsets, IndexT *&column_indices, WeightT *&weight, bool symmetrize, bool transpose, bool sorted, bool remove_selfloops, bool remove_redundents) {
-	printf("Reading (.mtx) input file %s\n", mtx);
+	std::cout<<"Reading (.mtx) input file "<<mtx<<std::endl;
 	std::ifstream cfile;
 	cfile.open(mtx);
 	std::string str;
@@ -334,6 +334,7 @@ void mtx2csr(char *mtx, int &m, int &n, int &nnz, IndexT *&row_offsets, IndexT *
 		}
 	}
 	cfile.close();
+	// std::cout<<"calling fill data "<<std::endl;
 	fill_data(m, nnz, row_offsets, column_indices, weight, vertices, symmetrize, sorted, remove_selfloops, remove_redundents);
 }
 /*
@@ -357,9 +358,13 @@ void sort_neighbors(int m, int *row_offsets, int *&column_indices) {
 void read_graph(int argc, char *argv[], int &m, int &n, int &nnz, IndexT *&row_offsets, IndexT *&column_indices, int *&degree, WeightT *&weight, bool is_symmetrize=false, bool is_transpose=false, bool sorted=true, bool remove_selfloops=true, bool remove_redundents=true) {
 	Timer t;
 	t.Start();
+	
 	//if(is_symmetrize) printf("Requiring symmetric graphs for this algorithm\n");
-	if (strstr(argv[1], ".mtx"))
+	
+	if (strstr(argv[1], ".mtx")){
+		std::cout<<"reading file : "<<argv[1]<<std::endl;
 		mtx2csr(argv[1], m, n, nnz, row_offsets, column_indices, weight, is_symmetrize, is_transpose, sorted, remove_selfloops, remove_redundents);
+	}
 	else if (strstr(argv[1], ".graph"))
 		graph2csr(argv[1], m, nnz, row_offsets, column_indices, weight, is_symmetrize, is_transpose, sorted, remove_selfloops, remove_redundents);
 	else if (strstr(argv[1], ".gr"))

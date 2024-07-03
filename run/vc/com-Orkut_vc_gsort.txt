@@ -1,0 +1,55 @@
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+Launching CUDA VC solver (6001 CTAs, 512 threads/CTA) ...
+time taken for opt = 2.335520
+	iterations = 29.
+	runtime[topo_gsort] = 334.949371 ms, num_colors = 129.
+Verifying...
+Wrong
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+Launching CUDA VC solver (6001 CTAs, 512 threads/CTA) ...
+time taken for opt = 2.254176
+	iterations = 29.
+	runtime[topo_gsort] = 324.611542 ms, num_colors = 129.
+Verifying...
+Wrong
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+Launching CUDA VC solver (6001 CTAs, 512 threads/CTA) ...
+time taken for opt = 2.347392
+	iterations = 31.
+	runtime[topo_gsort] = 398.026123 ms, num_colors = 129.
+Verifying...
+Wrong
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+Launching CUDA VC solver (6001 CTAs, 512 threads/CTA) ...
+time taken for opt = 2.152576
+	iterations = 31.
+	runtime[topo_gsort] = 354.054657 ms, num_colors = 129.
+Verifying...
+Wrong
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+Launching CUDA VC solver (6001 CTAs, 512 threads/CTA) ...
+time taken for opt = 3.204992
+	iterations = 31.
+	runtime[topo_gsort] = 363.702393 ms, num_colors = 129.
+Verifying...
+Wrong

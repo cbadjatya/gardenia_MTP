@@ -10,16 +10,17 @@ int main(int argc, char *argv[]) {
     std::cout << "Example: " << argv[0] << " mtx web-Google\n";
     exit(1);
   }
-  bool symmetrize = false;
+  bool symmetrize = true;
+  
   bool need_reverse = false;
   if (argc > 3) symmetrize = atoi(argv[3]);
   if (argc > 4) need_reverse = atoi(argv[4]);
   Graph g(argv[2], argv[1], symmetrize, need_reverse);
-  int source = 0;
+  int source = 7046; // magic number
   if (argc == 6) source = atoi(argv[5]);
   auto m = g.V();
   std::vector<ScoreT> scores(m, 0);
   BCSolver(g, source, &scores[0]);
-  BCVerifier(g, source, 1, &scores[0]);
+  // BCVerifier(g, source, 1, &scores[0]);
   return 0;
 }

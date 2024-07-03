@@ -1,0 +1,65 @@
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 29856
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 1.428864
+	iterations = 14.
+Runtime = 79.960640
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 29856
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 1.506880
+	iterations = 14.
+Runtime = 85.226303
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 29856
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 1.453824
+	iterations = 14.
+Runtime = 86.230911
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 29856
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 1.530400
+	iterations = 14.
+Runtime = 85.813507
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 29856
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 1.444704
+	iterations = 14.
+Runtime = 82.519424
+
+

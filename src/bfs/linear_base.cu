@@ -58,11 +58,12 @@ void BFSSolver(Graph &g, int source, DistT *h_dists) {
   int nthreads = BLOCK_SIZE;
   int nblocks = (m - 1) / nthreads + 1;
   printf("Launching CUDA BFS solver (%d threads/CTA) ...\n", nthreads);
-
+  
   Timer t;
   t.Start();
   insert<<<1, nthreads>>>(source, *in_frontier);
   nitems = in_frontier->nitems();
+
   do {
     ++ iter;
     nblocks = (nitems - 1) / nthreads + 1;

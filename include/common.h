@@ -24,6 +24,8 @@
 #include <algorithm>
 #include <unordered_map>
 
+#define THRUST_IGNORE_CUB_VERSION_CHECK
+
 using namespace std;
 
 typedef uint8_t BYTE;

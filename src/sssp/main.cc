@@ -11,21 +11,26 @@ int main(int argc, char *argv[]) {
     exit(1);
   }
 	int delta = 1;
-  bool symmetrize = false;
+  bool symmetrize = true;
   bool need_reverse = false;
-  if (argc > 3) symmetrize = atoi(argv[3]);
-  if (argc > 4) need_reverse = atoi(argv[4]);
-  Graph g(argv[2], argv[1], symmetrize, need_reverse);
+  
+  // std::cout<<symmetrize<<"\n";
   int source = 0;
-  if (argc > 5) source = atoi(argv[5]);
-  if (argc > 6) delta = atoi(argv[6]);
-	//printf("Delta: %d\n", delta);
+  Graph g(argv[2], argv[1], symmetrize, need_reverse, &source);
+ 
+  int magic_val = -1;
+
+  if (argc == 4) magic_val = atoi(argv[3]);
+  
+  if(magic_val != -1)
+    std::cout<<"\n\n--------------BFS OPT results for source "<<source<<" and magic val "<< magic_val <<"-----------------"<<endl;
+
   auto m = g.V();
   auto nnz = g.E();
   std::vector<DistT> distances(m, kDistInf);
 	std::vector<DistT> wt(nnz, DistT(1));
-  SSSPSolver(g, source, &wt[0], &distances[0], delta);
-  SSSPVerifier(g, source, &wt[0], &distances[0]);
+  SSSPSolver(g, source, &wt[0], &distances[0], delta, magic_val);
+  SSSPVerifier(g, source, &wt[0], &distances[0]); 
   return 0;
 }
 

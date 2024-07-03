@@ -1,0 +1,100 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 117185083
+max_degree: 3415 source: 377663
+
+
+--------------BFS OPT results for source 377663 and magic val 700-----------------
+	iterations = 31.
+	runtime [opt] = 4.499872 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 117185083
+max_degree: 3415 source: 377663
+
+
+--------------BFS OPT results for source 377663 and magic val 700-----------------
+	iterations = 31.
+	runtime [opt] = 4.500512 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 117185083
+max_degree: 3415 source: 377663
+
+
+--------------BFS OPT results for source 377663 and magic val 700-----------------
+	iterations = 31.
+	runtime [opt] = 4.539424 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 117185083
+max_degree: 3415 source: 377663
+
+
+--------------BFS OPT results for source 377663 and magic val 700-----------------
+	iterations = 31.
+	runtime [opt] = 4.463392 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 117185083
+max_degree: 3415 source: 377663
+
+
+--------------BFS OPT results for source 377663 and magic val 700-----------------
+	iterations = 31.
+	runtime [opt] = 5.113792 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 117185083
+max_degree: 3415 source: 377663
+
+
+--------------BFS OPT results for source 377663 and magic val 700-----------------
+	iterations = 31.
+	runtime [opt] = 4.505216 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 117185083
+max_degree: 3415 source: 377663
+
+
+--------------BFS OPT results for source 377663 and magic val 700-----------------
+	iterations = 31.
+	runtime [opt] = 4.481216 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 117185083
+max_degree: 3415 source: 377663
+
+
+--------------BFS OPT results for source 377663 and magic val 700-----------------
+	iterations = 31.
+	runtime [opt] = 4.516224 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 117185083
+max_degree: 3415 source: 377663
+
+
+--------------BFS OPT results for source 377663 and magic val 700-----------------
+	iterations = 31.
+	runtime [opt] = 4.540032 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 117185083
+max_degree: 3415 source: 377663
+
+
+--------------BFS OPT results for source 377663 and magic val 700-----------------
+	iterations = 31.
+	runtime [opt] = 4.510336 ms.

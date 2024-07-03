@@ -1,0 +1,10 @@
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+Launching CUDA SpMV solver (8192 CTAs, 512 threads/CTA) ...
+0
+	runtime [cuda_base] = 127.1320 ms (  0.96 GFLOP/s   6.3 GB/s) [L2 error 1.000000]
+
+

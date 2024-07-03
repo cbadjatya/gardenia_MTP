@@ -1,0 +1,65 @@
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+source : 6733
+Launching CUDA BC solver (8192 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.294464
+	iterations = 1442.
+Runtime = 256.373047
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+source : 6733
+Launching CUDA BC solver (8192 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.309120
+	iterations = 1442.
+Runtime = 255.641220
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+source : 6733
+Launching CUDA BC solver (8192 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.297376
+	iterations = 1442.
+Runtime = 252.556931
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+source : 6733
+Launching CUDA BC solver (8192 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.280800
+	iterations = 1442.
+Runtime = 250.091782
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+source : 6733
+Launching CUDA BC solver (8192 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.292544
+	iterations = 1442.
+Runtime = 251.497467
+
+

@@ -1,5 +1,5 @@
 include ../common.mk
-all: tc_omp_base tc_gpu_base tc_omp_target tc_ocl_base
+all: tc_gpu_base
 
 %.o: %.cpp
 	$(CXX) $(CXXFLAGS) $(INCLUDES) -c $<

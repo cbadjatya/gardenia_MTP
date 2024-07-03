@@ -1,0 +1,65 @@
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 30777
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 1.431552
+	iterations = 13.
+Runtime = 69.449570
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 30777
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 1.391872
+	iterations = 13.
+Runtime = 71.066177
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 30777
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 1.413600
+	iterations = 13.
+Runtime = 72.887459
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 30777
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 1.395744
+	iterations = 13.
+Runtime = 72.191422
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+source : 30777
+Launching CUDA BC solver (7809 CTAs/SM, 512 threads/CTA) ...
+opt time = 1.458176
+	iterations = 13.
+Runtime = 70.369438
+
+

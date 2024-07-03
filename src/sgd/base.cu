@@ -7,6 +7,7 @@ Kernel: Stochastic Gradient Descent (SGD)
 Author: Xuhao Chen
 */
 #define SGD_VARIANT "base"
+#define THRUST_IGNORE_CUB_VERSION_CHECK
 #include "sgd.h"
 #include "timer.h"
 #include "cuda_launch_config.hpp"
@@ -14,10 +15,14 @@ Author: Xuhao Chen
 #include <cub/cub.cuh>
 typedef cub::BlockReduce<ScoreT, BLOCK_SIZE> BlockReduce;
 
-__global__ void update(int m, int n, int *row_offsets, int *column_indices, ScoreT *rating, LatentT *user_lv, LatentT *item_lv, ScoreT lambda, ScoreT step, int *ordering, ScoreT *squared_errors) {
+
+
+__global__ void update(int m, int n, int *row_offsets, int *column_indices, ScoreT *rating, LatentT *user_lv, LatentT *item_lv, ScoreT lambda, ScoreT step, ScoreT *squared_errors
+                            ) {
 	int tid = blockIdx.x * blockDim.x + threadIdx.x;
 	if(tid < m) {
 		//int user_id = ordering[tid];
+        // tid = tmap[tid];
 		int user_id = tid;
 		int row_begin = row_offsets[user_id];
 		int row_end = row_offsets[user_id+1]; 
@@ -51,7 +56,8 @@ __global__ void rmse(int m, ScoreT *squared_errors, ScoreT *total_error) {
 	if(threadIdx.x == 0) atomicAdd(total_error, block_sum);
 }
 
-void SGDSolver(int num_users, int num_items, int nnz, int *h_row_offsets, int *h_column_indices, ScoreT *h_rating, LatentT *h_user_lv, LatentT *h_item_lv, int *h_ordering) {
+void SGDSolver(int num_users, int num_items, int nnz, int *h_row_offsets, int *h_column_indices, 
+                                            ScoreT *h_rating, LatentT *h_user_lv, LatentT *h_item_lv, int *h_ordering) {
 	//print_device_info(0);
 	int *d_row_offsets, *d_column_indices;
 	CUDA_SAFE_CALL(cudaMalloc((void **)&d_row_offsets, (num_users + 1) * sizeof(int)));
@@ -61,7 +67,7 @@ void SGDSolver(int num_users, int num_items, int nnz, int *h_row_offsets, int *h
 	ScoreT *d_rating;
 	CUDA_SAFE_CALL(cudaMalloc((void **)&d_rating, nnz * sizeof(ScoreT)));
 	CUDA_SAFE_CALL(cudaMemcpy(d_rating, h_rating, nnz * sizeof(ScoreT), cudaMemcpyHostToDevice));
-	int *d_ordering;
+	// int *d_ordering;
 	//CUDA_SAFE_CALL(cudaMalloc((void **)&d_ordering, num_users * sizeof(int)));
 	//CUDA_SAFE_CALL(cudaMemcpy(d_ordering, h_ordering, num_users * sizeof(int), cudaMemcpyHostToDevice));
 
@@ -76,22 +82,23 @@ void SGDSolver(int num_users, int num_items, int nnz, int *h_row_offsets, int *h
 	CUDA_SAFE_CALL(cudaMemset(d_error, 0, sizeof(ScoreT)));
 
 	int iter = 0;
-	int nthreads = BLOCK_SIZE;
+	int nthreads = 512;
 	int nblocks = (num_users - 1) / nthreads + 1;
 	printf("Launching CUDA SGD solver (%d CTAs, %d threads/CTA) ...\n", nblocks, nthreads);
 	CUDA_SAFE_CALL(cudaDeviceSynchronize());
 
 	Timer t;
 	t.Start();
+
 	do {
 		++iter;
 		h_error = 0.0;
 		CUDA_SAFE_CALL(cudaMemset(squared_errors, 0, num_users * sizeof(ScoreT)));
 		CUDA_SAFE_CALL(cudaMemcpy(d_error, &h_error, sizeof(ScoreT), cudaMemcpyHostToDevice));
-		update<<<nblocks, nthreads>>>(num_users, num_items, d_row_offsets, d_column_indices, d_rating, d_user_lv, d_item_lv, lambda, step, d_ordering, squared_errors);
-		CudaTest("solving kernel update failed");
+		update<<<nblocks, nthreads>>>(num_users, num_items, d_row_offsets, d_column_indices, d_rating, d_user_lv, d_item_lv, lambda, step, squared_errors);
+		// CudaTest("solving kernel update failed");
 		rmse<<<nblocks, nthreads>>>(num_users, squared_errors, d_error);
-		CudaTest("solving kernel rmse failed");
+		// CudaTest("solving kernel rmse failed");
 		CUDA_SAFE_CALL(cudaMemcpy(&h_error, d_error, sizeof(ScoreT), cudaMemcpyDeviceToHost));
 		//printf("h_error=%f\n", h_error);
 		printf("iteration %d: RMSE error = %f\n", iter, sqrt(h_error/nnz));

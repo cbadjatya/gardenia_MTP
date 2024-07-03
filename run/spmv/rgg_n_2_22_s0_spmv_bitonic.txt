@@ -1,0 +1,50 @@
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+Launching CUDA SpMV solver (8192 CTAs, 512 threads/CTA) ...
+opt time = 0.585312
+	runtime [cuda_base] = 2.0456 ms ( 59.37 GFLOP/s 389.0 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+Launching CUDA SpMV solver (8192 CTAs, 512 threads/CTA) ...
+opt time = 0.990592
+	runtime [cuda_base] = 2.0444 ms ( 59.40 GFLOP/s 389.2 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+Launching CUDA SpMV solver (8192 CTAs, 512 threads/CTA) ...
+opt time = 0.567136
+	runtime [cuda_base] = 2.0403 ms ( 59.52 GFLOP/s 390.0 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+Launching CUDA SpMV solver (8192 CTAs, 512 threads/CTA) ...
+opt time = 0.571488
+	runtime [cuda_base] = 2.0517 ms ( 59.19 GFLOP/s 387.8 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+Launching CUDA SpMV solver (8192 CTAs, 512 threads/CTA) ...
+opt time = 0.572192
+	runtime [cuda_base] = 2.0490 ms ( 59.27 GFLOP/s 388.4 GB/s) [L2 error 1.000000]
+
+

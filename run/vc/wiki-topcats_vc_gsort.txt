@@ -1,0 +1,55 @@
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+Launching CUDA VC solver (3500 CTAs, 512 threads/CTA) ...
+time taken for opt = 1.512672
+	iterations = 25.
+	runtime[topo_gsort] = 462.315002 ms, num_colors = 129.
+Verifying...
+Wrong
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+Launching CUDA VC solver (3500 CTAs, 512 threads/CTA) ...
+time taken for opt = 1.426464
+	iterations = 25.
+	runtime[topo_gsort] = 467.369385 ms, num_colors = 129.
+Verifying...
+Wrong
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+Launching CUDA VC solver (3500 CTAs, 512 threads/CTA) ...
+time taken for opt = 1.453536
+	iterations = 25.
+	runtime[topo_gsort] = 616.951782 ms, num_colors = 129.
+Verifying...
+Wrong
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+Launching CUDA VC solver (3500 CTAs, 512 threads/CTA) ...
+time taken for opt = 1.416960
+	iterations = 26.
+	runtime[topo_gsort] = 1187.941040 ms, num_colors = 129.
+Verifying...
+Wrong
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+Launching CUDA VC solver (3500 CTAs, 512 threads/CTA) ...
+time taken for opt = 1.402464
+	iterations = 25.
+	runtime[topo_gsort] = 1139.995850 ms, num_colors = 129.
+Verifying...
+Wrong

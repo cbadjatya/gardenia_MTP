@@ -1,0 +1,60 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+sort time : 69.058044
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+	iterations = 13.
+	runtime [topo_sort] = 67.938560 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+sort time : 73.289917
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+	iterations = 13.
+	runtime [topo_sort] = 68.540932 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+sort time : 68.981697
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+	iterations = 13.
+	runtime [topo_sort] = 67.830719 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+sort time : 68.143394
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+	iterations = 13.
+	runtime [topo_sort] = 66.841759 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+max_degree: 14815 source: 9766
+sort time : 68.119102
+Launching CUDA BFS solver (7809 CTAs, 512 threads/CTA) ...
+	iterations = 13.
+	runtime [topo_sort] = 67.096802 ms.
+
+

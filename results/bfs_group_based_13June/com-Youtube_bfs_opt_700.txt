@@ -1,0 +1,45 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 2987624
+max_degree: 4256 source: 642861
+--------------BFS OPT results for source 642861 and magic val 700-----------------
+	time for opt [opt] = 8.054176 ms.
+	iterations = 15.
+	runtime [opt] = 13.482304 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 2987624
+max_degree: 4256 source: 642861
+--------------BFS OPT results for source 642861 and magic val 700-----------------
+	time for opt [opt] = 8.050112 ms.
+	iterations = 15.
+	runtime [opt] = 13.491072 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 2987624
+max_degree: 4256 source: 642861
+--------------BFS OPT results for source 642861 and magic val 700-----------------
+	time for opt [opt] = 8.071904 ms.
+	iterations = 15.
+	runtime [opt] = 13.483264 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 2987624
+max_degree: 4256 source: 642861
+--------------BFS OPT results for source 642861 and magic val 700-----------------
+	time for opt [opt] = 8.110816 ms.
+	iterations = 15.
+	runtime [opt] = 13.497472 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 2987624
+max_degree: 4256 source: 642861
+--------------BFS OPT results for source 642861 and magic val 700-----------------
+	time for opt [opt] = 8.021408 ms.
+	iterations = 15.
+	runtime [opt] = 13.474656 ms.

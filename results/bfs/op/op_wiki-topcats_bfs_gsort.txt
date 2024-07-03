@@ -1,0 +1,50 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 1.786240
+	iterations = 9.
+	runtime [topo_gsort] = 120.271362 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 1.753376
+	iterations = 11.
+	runtime [topo_gsort] = 120.349731 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 1.888384
+	iterations = 1.
+	runtime [topo_gsort] = 0.079552 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 1.764416
+	iterations = 10.
+	runtime [topo_gsort] = 124.363235 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 313424 redundent edges are removed
+|V| 1791489 |E| 56702858
+This graph is symmetrized
+max_degree: 238607 source: 279122
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+opt time = 1.774976
+	iterations = 1.
+	runtime [topo_gsort] = 0.072608 ms.

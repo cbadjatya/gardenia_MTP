@@ -5,6 +5,7 @@
 #include "sssp.h"
 #include "timer.h"
 
+
 void SSSPVerifier(Graph &g, int source, DistT *weight, DistT *dist_to_test) {
 	printf("Verifying...\n");
 	// Serial Dijkstra implementation to get oracle distances
@@ -39,8 +40,9 @@ void SSSPVerifier(Graph &g, int source, DistT *weight, DistT *dist_to_test) {
 	// Report any mismatches
 	bool all_ok = true;
 	for (int n = 0; n < g.V(); n ++) {
+		// std::cout << n << ": " << dist_to_test[n] << " x " << oracle_dist[n] << std::endl;
 		if (dist_to_test[n] != oracle_dist[n]) {
-			//std::cout << n << ": " << dist_to_test[n] << " != " << oracle_dist[n] << std::endl;
+			std::cout << n << ": " << dist_to_test[n] << " != " << oracle_dist[n] << std::endl;
 			all_ok = false;
 		}
 	}

@@ -1,0 +1,60 @@
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1791489 |E| 28508141
+max_degree: 3907 source: 1166026
+source : 1166026
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.730272
+	iterations = 255.
+Runtime = 175.917542
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1791489 |E| 28508141
+max_degree: 3907 source: 1166026
+source : 1166026
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.721376
+	iterations = 255.
+Runtime = 177.194656
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1791489 |E| 28508141
+max_degree: 3907 source: 1166026
+source : 1166026
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.725088
+	iterations = 255.
+Runtime = 178.937927
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1791489 |E| 28508141
+max_degree: 3907 source: 1166026
+source : 1166026
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.732352
+	iterations = 255.
+Runtime = 176.383652
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1791489 |E| 28508141
+max_degree: 3907 source: 1166026
+source : 1166026
+Launching CUDA BC solver (3500 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.729472
+	iterations = 255.
+Runtime = 178.555069
+
+

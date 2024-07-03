@@ -1,0 +1,28 @@
+Symmetric Gauss-Seidel smoother by Xuhao Chen
+Note: this application uses incoming edge-list, which requires reverse (transposed) graph
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 11095298
+This graph maintains both incomming and outgoing edge-list
+Launching OpenMP VC solver (1 threads) ...
+	runtime [omp_base] = 141.388000 ms, num_colors = 76.
+Launching CUDA SymGS solver (256 threads/CTA) ...
+	runtime [base] = 165.019000 ms.
+Verifying...
+	runtime [verify] = 727.982000 ms.
+	[max error  0.000000]
+Correct
+Symmetric Gauss-Seidel smoother by Xuhao Chen
+Note: this application uses incoming edge-list, which requires reverse (transposed) graph
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 11095298
+This graph maintains both incomming and outgoing edge-list
+Launching OpenMP VC solver (1 threads) ...
+	runtime [omp_base] = 141.436000 ms, num_colors = 76.
+Launching CUDA SymGS solver (256 threads/CTA) ...
+	runtime [base] = 157.957000 ms.
+Verifying...
+	runtime [verify] = 723.546000 ms.
+	[max error  0.000000]
+Correct

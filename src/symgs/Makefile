@@ -1,10 +1,9 @@
 include ../common.mk
 CXXFLAGS+=-std=c++11
 SRC=main.cc
-OBJS=vector.o omp_base.o verifier.o main.o
-INCLUDES+=-I/org/centers/cdgc/cuda/cuda-10.2/include
+OBJS=verifier.o main.o
 
-all: $(OBJS) symgs_omp_base symgs_base symgs_vector
+all: $(OBJS) symgs_base symgs_opt
 
 %.o: %.cpp
 	$(ICPC) $(ICPCFLAGS) $(INCLUDES) -c $<
@@ -13,7 +12,7 @@ all: $(OBJS) symgs_omp_base symgs_base symgs_vector
 	$(CXX) $(CXXFLAGS) $(PARFLAG) $(INCLUDES) -c $<
 
 %.o: %.cu
-	$(NVCC) $(NVFLAGS) $(INCLUDES) -c $<
+	$(NVCC) $(NVFLAGS) -g -G $(INCLUDES) -c $<
 
 symgs_omp_base: omp_base.o main.o verifier.o ../vc/omp_base.o
 	$(CXX) $(CXXFLAGS) $(INCLUDES) main.o omp_base.o verifier.o ../vc/omp_base.o -o $@ -lgomp
@@ -24,7 +23,11 @@ symgs_omp_target: main.o omp_target.o verifier.o ../vc/omp_base.o
 	mv $@ $(BIN)
 
 symgs_base: main.o base.o verifier.o ../vc/omp_base.o
-	$(NVCC) $(NVFLAGS) $(INCLUDES) $(EXTRA) main.o base.o verifier.o ../vc/omp_base.o -o $@ $(LIBS) -lgomp
+	$(NVCC) -g -G $(NVFLAGS) $(INCLUDES) $(EXTRA) main.o base.o verifier.o ../vc/omp_base.o -o $@ $(LIBS) -lgomp
+	mv $@ $(BIN)
+
+symgs_opt: main.o opt.o verifier.o ../vc/omp_base.o
+	$(NVCC) -g -G $(NVFLAGS) $(INCLUDES) $(EXTRA) main.o opt.o verifier.o ../vc/omp_base.o -o $@ $(LIBS) -lgomp
 	mv $@ $(BIN)
 
 symgs_tex: main.o tex.o verifier.o ../vc/omp_base.o

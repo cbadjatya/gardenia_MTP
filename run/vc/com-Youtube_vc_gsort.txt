@@ -1,0 +1,55 @@
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA VC solver (2217 CTAs, 512 threads/CTA) ...
+time taken for opt = 1.120544
+	iterations = 14.
+	runtime[topo_gsort] = 40.824322 ms, num_colors = 45.
+Verifying...
+Wrong
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA VC solver (2217 CTAs, 512 threads/CTA) ...
+time taken for opt = 1.113600
+	iterations = 14.
+	runtime[topo_gsort] = 49.699230 ms, num_colors = 44.
+Verifying...
+Wrong
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA VC solver (2217 CTAs, 512 threads/CTA) ...
+time taken for opt = 1.113664
+	iterations = 15.
+	runtime[topo_gsort] = 40.468098 ms, num_colors = 46.
+Verifying...
+Wrong
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA VC solver (2217 CTAs, 512 threads/CTA) ...
+time taken for opt = 1.119936
+	iterations = 14.
+	runtime[topo_gsort] = 39.678463 ms, num_colors = 45.
+Verifying...
+Wrong
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA VC solver (2217 CTAs, 512 threads/CTA) ...
+time taken for opt = 1.122304
+	iterations = 16.
+	runtime[topo_gsort] = 64.655518 ms, num_colors = 47.
+Verifying...
+Wrong

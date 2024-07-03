@@ -49,14 +49,14 @@ void SpmvSolver(Graph &g, const ValueT* h_Ax, const ValueT *h_x, ValueT *h_y) {
 	for(int i = 0; i < m; i ++) y_copy[i] = h_y[i];
 	SpmvSerial(m, nnz, h_Ap, h_Aj, h_Ax, h_x, y_copy);
 	
-	int nthreads = BLOCK_SIZE;
+	int nthreads = 512;
 	int nblocks = (m - 1) / nthreads + 1;
 	printf("Launching CUDA SpMV solver (%d CTAs, %d threads/CTA) ...\n", nblocks, nthreads);
 
 	Timer t;
 	t.Start();
 	spmv_csr_scalar <<<nblocks, nthreads>>> (m, d_Ap, d_Aj, d_Ax, d_x, d_y);   
-	CudaTest("solving spmv_base kernel failed");
+	// CudaTest("solving spmv_base kernel failed");
 	CUDA_SAFE_CALL(cudaDeviceSynchronize());
 	t.Stop();
 

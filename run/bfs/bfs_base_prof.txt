@@ -1,0 +1,31 @@
+==33855== NVPROF is profiling process 33855, command: ./bin/topo_base mtx /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats
+==33855== Some kernel(s) will be replayed on device 0 in order to collect all events/metrics.
+==33855== Profiling application: ./bin/topo_base mtx /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats
+==33855== Profiling result:
+==33855== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla V100-PCIE-32GB (0)"
+    Kernel: update(int, int*, bool*, int*, bool*)
+          7                 warp_execution_efficiency                 Warp Execution Efficiency      61.32%     100.00%      88.77%
+          7              gld_transactions_per_request      Global Load Transactions Per Request    2.499973    2.774997    2.540672
+          7              gst_transactions_per_request     Global Store Transactions Per Request    0.000000    1.958911    1.164630
+          7                           global_hit_rate         Global Hit Rate in unified l1/tex       0.00%      18.27%       7.67%
+          7                            local_hit_rate                            Local Hit Rate       0.00%       0.00%       0.00%
+          7                            gld_throughput                    Global Load Throughput  89.349GB/s  456.76GB/s  190.18GB/s
+          7                            gst_throughput                   Global Store Throughput  0.00000B/s  103.67GB/s  67.980GB/s
+          7                            gld_efficiency             Global Memory Load Efficiency      88.12%     100.00%      97.81%
+          7                            gst_efficiency            Global Memory Store Efficiency       0.00%      59.62%      18.88%
+          7                        achieved_occupancy                        Achieved Occupancy    0.771870    0.865929    0.835881
+          7                  eligible_warps_per_cycle           Eligible Warps Per Active Cycle    0.354165    0.902618    0.657642
+    Kernel: bfs_step(int, int*, int const *, int*, int*, int)
+          7                 warp_execution_efficiency                 Warp Execution Efficiency       8.01%      99.98%      50.73%
+          7              gld_transactions_per_request      Global Load Transactions Per Request    1.315302    3.999089    3.152888
+          7              gst_transactions_per_request     Global Store Transactions Per Request    0.000000    0.000000    0.000000
+          7                           global_hit_rate         Global Hit Rate in unified l1/tex       0.00%      64.25%      30.86%
+          7                            local_hit_rate                            Local Hit Rate       0.00%       0.00%       0.00%
+          7                            gld_throughput                    Global Load Throughput  328.82MB/s  512.90GB/s  30.379GB/s
+          7                            gst_throughput                   Global Store Throughput  0.00000B/s  0.00000B/s  0.00000B/s
+          7                            gld_efficiency             Global Memory Load Efficiency      13.66%      99.99%      54.63%
+          7                            gst_efficiency            Global Memory Store Efficiency       0.00%       0.00%       0.00%
+          7                        achieved_occupancy                        Achieved Occupancy    0.029712    0.812307    0.472486
+          7                  eligible_warps_per_cycle           Eligible Warps Per Active Cycle    0.043632    0.827586    0.479657

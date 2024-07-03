@@ -1,0 +1,65 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+max_degree: 35455 source: 7046
+Launching CUDA BFS solver (3314 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 0.000000
+	iterations = 21.
+	runtime [topo_swell] = 118.994781 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+max_degree: 35455 source: 7046
+Launching CUDA BFS solver (3314 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 0.000000
+	iterations = 21.
+	runtime [topo_swell] = 112.438622 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+max_degree: 35455 source: 7046
+Launching CUDA BFS solver (3314 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 0.000000
+	iterations = 21.
+	runtime [topo_swell] = 115.911171 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+max_degree: 35455 source: 7046
+Launching CUDA BFS solver (3314 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 0.000000
+	iterations = 21.
+	runtime [topo_swell] = 112.417984 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+max_degree: 35455 source: 7046
+Launching CUDA BFS solver (3314 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 0.000000
+	iterations = 21.
+	runtime [topo_swell] = 115.918335 ms.
+
+

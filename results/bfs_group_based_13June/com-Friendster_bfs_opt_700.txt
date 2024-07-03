@@ -1,0 +1,45 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 1806067135
+max_degree: 4223 source: 50229127
+--------------BFS OPT results for source 50229127 and magic val 700-----------------
+	time for opt [opt] = 81.125694 ms.
+	iterations = 36.
+	runtime [opt] = 360.565918 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 1806067135
+max_degree: 4223 source: 50229127
+--------------BFS OPT results for source 50229127 and magic val 700-----------------
+	time for opt [opt] = 81.084351 ms.
+	iterations = 27.
+	runtime [opt] = 350.848267 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 1806067135
+max_degree: 4223 source: 50229127
+--------------BFS OPT results for source 50229127 and magic val 700-----------------
+	time for opt [opt] = 79.672417 ms.
+	iterations = 1.
+	runtime [opt] = 1.313632 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 1806067135
+max_degree: 4223 source: 50229127
+--------------BFS OPT results for source 50229127 and magic val 700-----------------
+	time for opt [opt] = 80.873055 ms.
+	iterations = 29.
+	runtime [opt] = 354.869385 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Friendster.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 65608366 |E| 1806067135
+max_degree: 4223 source: 50229127
+--------------BFS OPT results for source 50229127 and magic val 700-----------------
+	time for opt [opt] = 81.032066 ms.
+	iterations = 1.
+	runtime [opt] = 1.385024 ms.

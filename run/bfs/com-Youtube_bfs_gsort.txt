@@ -1,0 +1,55 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+max_degree: 28754 source: 1071
+SOURCE : 1071
+Launching CUDA BFS solver (2217 CTAs, 512 threads/CTA) ...
+opt time = 0.995424
+	iterations = 13.
+	runtime [topo_gsort] = 18.408800 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+max_degree: 28754 source: 1071
+SOURCE : 1071
+Launching CUDA BFS solver (2217 CTAs, 512 threads/CTA) ...
+opt time = 1.025632
+	iterations = 13.
+	runtime [topo_gsort] = 19.879200 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+max_degree: 28754 source: 1071
+SOURCE : 1071
+Launching CUDA BFS solver (2217 CTAs, 512 threads/CTA) ...
+opt time = 1.030720
+	iterations = 13.
+	runtime [topo_gsort] = 19.949600 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+max_degree: 28754 source: 1071
+SOURCE : 1071
+Launching CUDA BFS solver (2217 CTAs, 512 threads/CTA) ...
+opt time = 1.018304
+	iterations = 13.
+	runtime [topo_gsort] = 19.877920 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+max_degree: 28754 source: 1071
+SOURCE : 1071
+Launching CUDA BFS solver (2217 CTAs, 512 threads/CTA) ...
+opt time = 1.018752
+	iterations = 13.
+	runtime [topo_gsort] = 19.883583 ms.

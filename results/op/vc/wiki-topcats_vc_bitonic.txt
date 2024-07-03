@@ -1,0 +1,45 @@
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+Launching CUDA VC solver (3500 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.297632
+	iterations = 25.
+	runtime[topo_bitonic] = 163.167038 ms, num_colors = 63.
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+Launching CUDA VC solver (3500 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.260448
+	iterations = 25.
+	runtime[topo_bitonic] = 153.033508 ms, num_colors = 62.
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+Launching CUDA VC solver (3500 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.270112
+	iterations = 25.
+	runtime[topo_bitonic] = 162.197693 ms, num_colors = 62.
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+Launching CUDA VC solver (3500 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.265600
+	iterations = 24.
+	runtime[topo_bitonic] = 160.987457 ms, num_colors = 62.
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+Launching CUDA VC solver (3500 CTAs, 512 threads/CTA) ...
+time taken for opt = 0.256576
+	iterations = 25.
+	runtime[topo_bitonic] = 157.994308 ms, num_colors = 63.

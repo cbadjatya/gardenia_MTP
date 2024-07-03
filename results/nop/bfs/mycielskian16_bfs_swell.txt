@@ -1,0 +1,75 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 252.050842
+	iterations = 3.
+	runtime [topo_swell] = 89.129822 ms.
+
+
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 249.816833
+	iterations = 3.
+	runtime [topo_swell] = 89.135330 ms.
+
+
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 249.724899
+	iterations = 3.
+	runtime [topo_swell] = 89.137123 ms.
+
+
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 251.298843
+	iterations = 3.
+	runtime [topo_swell] = 90.909088 ms.
+
+
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+Launching CUDA BFS solver (96 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 250.015549
+	iterations = 3.
+	runtime [topo_swell] = 89.129250 ms.
+
+
+
+

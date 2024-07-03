@@ -1,0 +1,100 @@
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA SpMV solver (2217 CTAs, 512 threads/CTA) ...
+opt time = 0.841664
+	runtime [cuda_base] = 27.4445 ms (  0.44 GFLOP/s   3.3 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA SpMV solver (2217 CTAs, 512 threads/CTA) ...
+opt time = 0.781728
+	runtime [cuda_base] = 24.5184 ms (  0.49 GFLOP/s   3.7 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA SpMV solver (2217 CTAs, 512 threads/CTA) ...
+opt time = 0.790144
+	runtime [cuda_base] = 24.5182 ms (  0.49 GFLOP/s   3.7 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA SpMV solver (2217 CTAs, 512 threads/CTA) ...
+opt time = 0.850496
+	runtime [cuda_base] = 27.3383 ms (  0.44 GFLOP/s   3.3 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA SpMV solver (2217 CTAs, 512 threads/CTA) ...
+opt time = 0.812256
+	runtime [cuda_base] = 25.0461 ms (  0.48 GFLOP/s   3.6 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA SpMV solver (2217 CTAs, 512 threads/CTA) ...
+opt time = 0.774560
+	runtime [cuda_base] = 24.5242 ms (  0.49 GFLOP/s   3.7 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA SpMV solver (2217 CTAs, 512 threads/CTA) ...
+opt time = 0.798688
+	runtime [cuda_base] = 24.5184 ms (  0.49 GFLOP/s   3.7 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA SpMV solver (2217 CTAs, 512 threads/CTA) ...
+opt time = 0.793216
+	runtime [cuda_base] = 25.0400 ms (  0.48 GFLOP/s   3.6 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA SpMV solver (2217 CTAs, 512 threads/CTA) ...
+opt time = 0.777632
+	runtime [cuda_base] = 24.5351 ms (  0.49 GFLOP/s   3.7 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA SpMV solver (2217 CTAs, 512 threads/CTA) ...
+opt time = 0.801888
+	runtime [cuda_base] = 25.0888 ms (  0.48 GFLOP/s   3.6 GB/s) [L2 error 1.000000]
+
+

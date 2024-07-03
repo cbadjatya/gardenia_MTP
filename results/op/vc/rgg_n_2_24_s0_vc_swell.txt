@@ -1,0 +1,50 @@
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+Launching CUDA VC solver (32768 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 31434.054688
+	iterations = 18.
+	runtime[topo_swell] = 50.618847 ms, num_colors = 27.
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+Launching CUDA VC solver (32768 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 31444.169922
+	iterations = 19.
+	runtime[topo_swell] = 50.775490 ms, num_colors = 28.
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+Launching CUDA VC solver (32768 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 31436.279297
+	iterations = 17.
+	runtime[topo_swell] = 51.165409 ms, num_colors = 26.
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+Launching CUDA VC solver (32768 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 31425.408203
+	iterations = 17.
+	runtime[topo_swell] = 50.452065 ms, num_colors = 26.
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_24_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 16777216 |E| 265114400
+This graph is symmetrized
+Launching CUDA VC solver (32768 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 31431.224609
+	iterations = 18.
+	runtime[topo_swell] = 51.237282 ms, num_colors = 26.

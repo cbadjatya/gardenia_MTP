@@ -1,0 +1,65 @@
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+source : 6733
+Launching CUDA BC solver (8192 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.411200
+	iterations = 1442.
+Runtime = 247.709824
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+source : 6733
+Launching CUDA BC solver (8192 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.408576
+	iterations = 1442.
+Runtime = 249.706009
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+source : 6733
+Launching CUDA BC solver (8192 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.412800
+	iterations = 1442.
+Runtime = 251.935547
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+source : 6733
+Launching CUDA BC solver (8192 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.387200
+	iterations = 1442.
+Runtime = 247.887390
+
+
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+source : 6733
+Launching CUDA BC solver (8192 CTAs/SM, 512 threads/CTA) ...
+opt time = 0.402592
+	iterations = 1442.
+Runtime = 249.930344
+
+

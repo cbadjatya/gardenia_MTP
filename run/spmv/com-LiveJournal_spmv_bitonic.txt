@@ -1,0 +1,50 @@
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+Launching CUDA SpMV solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 0.624288
+	runtime [cuda_base] = 7.1549 ms ( 19.39 GFLOP/s 125.3 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+Launching CUDA SpMV solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 0.605920
+	runtime [cuda_base] = 7.1622 ms ( 19.37 GFLOP/s 125.1 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+Launching CUDA SpMV solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 0.577280
+	runtime [cuda_base] = 7.1597 ms ( 19.38 GFLOP/s 125.2 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+Launching CUDA SpMV solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 0.611520
+	runtime [cuda_base] = 7.1566 ms ( 19.38 GFLOP/s 125.2 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 69362378
+This graph is symmetrized
+Launching CUDA SpMV solver (7809 CTAs, 512 threads/CTA) ...
+opt time = 0.578048
+	runtime [cuda_base] = 7.1881 ms ( 19.30 GFLOP/s 124.7 GB/s) [L2 error 1.000000]
+
+

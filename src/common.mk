@@ -1,10 +1,6 @@
-CUDA_HOME=/usr/local/cuda
-PAPI_HOME=/usr/local/papi-6.0.0
-ICC_HOME=/opt/intel/compilers_and_libraries/linux/bin/intel64
-GEM5_HOME=/home/cxh/gem5
-MKLROOT=/opt/intel/mkl
+CUDA_HOME=/lfs/sware/cuda-11.2
 CUB_DIR=../../cub
-OCL_DIR=/usr/local/cuda-11.5/targets/x86_64-linux/lib/
+OCL_DIR=/lfs/sware/cuda-11.2/targets/x86_64-linux/lib/
 BIN=../../bin
 HOST=X86
 ifeq ($(HOST),X86)
@@ -14,10 +10,8 @@ else
 CC=aarch64-linux-gnu-gcc
 CXX=aarch64-linux-gnu-g++
 endif
-ICC=$(ICC_HOME)/icc
-ICPC=$(ICC_HOME)/icpc
-NVCC=nvcc
-#NVCC=$(CUDA_HOME)/bin/nvcc
+
+NVCC=$(CUDA_HOME)/bin/nvcc
 COMPUTECAPABILITY=sm_60
 CUDA_ARCH := \
 	-gencode arch=compute_37,code=sm_37 \
@@ -43,31 +37,14 @@ else
 	CXXFLAGS += -g -O3
 	NVFLAGS += -O3 -w
 endif
-CU_INC = -I/usr/include/cuda
+# CU_INC = -I/usr/include/cuda
 CU_INC = -I$(CUDA_HOME)/include
 INCLUDES = -I../../include
 #INCLUDES += $(CU_INC)
-#LIBS = -L$(CUDA_HOME)/lib64
-LIBS = -L/usr/lib64
+LIBS = -L$(CUDA_HOME)/lib64
+# LIBS = -L/usr/lib64
 
-ifeq ($(PAPI), 1)
-CXXFLAGS += -DENABLE_PAPI
-INCLUDES += -I$(PAPI_HOME)/include
-LIBS += -L$(PAPI_HOME)/lib -lpapi
-endif
 
-ifeq ($(USE_TBB), 1)
-LIBS += -L/h2/xchen/work/gardenia_code/tbb2020/lib/intel64/gcc4.8/ -ltbb
-else
-LIBS += -lgomp
-endif
-
-ifeq ($(SIM), 1)
-CXXFLAGS=-DSIM $(SIMFLAGS) 
-EXTRA=$(M5OP)
-INCLUDES+=-I$(GEM5_HOME)/include
-LIBS += -pthread -lrt -ldl
-endif
 
 VPATH += ../common
 OBJS=main.o VertexSet.o graph.o

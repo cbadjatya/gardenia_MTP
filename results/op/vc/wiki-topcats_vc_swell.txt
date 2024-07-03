@@ -1,0 +1,50 @@
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+Launching CUDA VC solver (3500 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 4809.552734
+	iterations = 21.
+	runtime[topo_swell] = 474.628052 ms, num_colors = 61.
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+Launching CUDA VC solver (3500 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 4753.949707
+	iterations = 21.
+	runtime[topo_swell] = 472.517273 ms, num_colors = 62.
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+Launching CUDA VC solver (3500 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 4807.113770
+	iterations = 22.
+	runtime[topo_swell] = 476.531799 ms, num_colors = 62.
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+Launching CUDA VC solver (3500 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 4751.935059
+	iterations = 23.
+	runtime[topo_swell] = 450.529205 ms, num_colors = 62.
+Vertex Coloring by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+Launching CUDA VC solver (3500 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 4802.396973
+	iterations = 21.
+	runtime[topo_swell] = 481.831482 ms, num_colors = 61.

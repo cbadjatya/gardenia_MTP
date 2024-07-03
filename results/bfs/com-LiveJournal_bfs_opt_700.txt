@@ -1,0 +1,100 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+
+
+--------------BFS OPT results for source 2890225 and magic val 700-----------------
+	iterations = 33.
+	runtime [opt] = 8.551488 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+
+
+--------------BFS OPT results for source 2890225 and magic val 700-----------------
+	iterations = 33.
+	runtime [opt] = 8.572256 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+
+
+--------------BFS OPT results for source 2890225 and magic val 700-----------------
+	iterations = 33.
+	runtime [opt] = 8.586048 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+
+
+--------------BFS OPT results for source 2890225 and magic val 700-----------------
+	iterations = 33.
+	runtime [opt] = 8.564352 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+
+
+--------------BFS OPT results for source 2890225 and magic val 700-----------------
+	iterations = 33.
+	runtime [opt] = 8.565312 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+
+
+--------------BFS OPT results for source 2890225 and magic val 700-----------------
+	iterations = 33.
+	runtime [opt] = 8.605888 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+
+
+--------------BFS OPT results for source 2890225 and magic val 700-----------------
+	iterations = 33.
+	runtime [opt] = 8.560000 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+
+
+--------------BFS OPT results for source 2890225 and magic val 700-----------------
+	iterations = 33.
+	runtime [opt] = 8.641248 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+
+
+--------------BFS OPT results for source 2890225 and magic val 700-----------------
+	iterations = 33.
+	runtime [opt] = 8.609120 ms.
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-LiveJournal.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3997962 |E| 34681189
+max_degree: 2454 source: 2890225
+
+
+--------------BFS OPT results for source 2890225 and magic val 700-----------------
+	iterations = 33.
+	runtime [opt] = 8.587904 ms.

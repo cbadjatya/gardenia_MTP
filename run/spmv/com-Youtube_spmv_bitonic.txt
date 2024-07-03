@@ -1,0 +1,50 @@
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA SpMV solver (2217 CTAs, 512 threads/CTA) ...
+opt time = 0.442432
+	runtime [cuda_base] = 2.2387 ms (  5.34 GFLOP/s  40.1 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA SpMV solver (2217 CTAs, 512 threads/CTA) ...
+opt time = 0.433472
+	runtime [cuda_base] = 2.3950 ms (  4.99 GFLOP/s  37.5 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA SpMV solver (2217 CTAs, 512 threads/CTA) ...
+opt time = 0.436960
+	runtime [cuda_base] = 2.2302 ms (  5.36 GFLOP/s  40.3 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA SpMV solver (2217 CTAs, 512 threads/CTA) ...
+opt time = 0.418848
+	runtime [cuda_base] = 2.2166 ms (  5.39 GFLOP/s  40.5 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Youtube.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1134890 |E| 5975248
+This graph is symmetrized
+Launching CUDA SpMV solver (2217 CTAs, 512 threads/CTA) ...
+opt time = 1.134240
+	runtime [cuda_base] = 2.2520 ms (  5.31 GFLOP/s  39.9 GB/s) [L2 error 1.000000]
+
+

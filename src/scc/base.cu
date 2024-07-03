@@ -13,6 +13,7 @@ __global__ void bfs_step(int m, int *row_offsets, int *column_indices, unsigned 
 	int tid = blockIdx.x * blockDim.x + threadIdx.x;
 	int src = tid;
 	// if src is valid, visited but not expanded
+	
 	if(src < m && !mark[src] && visited[src] && !expanded[src]) {
 		expanded[src] = 1;
 		int row_begin = row_offsets[src];
@@ -300,8 +301,9 @@ void print_statistics(int m, unsigned *d_colors, bool *d_is_trimmed, bool *d_is_
 	free(h_is_trimmed);
 }
 
-void SCCSolver(int m, int nnz, int source, int *in_row_offsets, int *in_column_indices, int *out_row_offsets, int *out_column_indices, unsigned *h_colors) {
+void SCCSolver(int m, int nnz, int *in_row_offsets, int *in_column_indices, int *out_row_offsets, int *out_column_indices, int *h_colors) {
 	print_device_info(0);
+	int source;
 	Timer t;
 	int iter = 0;
 	int *d_in_row_offsets, *d_in_column_indices, *d_out_row_offsets, *d_out_column_indices;

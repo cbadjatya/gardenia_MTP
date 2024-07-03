@@ -1,0 +1,65 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+SOURCE : 1010840
+Launching CUDA BFS solver (8192 CTAs, 512 threads/CTA) ...
+opt time = 0.308480
+	iterations = 1048.
+	runtime [topo_bitonic] = 144.088699 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+SOURCE : 1010840
+Launching CUDA BFS solver (8192 CTAs, 512 threads/CTA) ...
+opt time = 0.309440
+	iterations = 1048.
+	runtime [topo_bitonic] = 142.670502 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+SOURCE : 1010840
+Launching CUDA BFS solver (8192 CTAs, 512 threads/CTA) ...
+opt time = 0.293248
+	iterations = 1048.
+	runtime [topo_bitonic] = 142.627777 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+SOURCE : 1010840
+Launching CUDA BFS solver (8192 CTAs, 512 threads/CTA) ...
+opt time = 0.294368
+	iterations = 1048.
+	runtime [topo_bitonic] = 142.449860 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/rgg_n_2_22_s0.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 4194304 |E| 60718396
+This graph is symmetrized
+max_degree: 36 source: 1010840
+SOURCE : 1010840
+Launching CUDA BFS solver (8192 CTAs, 512 threads/CTA) ...
+opt time = 0.289536
+	iterations = 1048.
+	runtime [topo_bitonic] = 142.820007 ms.
+
+

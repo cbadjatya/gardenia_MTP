@@ -1,0 +1,50 @@
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+Launching CUDA SpMV solver (6001 CTAs, 512 threads/CTA) ...
+opt time = 0.786496
+	runtime [cuda_base] = 38.1670 ms ( 12.28 GFLOP/s  75.0 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+Launching CUDA SpMV solver (6001 CTAs, 512 threads/CTA) ...
+opt time = 0.732896
+	runtime [cuda_base] = 38.1060 ms ( 12.30 GFLOP/s  75.1 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+Launching CUDA SpMV solver (6001 CTAs, 512 threads/CTA) ...
+opt time = 0.720864
+	runtime [cuda_base] = 38.0055 ms ( 12.33 GFLOP/s  75.3 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+Launching CUDA SpMV solver (6001 CTAs, 512 threads/CTA) ...
+opt time = 0.781472
+	runtime [cuda_base] = 38.2904 ms ( 12.24 GFLOP/s  74.7 GB/s) [L2 error 1.000000]
+
+
+Sparse Matrix-Vector Multiplication by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+Launching CUDA SpMV solver (6001 CTAs, 512 threads/CTA) ...
+opt time = 0.806848
+	runtime [cuda_base] = 38.1568 ms ( 12.28 GFLOP/s  75.0 GB/s) [L2 error 1.000000]
+
+

@@ -1,5 +1,5 @@
 #pragma once
-
+#define THRUST_IGNORE_CUB_VERSION_CHECK
 /* Development routines */
 
 void print_comp_mins(ComponentSpace cs, Graph graph, DistT *minwtcomponent, unsigned *goaheadnodeofcomponent, unsigned *partners, bool *pin)

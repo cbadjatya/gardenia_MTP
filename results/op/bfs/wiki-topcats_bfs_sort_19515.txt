@@ -1,0 +1,65 @@
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+max_degree: 238342 source: 279122
+SOURCE : 19515
+sort time : 1.239296
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+	iterations = 9.
+	runtime [topo_sort] = 101.070595 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+max_degree: 238342 source: 279122
+SOURCE : 19515
+sort time : 1.256480
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+	iterations = 9.
+	runtime [topo_sort] = 109.314110 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+max_degree: 238342 source: 279122
+SOURCE : 19515
+sort time : 1.232256
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+	iterations = 9.
+	runtime [topo_sort] = 102.921890 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+max_degree: 238342 source: 279122
+SOURCE : 19515
+sort time : 1.205824
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+	iterations = 9.
+	runtime [topo_sort] = 100.101601 ms.
+
+
+Breadth-first Search by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/wiki-topcats.mtx
+Removing redundent edges... 6127868 redundent edges are removed
+|V| 1791489 |E| 50888414
+This graph is symmetrized
+max_degree: 238342 source: 279122
+SOURCE : 19515
+sort time : 1.197984
+Launching CUDA BFS solver (3500 CTAs, 512 threads/CTA) ...
+	iterations = 9.
+	runtime [topo_sort] = 101.545181 ms.
+
+

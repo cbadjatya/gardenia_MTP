@@ -1,0 +1,75 @@
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+Launching CUDA CC solver (3314 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 167.825470
+	iterations = 3.
+	runtime [base] = 143.174240 ms.
+
+
+Verifying...
+	runtime [serial] = 152.038000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+Launching CUDA CC solver (3314 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 210.660767
+	iterations = 4.
+	runtime [base] = 186.678650 ms.
+
+
+Verifying...
+	runtime [serial] = 148.928000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+Launching CUDA CC solver (3314 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 166.957855
+	iterations = 3.
+	runtime [base] = 143.168839 ms.
+
+
+Verifying...
+	runtime [serial] = 160.874000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+Launching CUDA CC solver (3314 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 168.234375
+	iterations = 4.
+	runtime [base] = 183.452576 ms.
+
+
+Verifying...
+	runtime [serial] = 158.855000 ms.
+Correct
+Connected Component by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+Launching CUDA CC solver (3314 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 166.377060
+	iterations = 3.
+	runtime [base] = 143.089050 ms.
+
+
+Verifying...
+	runtime [serial] = 158.216000 ms.
+Correct
