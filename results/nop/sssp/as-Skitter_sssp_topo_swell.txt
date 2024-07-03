@@ -1,0 +1,55 @@
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+max_degree: 35455 source: 7046
+Launching CUDA SSSP solver (3314 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 3212.298584
+	iterations = 21.
+	runtime [topo_swell] = 89.842300 ms.
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+max_degree: 35455 source: 7046
+Launching CUDA SSSP solver (3314 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 3187.360352
+	iterations = 21.
+	runtime [topo_swell] = 85.809982 ms.
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+max_degree: 35455 source: 7046
+Launching CUDA SSSP solver (3314 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 3217.339355
+	iterations = 21.
+	runtime [topo_swell] = 85.842941 ms.
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+max_degree: 35455 source: 7046
+Launching CUDA SSSP solver (3314 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 3209.448730
+	iterations = 21.
+	runtime [topo_swell] = 85.892448 ms.
+Single Source Shortest Path by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 1696415 |E| 22190596
+This graph is symmetrized
+max_degree: 35455 source: 7046
+Launching CUDA SSSP solver (3314 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 3216.037354
+	iterations = 21.
+	runtime [topo_swell] = 85.856766 ms.

@@ -1,0 +1,85 @@
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+source : 49150
+Launching CUDA BC solver (96 CTAs/SM, 512 threads/CTA) ...
+	iterations = 3.
+Runtime = 262.934143
+
+
+Verifying...
+	iterations = 3.
+	max_score = 49150.128906.
+	runtime [verify] = 91.130000 ms.
+Correct
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+source : 49150
+Launching CUDA BC solver (96 CTAs/SM, 512 threads/CTA) ...
+	iterations = 3.
+Runtime = 263.163422
+
+
+Verifying...
+	iterations = 3.
+	max_score = 49150.128906.
+	runtime [verify] = 90.686000 ms.
+Correct
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+source : 49150
+Launching CUDA BC solver (96 CTAs/SM, 512 threads/CTA) ...
+	iterations = 3.
+Runtime = 262.828094
+
+
+Verifying...
+	iterations = 3.
+	max_score = 49150.128906.
+	runtime [verify] = 90.432000 ms.
+Correct
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+source : 49150
+Launching CUDA BC solver (96 CTAs/SM, 512 threads/CTA) ...
+	iterations = 3.
+Runtime = 263.161682
+
+
+Verifying...
+	iterations = 3.
+	max_score = 49150.128906.
+	runtime [verify] = 90.393000 ms.
+Correct
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/mycielskian16.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 49151 |E| 33382480
+This graph is symmetrized
+max_degree: 24575 source: 49150
+source : 49150
+Launching CUDA BC solver (96 CTAs/SM, 512 threads/CTA) ...
+	iterations = 3.
+Runtime = 262.914581
+
+
+Verifying...
+	iterations = 3.
+	max_score = 49150.128906.
+	runtime [verify] = 90.663000 ms.
+Correct

@@ -4,207 +4,114 @@ Removing redundent edges... 0 redundent edges are removed
 |V| 1696415 |E| 22190596
 This graph is symmetrized
 Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.245000
+time taken for bitonic opt = 1.324000
 Sparse Matrix-Vector Multiplication by Xuhao Chen
 Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
 Removing redundent edges... 0 redundent edges are removed
 |V| 1696415 |E| 22190596
 This graph is symmetrized
 Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.247000
+opt time = 1.120896
+	runtime [cuda_base] = 42.8618 ms (  1.04 GFLOP/s   6.8 GB/s) [L2 error 1.000000]
+
+
 Sparse Matrix-Vector Multiplication by Xuhao Chen
 Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
 Removing redundent edges... 0 redundent edges are removed
 |V| 1696415 |E| 22190596
 This graph is symmetrized
 Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.231000
+opt time = 1.039008
+	runtime [cuda_base] = 39.6094 ms (  1.12 GFLOP/s   7.4 GB/s) [L2 error 1.000000]
+
+
 Sparse Matrix-Vector Multiplication by Xuhao Chen
 Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
 Removing redundent edges... 0 redundent edges are removed
 |V| 1696415 |E| 22190596
 This graph is symmetrized
 Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.273000
+opt time = 1.016864
+	runtime [cuda_base] = 38.8959 ms (  1.14 GFLOP/s   7.5 GB/s) [L2 error 1.000000]
+
+
 Sparse Matrix-Vector Multiplication by Xuhao Chen
 Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
 Removing redundent edges... 0 redundent edges are removed
 |V| 1696415 |E| 22190596
 This graph is symmetrized
 Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.267000
+opt time = 1.031296
+	runtime [cuda_base] = 38.9023 ms (  1.14 GFLOP/s   7.5 GB/s) [L2 error 1.000000]
+
+
 Sparse Matrix-Vector Multiplication by Xuhao Chen
 Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
 Removing redundent edges... 0 redundent edges are removed
 |V| 1696415 |E| 22190596
 This graph is symmetrized
 Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.244000
+opt time = 0.998368
+	runtime [cuda_base] = 38.9301 ms (  1.14 GFLOP/s   7.5 GB/s) [L2 error 1.000000]
+
+
 Sparse Matrix-Vector Multiplication by Xuhao Chen
 Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
 Removing redundent edges... 0 redundent edges are removed
 |V| 1696415 |E| 22190596
 This graph is symmetrized
 Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.255000
+opt time = 1.004704
+	runtime [cuda_base] = 38.9048 ms (  1.14 GFLOP/s   7.5 GB/s) [L2 error 1.000000]
+
+
 Sparse Matrix-Vector Multiplication by Xuhao Chen
 Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
 Removing redundent edges... 0 redundent edges are removed
 |V| 1696415 |E| 22190596
 This graph is symmetrized
 Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.268000
+opt time = 1.010848
+	runtime [cuda_base] = 38.8804 ms (  1.14 GFLOP/s   7.5 GB/s) [L2 error 1.000000]
+
+
 Sparse Matrix-Vector Multiplication by Xuhao Chen
 Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
 Removing redundent edges... 0 redundent edges are removed
 |V| 1696415 |E| 22190596
 This graph is symmetrized
 Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.279000
+opt time = 0.998880
+	runtime [cuda_base] = 38.8843 ms (  1.14 GFLOP/s   7.5 GB/s) [L2 error 1.000000]
+
+
 Sparse Matrix-Vector Multiplication by Xuhao Chen
 Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
 Removing redundent edges... 0 redundent edges are removed
 |V| 1696415 |E| 22190596
 This graph is symmetrized
 Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.309000
+opt time = 1.003712
+	runtime [cuda_base] = 38.9081 ms (  1.14 GFLOP/s   7.5 GB/s) [L2 error 1.000000]
+
+
 Sparse Matrix-Vector Multiplication by Xuhao Chen
 Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
 Removing redundent edges... 0 redundent edges are removed
 |V| 1696415 |E| 22190596
 This graph is symmetrized
 Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.251000
+opt time = 1.003904
+	runtime [cuda_base] = 38.9491 ms (  1.14 GFLOP/s   7.5 GB/s) [L2 error 1.000000]
+
+
 Sparse Matrix-Vector Multiplication by Xuhao Chen
 Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
 Removing redundent edges... 0 redundent edges are removed
 |V| 1696415 |E| 22190596
 This graph is symmetrized
 Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.265000
-Sparse Matrix-Vector Multiplication by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 1696415 |E| 22190596
-This graph is symmetrized
-Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.266000
-Sparse Matrix-Vector Multiplication by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 1696415 |E| 22190596
-This graph is symmetrized
-Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.256000
-Sparse Matrix-Vector Multiplication by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 1696415 |E| 22190596
-This graph is symmetrized
-Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.295000
-Sparse Matrix-Vector Multiplication by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 1696415 |E| 22190596
-This graph is symmetrized
-Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.259000
-Sparse Matrix-Vector Multiplication by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 1696415 |E| 22190596
-This graph is symmetrized
-Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.321000
-Sparse Matrix-Vector Multiplication by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 1696415 |E| 22190596
-This graph is symmetrized
-Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.260000
-Sparse Matrix-Vector Multiplication by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 1696415 |E| 22190596
-This graph is symmetrized
-Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.259000
-Sparse Matrix-Vector Multiplication by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 1696415 |E| 22190596
-This graph is symmetrized
-Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.251000
-Sparse Matrix-Vector Multiplication by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 1696415 |E| 22190596
-This graph is symmetrized
-Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.245000
-Sparse Matrix-Vector Multiplication by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 1696415 |E| 22190596
-This graph is symmetrized
-Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.270000
-Sparse Matrix-Vector Multiplication by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 1696415 |E| 22190596
-This graph is symmetrized
-Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.236000
-Sparse Matrix-Vector Multiplication by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 1696415 |E| 22190596
-This graph is symmetrized
-Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.247000
-Sparse Matrix-Vector Multiplication by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 1696415 |E| 22190596
-This graph is symmetrized
-Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.289000
-Sparse Matrix-Vector Multiplication by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 1696415 |E| 22190596
-This graph is symmetrized
-Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.245000
-Sparse Matrix-Vector Multiplication by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 1696415 |E| 22190596
-This graph is symmetrized
-Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.235000
-Sparse Matrix-Vector Multiplication by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 1696415 |E| 22190596
-This graph is symmetrized
-Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.269000
-Sparse Matrix-Vector Multiplication by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 1696415 |E| 22190596
-This graph is symmetrized
-Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.259000
-Sparse Matrix-Vector Multiplication by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/as-Skitter.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 1696415 |E| 22190596
-This graph is symmetrized
-Launching CUDA SpMV solver (3314 CTAs, 512 threads/CTA) ...
-time taken for bitonic opt = 1.268000
+opt time = 0.986016
+	runtime [cuda_base] = 38.9925 ms (  1.14 GFLOP/s   7.5 GB/s) [L2 error 1.000000]
+
+

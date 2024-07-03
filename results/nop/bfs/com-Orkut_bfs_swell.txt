@@ -5,6 +5,14 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 33313 source: 43607
 Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 6876.911133
+	iterations = 7.
+	runtime [topo_swell] = 172.501724 ms.
+
+
+
+
 Breadth-first Search by Xuhao Chen
 Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
 Removing redundent edges... 0 redundent edges are removed
@@ -12,6 +20,14 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 33313 source: 43607
 Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 6868.366211
+	iterations = 7.
+	runtime [topo_swell] = 172.159744 ms.
+
+
+
+
 Breadth-first Search by Xuhao Chen
 Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
 Removing redundent edges... 0 redundent edges are removed
@@ -19,6 +35,14 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 33313 source: 43607
 Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 6876.998047
+	iterations = 7.
+	runtime [topo_swell] = 171.939362 ms.
+
+
+
+
 Breadth-first Search by Xuhao Chen
 Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
 Removing redundent edges... 0 redundent edges are removed
@@ -26,6 +50,14 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 33313 source: 43607
 Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 6934.115234
+	iterations = 7.
+	runtime [topo_swell] = 169.569763 ms.
+
+
+
+
 Breadth-first Search by Xuhao Chen
 Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
 Removing redundent edges... 0 redundent edges are removed
@@ -33,178 +65,11 @@ Removing redundent edges... 0 redundent edges are removed
 This graph is symmetrized
 max_degree: 33313 source: 43607
 Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
-Breadth-first Search by Xuhao Chen
-Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
-Removing redundent edges... 0 redundent edges are removed
-|V| 3072441 |E| 234370166
-This graph is symmetrized
-max_degree: 33313 source: 43607
-Launching CUDA BFS solver (6001 CTAs, 512 threads/CTA) ...
+successful xformation
+opt time = 6902.583496
+	iterations = 7.
+	runtime [topo_swell] = 172.665863 ms.
+
+
+
+

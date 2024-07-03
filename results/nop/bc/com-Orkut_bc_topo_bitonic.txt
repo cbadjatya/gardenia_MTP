@@ -1,0 +1,90 @@
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+max_degree: 33313 source: 43607
+source : 43607
+Launching CUDA BC solver (6001 CTAs/SM, 512 threads/CTA) ...
+opt time = 1.912288
+	iterations = 7.
+Runtime = 587.747803
+
+
+Verifying...
+	iterations = 7.
+	max_score = 3072451.250000.
+	runtime [verify] = 3031.108000 ms.
+Correct
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+max_degree: 33313 source: 43607
+source : 43607
+Launching CUDA BC solver (6001 CTAs/SM, 512 threads/CTA) ...
+opt time = 2.054176
+	iterations = 7.
+Runtime = 613.116455
+
+
+Verifying...
+	iterations = 7.
+	max_score = 3072451.250000.
+	runtime [verify] = 3040.547000 ms.
+Correct
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+max_degree: 33313 source: 43607
+source : 43607
+Launching CUDA BC solver (6001 CTAs/SM, 512 threads/CTA) ...
+opt time = 2.047840
+	iterations = 7.
+Runtime = 593.679016
+
+
+Verifying...
+	iterations = 7.
+	max_score = 3072451.250000.
+	runtime [verify] = 3033.416000 ms.
+Correct
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+max_degree: 33313 source: 43607
+source : 43607
+Launching CUDA BC solver (6001 CTAs/SM, 512 threads/CTA) ...
+opt time = 2.049568
+	iterations = 7.
+Runtime = 600.760376
+
+
+Verifying...
+	iterations = 7.
+	max_score = 3072451.250000.
+	runtime [verify] = 3049.141000 ms.
+Correct
+Betweenness Centrality by Xuhao Chen
+Reading (.mtx) input file /lfs1/usrscratch/mtech/cs22m036/mtx/com-Orkut.mtx
+Removing redundent edges... 0 redundent edges are removed
+|V| 3072441 |E| 234370166
+This graph is symmetrized
+max_degree: 33313 source: 43607
+source : 43607
+Launching CUDA BC solver (6001 CTAs/SM, 512 threads/CTA) ...
+opt time = 2.043424
+	iterations = 7.
+Runtime = 611.215698
+
+
+Verifying...
+	iterations = 7.
+	max_score = 3072451.250000.
+	runtime [verify] = 3039.236000 ms.
+Correct
